@@ -1,0 +1,547 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Permanent+Marker|Julius+Sans+One');
+
+body {
+    margin: 0;
+    background-color: rgba(237,237,237,1);	
+}
+
+.pagina_container {
+    display: block;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 20px;
+    
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+}
+
+.pagina {
+    padding: 80px 16px 16px 16px;
+}
+
+.pagina_capa1, 
+.pagina_capa2,
+.pagina_capa3 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+
+.pagina_agradecimento {
+    background-color: rgb(145, 188, 191);
+    color: white;
+}
+
+.pagina_prefacio1 {
+    color: rgb(60, 60, 59);
+}
+
+.pagina_prefacio2 {
+    color: rgb(60, 60, 59);
+}
+
+.pagina_prefacio1 .titulo {
+    color: rgb(94, 72, 74);
+}
+
+.pagina_prefacio2 .titulo {
+    color: rgb(145, 188, 191);
+}
+
+.pagina_complementando {
+    background-color: rgb(94, 72, 74);
+    color: white;
+}
+.pagina_complementando .marcador_lista {
+    color: rgb(232, 165, 154);
+}
+
+.espaco {
+    height: 15em;
+}
+
+.pagina_background {
+    margin-left: -32px;
+    margin-right: -32px;
+    margin-bottom: -32px;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: right center; 
+    height: 100%;
+    min-height: 650px;
+}
+
+.ativo {
+    display: block;
+}
+
+.inativo {
+    display: none;
+}
+
+.continuo {
+    
+}
+
+.paragrafo,
+.chamada, 
+.citacao {
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    line-height: 40px;
+}
+
+.capitulo{
+    display: block;
+    font-size: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    line-height: 220px;
+    
+    background: rgba(255,255,255,0.7);
+    text-align: right;
+    color: #5E484A;
+    padding-right: 16px;
+        
+}
+
+.chamada {
+    display: block;
+}
+
+.chamada.complementando {
+    padding-right: 2em;
+    border: 7px solid white;
+    height: 300px;
+    position: relative;
+}
+
+.chamada.complementando .paragrafo {
+    position: absolute;
+    right: 32px;
+    bottom: 0;
+    font-size: 60px;
+}
+
+.chamada.destaque {
+    background-color: rgb(185, 109, 21);
+    color: white;
+    margin-left: -32px;
+    margin-right: -32px;
+    padding-top: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    text-align: justify;
+}
+
+.chamada.destaque2 {
+    color: white;
+    margin-left: -32px;
+    margin-right: -32px;
+    margin-top: 64px;
+    margin-bottom: 64px;
+    padding-top: 1em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+    text-align: justify;
+}
+
+.chamada.destaque2 .imagem {
+    margin-top: -50px;
+    width: 30%;
+    float: left;
+    max-width: 400px;
+    min-width: 300px;
+}
+
+.chamada.destaque2 .paragrafo {
+    text-align: right;
+    font-size: 20px;
+}
+
+.chamada.destaque2 .paragrafo.destaque2_aproximado {
+    margin-top: -40px;
+}
+
+.chamada.destaque2.fundoescuro {
+    background-color: rgb(94, 72, 74);
+}
+
+.chamada.destaque2.fundoclaro {
+    background-color: rgb(145, 188, 191);
+    min-height: 240px;
+}
+
+
+.chamada.aprofundando,
+.chamada.dicaleitura,
+.chamada.link,
+.chamada.saibamais {
+    font-size: 40px;
+    color: rgb(185, 109, 21);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 1.3em;
+    height: 100px;
+    background-size: 100px;
+}
+
+.chamada.aprofundando {
+    background-image: url(images/aprofundando.png);
+    color: rgb(145, 24, 36);
+}
+
+.chamada.dicaleitura {
+    background-image: url(images/dicaleitura.png);
+    color: rgb(232, 165, 154);
+}
+
+.chamada.link {
+    background-image: url(images/link.png);
+}
+
+.chamada.saibamais {
+    background-image: url(images/saibamais.png);
+    color: rgb(145, 188, 191)
+}
+
+.chamada .paragrafo{
+    text-indent: 80px;
+    padding-top: 25px;
+}
+
+.chamada.aprofundando .paragrafo,
+.chamada.dicaleitura .paragrafo,
+.chamada.link .paragrafo,
+.chamada.saibamais .paragrafo {
+    font-size: 40px;
+}
+
+
+
+.citacao {
+    text-align: justify;	
+    display: block;
+    padding-left: 20%;
+}
+
+.imagem {
+    width: 100%;
+}
+
+.marcador_lista {
+    padding-left: 2%;
+    padding-right: 5px;
+    
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.numero_pagina {
+    float: right;
+    z-index: 1;
+    /*display: block;*/
+    display: none;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: rgb(60, 60, 59);
+    line-height: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.paragrafo {
+    text-indent: 4em;
+    text-align: justify;	
+    display: block;
+}
+
+
+.paragrafo.texto_direita {
+    text-align: right;
+}
+
+.secao {
+    display: block;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Julius Sans One', sans-serif;
+    text-align: right;
+    border-right: rgb(50,50,49) solid 10px;
+    margin-top: 1em;
+    margin-top: 1em;
+    padding-right: 0.5em;
+}
+
+.titulo {
+    display: block;
+    font-size: 80px;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+    line-height: 110px;
+    text-align: right;
+}
+
+
+.link,
+.link:visited {
+    color: rgb(185, 109, 21);
+}
+
+.openpopup {
+    color: rgb(185, 109, 21);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.openpopup.aprofundando {
+    color: rgb(145, 24, 36);
+}
+
+.openpopup.dicaleitura {
+    color: rgb(232, 165, 154);
+}
+
+.openpopup.saibamais {
+    color: rgb(145, 188, 191);
+}
+
+
+
+
+/***** TABELA *******/
+
+.tabela_container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.tabela_container .controls {
+    margin-left: 2px;
+    margin-bottom: 5px;
+}
+
+.tabela_container .controls img {
+    cursor: pointer;
+}
+
+
+.tabela {
+    overflow-x: auto;
+}
+
+
+.tabela td {
+    padding: 5px;
+}
+
+.tabela thead .paragrafo {
+    text-indent: 0;
+    text-align: center;
+}
+
+.tabela tbody .paragrafo {
+    text-indent: 0;
+    text-align: left;
+}
+
+.intervencao .tabela .paragrafo{
+    color: white;
+}
+
+.intervencao .tabela thead td {
+    background-color: rgb(91, 58, 36);
+}
+
+.intervencao .tabela tbody tr.l1 td.c1,
+.intervencao .tabela tbody tr.l2 td.c1 {
+    background-color: rgb(139, 84, 48);
+}
+
+.intervencao .tabela tbody tr.l1 td.c2,
+.intervencao .tabela tbody tr.l2 td.c2 {
+    background-color: rgb(176, 114, 67);
+}
+
+.intervencao .tabela tbody tr.l1 td.c3,
+.intervencao .tabela tbody tr.l2 td.c3 {
+    background-color: rgb(191, 138, 95);
+}
+
+.intervencao .tabela tbody tr.l1 td.c4,
+.intervencao .tabela tbody tr.l2 td.c4 {
+    background-color: rgb(206, 166, 128);
+}
+
+
+
+
+
+/****** The Modal (background) ******/
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 3; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content-index,
+.modal-content {
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    width: 80%; /* Could be more or less, depending on screen size */
+    
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    max-height: 80%;
+    overflow: scroll;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    border: 1px solid #888;
+}
+
+.modal-content-index {
+    background-color: #5E484A;
+}
+
+/* The Close Button */
+.modal-close {
+    float: right;
+    width: 44px;
+}
+
+.modal-close:hover,
+.modal-close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/******** Indice ****/
+.indice_sumario {
+    display: block;
+    font-size: 60px;
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+    color: #fefefe;
+    line-height: 110px;
+}
+
+.indice_container {
+    display: block;
+}
+
+.indice_coluna {  
+    margin-bottom: 60px;
+}
+
+.indice_primeiro_nivel_pagina_container {
+    display: block;
+}
+
+.indice_primeiro_nivel_pagina {
+    color: #fefefe;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+    border-bottom: 5px solid #fefefe;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+.indice_primeiro_nivel_opcoes {
+    margin-left: 20px;
+    color: #fefefe;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.indice_primeiro_nivel_descricao {
+    display: block;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.indice_outro_nivel_descricao {
+    display: block;
+    cursor: pointer;
+    margin-top: 23px;
+}
+
+
+
+/******** Menu ******/
+.menu {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    z-index: 2;
+
+    position: fixed;
+    width: 100%;
+    height: 80px;
+}
+
+.menu-item {
+    float: left;
+    width: 10%
+}
+
+.menu-link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    cursor: pointer;
+    font-size: 3em;
+}
+
+.menu-link:ACTIVE {
+    background-color: #111;
+}
+
+/**** Youtube Videos ****/
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livro>
+    <titulo>123</titulo>
+    <pagina>
+        <numero>1</numero>
+        <capitulo>Capítulo 1</capitulo>
+        <indice nivel="1">Capítulo 1</indice>
+    </pagina>
+    <pagina>
+        <numero>2</numero>
+        <titulo>O que é o sus</titulo>        
+        <indice nivel="2">O que é o sus</indice>
+        <paragrafo>
+            <texto>Em síntese, a Saúde tem três dimensões: </texto>
+            <link url='http://www.uol.com.br'>estado vital</link>
+            <texto>, setor produtivo e área do saber. Diante delas, entende-se que o modo pelo qual as sociedades identificam problemas e necessidades de saúde, buscam a sua explicação e se organizam para enfrentá-los sofre influências econômicas, políticas e culturais. Assim, cada sociedade organiza o seu sistema de saúde de acordo com as suas crenças e valores, sob a influência de determinantes sociais.</texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>No caso da </texto>
+            <abrirpopup id='teste1'>sociedade brasileira</abrirpopup>
+            <texto>, o SUS tem sido organizado nas duas últimas décadas, apesar de as </texto>
+            <abrirpopup id='teste2'>ideias</abrirpopup>
+            <texto> em torno dessa proposta terem surgido há mais de trinta anos. Embora muitas pessoas tenham ouvido falar sobre o SUS, persistem dúvidas quanto ao seu significado e sua importância na garantia da saúde dos brasileiros.</texto>
+        </paragrafo>
+        <secao>Campanhas intersetoriais</secao>
+        <paragrafo>
+            <texto>Feitos esses esclarecimentos, na prática, quando usamos a expressão sistema de saúde geralmente estamos nos referindo ao sistema de serviços de saúde. Apenas em documentos técnicos e científicos esta distinção é mais valorizada.</texto>
+        </paragrafo>
+        <imagem url='http://fiocruz.clientes.lojainterativa.com/wp-content/uploads/2015/04/cartoon_pg18_correcao.jpg' />
+        <paragrafo>
+            <texto>Contudo, mesmo neste sistema de serviços de saúde é difícil verificar um objetivo único. Distintos propósitos se manifestam no seu interior e muitos interesses externos atravessam o sistema. Assim, o objetivo pode ser assegurar a saúde das pessoas, mas também gerar o lucro dos empresários e o emprego dos trabalhadores que atuam no sistema.</texto>
+        </paragrafo>
+        <youtube url='https://www.youtube.com/embed/4L5ujAqxJm8' />
+        <paragrafo>
+            <texto>Conciliar esse conjunto de objetivos e de interesses contraditórios é um dos grandes desafios dos sistemas de saúde em todo o mundo. Por isso, a noção de sistema é útil para denominar esse conjunto de coisas e descrever as relações entre as partes, mas insuficiente para analisar a sua história e explicar seus problemas e desafios. Nesse caso, o conhecimento da política, da economia, da história e da cultura de cada sociedade é fundamental tanto para compreender as dificuldades e impasses como para identificar oportunidades e buscar alternativas.</texto>
+        </paragrafo>
+        <popup id='teste1'>
+            <paragrafo>
+                <texto>Veja a imagem abaixo:</texto>
+            </paragrafo>
+            <imagem url='http://fiocruz.clientes.lojainterativa.com/wp-content/uploads/2015/04/cartoon_pg18_correcao.jpg' />
+            <paragrafo>
+                <texto>Entendeu do que se trata?</texto>
+            </paragrafo>
+        </popup>
+
+        <popup id='teste2'>
+            <paragrafo>
+                <texto>Oi!</texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>Meu nome é Luiz!</texto>
+            </paragrafo>
+        </popup>
+
+    </pagina>
+    <pagina>
+        <numero>3</numero>
+        <capitulo>Capítulo 2</capitulo>
+        <indice nivel="1">Capítulo 2</indice>
+    </pagina>
+    <pagina>
+        <numero>4</numero>
+        <titulo>Início do capítulo 2</titulo>
+        <indice nivel="2">Início do capítulo 2</indice>
+        <paragrafo>
+            <texto>Em síntese, a Saúde tem três dimensões: </texto>
+            <link url='http://www.uol.com.br'>estado vital</link>
+            <texto>, setor produtivo e área do saber. Diante delas, entende-se que o modo pelo qual as sociedades identificam problemas e necessidades de saúde, buscam a sua explicação e se organizam para enfrentá-los sofre influências econômicas, políticas e culturais. Assim, cada sociedade organiza o seu sistema de saúde de acordo com as suas crenças e valores, sob a influência de determinantes sociais.</texto>
+        </paragrafo>
+    </pagina>
+</livro>
+
