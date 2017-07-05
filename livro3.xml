@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livro>
+    <titulo>Diagnóstico Participativo: o método DRPE</titulo>
+    
+    <!-- capas -->
+    <pagina estilo="pagina_capa1">        
+        <numero>1</numero>
+        <indice nivel="1">Capa</indice>
+        <imagem url="images/capa1.png" />
+    </pagina>
+    <pagina estilo="pagina_capa2">        
+        <numero>2</numero>
+        <imagem url="images/capa2.png" />
+    </pagina>
+    <pagina estilo="pagina_capa3">
+        <numero>3</numero>
+        <imagem url="images/capa3.png" />
+    </pagina>
+
+    
+    
+    <!-- AGRADECIMENTOS -->
+    <pagina estilo="pagina_agradecimento">
+        <numero>4</numero>
+        <titulo>Agradecimentos</titulo>
+        <indice nivel="1">Agradecimentos</indice>
+        <paragrafo>
+            <texto> 
+                Agradeço à Fundação de Amparo à Pesquisa do Estado de Minas Gerais (FAPEMIG), por financiar a edição desta obra por meio do Programa Pesquisador Mineiro (PPM), com o projeto 591-CSA PPM-00225/14. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Sou imensamente grato a todos os estudantes que participaram das equipes do Diagnóstico Rápido Participativo Emancipador (DRPE) ao longo dos anos que trabalhei com esse método, em diferentes épocas e contextos, e que hoje são colegas de profissão nas universidades, instituições de pesquisa, instituições públicas, organizações sociais. Aprendi muito com cada um de vocês, por isso sintam-se presentes em cada parte deste livro. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Agradeço mais uma vez aos colegas Marcelo Leles Ramarco de Oliveira e Natália Lelis, por relatar suas experiências nos vídeos que compõem esta obra. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                A todos os principais atores sociais mencionados neste livro: os trabalhadores rurais sem terra; os agricultores familiares e camponeses de todo o Brasil; os atingidos por barragens; os associados às diversas cooperativas populares e de agricultores e associações de bairro; as famílias de comunidades rurais; e aqueles com quem tive a oportunidade de conviver e me relacionar durante a realização do DRPE. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                À professora Mônica Castagna Molina, por proporcionar uma exitosa experiência de convívio profissional e parceria com a Universidade Federal de Viçosa (UFV), o Grupo de Trabalho de Reforma Agrária da Universidade de Brasília (UnB) e a EMBRAPA Cerrados na realização dos Planos de Desenvolvimento de Assentamentos Rurais (PDAs) no Noroeste de Minas Gerais. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Aos técnicos do Instituto Nacional de Colonização e Reforma Agrária (INCRA) de várias superintendências do nordeste ao sul do Brasil, por nos apoiar na logística e durante a realização dos diagnósticos, especialmente à SR-28. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                A todos os estudantes que, ao realizar o curso do DRPE, questionaram o método e sobre ele dialogaram, contribuindo para minha reflexão acerca do aperfeiçoamento das técnicas participativas. Em especial, aos estudantes − bolsistas, orientados de iniciação científica, mestrado e doutorado − que passaram pelas incubadoras tecnológicas de cooperativas populares, ITCP-UFV e INCUBACOOP-UFLA, por utilizar o método aprendido em outros contextos. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                À professora France Maria Gontijo Coelho, pelas reflexões extensionistas na utilização do método em assentamentos rurais e em sua disciplina de Extensão Rural para estudantes de ciências agrárias. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Aos amigos Flávio Marques Castanho Barrero e Helder Ribeiro Freitas, por colaborar com várias reflexões sobre as práticas do DRPE em contextos de reassentamento de atingidos por barragens e de assentamentos rurais.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                À Claudia Leal Estevão e à Denise Aparecida Bunn, pela excelente receptividade, sensibilidade e criatividade ao propor a redação e o formato desta obra, bem como pelo excelente trabalho profissional na edição deste livro. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Ao meu amigo e respeitado professor, Fernando Guilherme Tenório, pelo honroso prefácio e pela sugestão do título; e à professora Wânia Rezende Silva, amiga de longa data e dedicada aos estudos de sociologia, extensão rural e desenvolvimento, também pelo prefácio deste livro. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Enfim, a todos que contribuíram direta ou indiretamente para que este trabalho fosse possível.
+            </texto>
+        </paragrafo>        
+    </pagina>
+    
+    <!-- PREFÁCIO 1-->
+    <pagina estilo="pagina_prefacio1">
+        <numero>10</numero>
+        <titulo>Prefácio</titulo>
+        <indice nivel="1">Prefácios</indice>
+        <indice nivel="2">Prefácio Tenório</indice>
+        <paragrafo>
+            <texto> 
+                Prefaciar significa apresentar a obra de uma pessoa de reconhecida competência e autoridade em determinado assunto. É justamente o que aqui pretendo, neste preâmbulo, uma vez que o autor em referência, José Roberto Pereira, não somente é reconhecida autoridade no assunto como é professor, pesquisador e extensionista compromissado com a
+            </texto>
+            <italico>res pública.</italico>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Conheci José Roberto por intermédio de velhos amigos oriundos da Universidade Federal de Lavras (UFLA), instituição de ensino da qual faz parte o professor. Lembro-me bem, lá se vão 20 anos, que as apresentações ocorreram em um desses eventos acadêmicos nos quais periodicamente circulamos para justificar, perante nossos pares e instituições que nos financiam, a nossa existência funcional. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                De imediato, chamou minha atenção, quando a ele fui apresentado, a lucidez da interpretação que ele fazia de um tema que, na ocasião, início dos anos 1990, começava a ser debatido: gestão social. Desde então surgiu uma afinidade eletiva que me tem proporcionado um processo de perene aprendizado sempre que juntos desenvolvemos atividades de ensino, projetos de pesquisa e/ou de extensão universitária. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Portanto, o tema de que trata o presente livro, que acredito será uma referência nacional, quiçá continental, uma vez que Zé Roberto circula pelo nosso Abya Ayla, contribuirá, sobremaneira, para “instrumentalizar” o conceito de gestão social à semelhança de outras racionalidades, como o orçamento-participativo, o planejamento participativo, a pesquisa-ação e o presente Diagnóstico Rápido Participativo Emancipador (DRPE).
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Quando no parágrafo anterior coloquei a palavra instrumentalizar entre aspas, o fiz propositalmente, uma vez que um dos supostos fundamentais do conceito de gestão social é o de não expor, 
+            </texto>
+            <italico>a priori,</italico>
+            <texto>
+                qualquer tipo de racionalidade instrumental. Porém, o DRPE tem como pressuposto metodológico a participação da coletividade que vivenciará, conjuntamente com a equipe interdisciplinar, o processo de diagnóstico.  
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Desse modo, a proposta que o professor José Roberto emite nesta obra guarda coerência com o conceito de gestão social na medida em que o método DRPE subordina a sua utilização à necessidade de a equipe estimuladora do método o operacionalizar 
+            </texto>
+            <italico>
+                “[...] colocando-se em termos de igualdade e respeito no que se refere ao diálogo [com o coletivo], no sentido de cada um transitar e reconhecer o conhecimento do outro para construir novos conhecimentos”.
+            </italico>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Reconhecer o conhecimento do outro é admitir que o alter possa expor a sua razão, visto que esse substantivo é um dos princípios básicos da prática em gestão social e seus atores devem tecer o seu julgamento com o objetivo de atender à justiça social, ao bem comum, portanto atender ao ethos republicano. Ethos infelizmente ausente de modo predominante no cotidiano da vida nacional.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Assim, o método DRPE promove a descrição e/ou qualificação do problema a ser analisado partindo do suposto, diferencial em relação a outros métodos investigativos, que o “paciente não deve ser curado”, pois em se tratando de patologias sociais, não é o paciente que deve ser tratado, mas a sociedade que deve ser higienizada. E uma sociedade, uma comunidade, um território, um grupo somente são saudáveis se todos os concernidos participam, dialogicamente, do processo. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Participar dialogicamente de um processo é apontar, por meio da razão, as contradições impostas pela sociedade, ou melhor, originadas nos interesses que governam a sociedade. Por isso, implementar um processo de diagnose preliminarmente assentado na racionalidade comunicativa em interação com uma prática pedagógica incentivadora da consciência crítica é desejar a emancipação, e é isso o que propõe o método divulgado pelo professor José Roberto Pereira. Boa leitura...
+            </texto>
+        </paragrafo>
+
+
+        <chamada estilo="destaque2 fundoescuro">
+            <imagem url="images/tenorio.png" />
+            <paragrafo>
+                <texto>Fernando Guilherme Tenório</texto>
+            </paragrafo>
+            <paragrafo estilo="destaque2_aproximado">
+                <texto>Professor Titular</texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>Escola Brasileira de Administração Pública e de Empresas (EBAPE/FGV)</texto>
+            </paragrafo>
+        </chamada>
+    </pagina>
+    
+
+
+
+
+
+    <!-- PREFÁCIO 2 -->
+    <pagina estilo="pagina_prefacio2">
+        <numero>15</numero>
+        <titulo>Prefácio</titulo>
+        <indice nivel="2">Prefácio Wânia</indice>
+
+        <paragrafo>
+            <texto> 
+                Uma obra publicada é mais uma janela que se abre à reflexão, ao conhecimento e, em algumas situações especiais, ao compartilhar de ideias e princípios de alcance inenarrável. É assim que penso a respeito do presente livro.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                O autor José Roberto Pereira, que é professor, pesquisador, extensionista e escritor, tem sido, sobretudo, um transformador de realidades em busca de uma sociedade justa e sustentável. Sua visão holística do ser e da ciência está presente em suas escrituras – artigos científicos, livros, ensaios – e na sua trajetória de vida. É nesse entrelace de vivência pessoal, teoria e campo que foi construído o Diagnóstico Rápido Participativo Emancipador (DRPE).
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Ao longo de mais de duas décadas, o autor tem experienciado formas de se conhecer e trabalhar distintas organizações, associações e agrupamentos, e aqui ele nos apresenta o aprimoramento de todo esse percurso. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Inicialmente discute o porquê da necessidade de uma metodologia de abordagem e intervenção que não seja tutorial e que tenha a capacidade de promover a participação e o comprometimento por parte dos envolvidos. José Roberto levanta questões sobre outras estratégias existentes relacionadas a diagnóticos participativos e analisa as principais categorias teóricas fundantes do DRPE como democracias representativa, participativa e deliberativa e ação comunicativa. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Partindo dessa compreensão teórico-científica do método, são retratadas as experiências de campo. A riqueza de detalhes e a honestidade da reflexão dão ao leitor a certeza da viabilidade e confiabilidade do uso de tal método. Problemas vividos na execução dos trabalhos desenvolvidos são explorados no sentido de alertar novas equipes – ação rara no mundo acadêmico-científico.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Cada técnica que compõe o DRPE é narrada minuciosamente a partir dos casos selecionados proporcionando uma visão de conjunto que, em vez de amarrar a leitura, traz mais curiosidades e indagações. As seções sobre Calendário Sazonal – Rio, Terra e Criações –, Caminhada Transversal e Matriz Realidade e Objetivo são exemplos vivos dessa habilidade de coadunar detalhe e objetividade. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Além da escrita fluida, a obra nos brinda com fotografias, desenhos e mapas construídos pelas mãos dos envolvidos e sem dúvida alguma transcende o objetivo principal: apresentar ao leitor reflexões teóricas sobre as práticas do DRPE. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Para os desavisados que acreditam que o trabalho de campo é meramente ir e que a metodologia qualitativa é um sopro poético, sem fidedignidade e validade, esta deveria ser uma obra de cabeceira. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Imperioso também dizer que a criação do DRPE é emancipadora, pois implica o exercício da cidadania e da democracia. Todos os sujeitos, equipe e organizações viverão o desafio de dar voz e ouvir – ouvir para entender, ouvir para compartilhar, ouvir para transformar e, principalmente, para ser. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Este é um livro que recomendo a professores, alunos, técnicos e outros que precisam e desejam entender mais sobre as agruras e os prazeres do processo de pesquisa e extensão. Aqui, a teoria orienta e o campo revela.
+            </texto>
+        </paragrafo>
+
+
+        <chamada estilo="destaque2 fundoclaro">
+            <imagem url="images/wania.png" />
+            <paragrafo>
+                <texto>Wânia Rezende Silva</texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>Professora da Universidade Estadual de Maringá (UEM)</texto>
+            </paragrafo>
+        </chamada>
+    </pagina>
+
+    
+    
+    
+    
+    <!-- Introducao -->
+    <pagina imagemfundo="introducao.png">
+        <numero>16</numero>
+        <capitulo>Introdução</capitulo>
+        <indice nivel="1">Introdução</indice>
+    </pagina>
+    <pagina>
+        <numero>17</numero>
+        <secao>Introdução</secao>
+        <indice nivel="2">Introdução</indice>
+        <youtube url="//www.youtube.com/embed/4L5ujAqxJm8" />
+        <paragrafo>
+            <texto> 
+                É muito comum a procura por métodos de diagnóstico para o chamado Desenvolvimento Organizacional, que tem como pressuposto a necessidade de treinamento e desenvolvimento de pessoal, envolvendo a realização de cursos, palestras, campanhas de melhoria da qualidade de vida, treinamentos para elevar a motivação do funcionário e aumentar sua produtividade no trabalho, entre outros. Tais métodos geralmente utilizam questionários fechados para coletar dados ou adotam estratégias para diagnosticar e solucionar problemas, estabelecendo relações de causa e efeito, no sentido de melhorar o “clima organizacional”. A maior limitação desses métodos é que definem 
+            </texto>
+            <italico>a priori</italico>
+            <texto>
+                e de forma superficial os problemas a ser solucionados, ou seja, a intervenção na realidade é “tutorial”. Nesse sentido, o agente externo à organização é quem levanta os problemas e as suas causas e apresenta as soluções. A participação dos membros da organização é limitada a assistir à apresentação do agente. Esses métodos de diagnóstico acabam por paralisar a realidade em certo momento, como se fosse uma fotografia, e procuram captar apenas situações domesticadas. Em geral, eles se baseiam na abordagem funcionalista de diagnosticar a realidade organizacional.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Para diagnosticar a realidade de uma organização, de uma comunidade, de pequenos grupos ou de uma coletividade na perspectiva da gestão social ou de uma gestão democrática, de mudança organizacional e de desenvolvimento sustentável, é necessário utilizar métodos de diagnóstico participativo fundamentados em processos dialógicos de transformação da realidade. Nesse sentido, os Diagnósticos Rápidos Participativos (DRPs) são apropriados. Eles foram desenvolvidos e utilizados  na década de 1970  por organizações não governamentais (ONGs) e governamentais europeias que trabalhavam em projetos de desenvolvimento rural em países da África e Ásia. A origem dos DRPs deve-se às críticas generalizadas aos métodos convencionais de diagnóstico e pesquisa, representados, principalmente, pelo método de tipo 
+            </texto>
+            <italico>survey</italico>
+            <texto>
+                . Os técnicos então passaram a procurar novas formas de realizar pesquisas, que possibilitassem a difusão de tecnologias e o planejamento de projetos de desenvolvimento rural, com vistas a evitar o aumento da pobreza rural e a manutenção das desigualdades sociais e do 
+            </texto>
+            <italico>status quo</italico>
+            <texto>
+                das lideranças locais, como bem criticou Chambers (1987) a postura dos chamados “agentes externos”. Foi com esse intuito que surgiu o conhecido Rapid Rural Appraisal (RRA), no final da década de 1970, caracterizado pela produção de resultados rápidos e pelo uso conjugado de técnicas de pesquisa. A rapidez dos resultados dos diagnósticos foi alvo de críticas na década de 1980 e, com isso, os técnicos e pesquisadores das agências de desenvolvimento passaram a enfocar o aspecto participativo do método sem, contudo, considerar o menor tempo possível. Assim, a partir dos anos de 1990, esse método de diagnóstico passou a ser chamado de “Diagnóstico Rural Participativo”, considerado por Chambers (1992) como um meio de a população local refletir sobre sua própria realidade e seus conhecimentos no sentido de superar problemas e alcançar possíveis soluções, planejando e agindo. Partindo desse pressuposto, a  elaboração do Diagnóstico Rápido Participativo Emancipador (DRPE) se fundamenta na perspectiva da teoria crítica, especialmente na perspectiva habermasiana, nos escritos de educação dialógica de Paulo Freire, nos métodos participativos baseados nas práticas metodológicas de agentes de extensão e em minha experiência com a pesquisa científica, com a extensão universitária e com as práticas metodológicas de campo em áreas de assentamentos rurais, em cooperativas e associações, ao longo de mais de duas décadas.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                O DRPE foi um método amplamente utilizado na complexa realidade dos assentamentos rurais da Reforma Agrária no Brasil, em organizações cooperativas, em associações de bairros e, mais recentemente, em empreendimentos de economia solidária. Sua metodologia é composta de uma conjugação de técnicas de caráter participativo que permite obter informações qualitativas e quantitativas em curto espaço de tempo. Constitui um instrumento metodológico de identificação de problemas, suas causas e possíveis soluções a partir da ação comunicativa dialógica entre os próprios participantes, com o intuito de alcançar um consenso entre eles.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                O DRPE não se caracteriza, essencialmente, como uma “pesquisa-ação” ou uma “pesquisa participante”, pois conta com a presença de uma equipe interdisciplinar, externa à organização, na utilização de técnicas participativas, mas se vale desses métodos no processo de diagnóstico e na construção das intersubjetividades. No DRPE, o papel principal da equipe interdisciplinar é orientar os participantes a identificar seus próprios problemas, suas causas e possíveis soluções, reconhecendo suas demandas dentro de um princípio de alteridade dialogal. Dessa forma, o enfoque participativo desse método está alicerçado no saber, nas aspirações e na capacidade criativa dos participantes, além do envolvimento de outros atores sociais. Portanto, ocorre, no processo metodológico do DRPE, uma ação comunicativa dialógica que provoca o comprometimento entre os atores sociais envolvidos, dando ao diagnóstico o caráter de início de um processo de desenvolvimento participativo que não deve ser interrompido, a ponto de colocar em risco seus objetivos. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                O caráter interdisciplinar da equipe externa à organização possibilita a interação dialógica com os participantes em correspondência a diversos aspectos de sua realidade socioeconômica, política, cultural e ambiental, tornando possível que seus diferentes problemas sejam captados, compreendidos, registrados e comunicados, adequadamente, porque cada membro da equipe “transita” em diferentes áreas do conhecimento científico em diálogo com o conhecimento gerado pela experiência, com o saber popular. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Em termos gerais, os objetivos do DRPE estão voltados para as bases de um processo de conscientização dos participantes que lhes permita se mover de uma situação de dependência ou tutorial para uma situação sustentada e emancipada, na perspectiva da educação dialógica de Paulo Freire (1987), assunto a ser desenvolvido mais à frente nesta obra.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Especificamente, destacam-se os seguintes objetivos do DRPE:
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <marcadorlista />
+            <texto> 
+                identificar e analisar os temas geradores dos participantes, motivando-os metodologicamente a problematizar sua própria realidade, com a finalidade de estabelecer suas prioridades, avaliando as ações que eles mesmos podem realizar e aquelas que caberiam às instituições locais, estaduais e federais;
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <marcadorlista />
+            <texto> 
+                levantar informações de natureza qualitativa e quantitativa a fim de elaborar estratégias de ação para os próprios participantes; e
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <marcadorlista />
+            <texto> 
+                identificar limitações e potencialidades estruturais de organização dos participantes da ação.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                A meta global da emancipação somente poderá ser alcançada se os próprios participantes estabelecerem relações com seu meio social, cultural, econômico, político e ambiental que se sustentem no tempo. Como o DRPE constitui a base para a elaboração de Planejamentos Participativos e Planos de Desenvolvimento Sustentável, o tema “sustentabilidade ambiental” torna-se outro eixo de atenção desse método. Por isso, surge um quarto objetivo do DRPE:  identificar a compreensão e as práticas culturais que os participantes expressam sobre suas relações com a natureza.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Com base nessas considerações iniciais é que se estabelece o objetivo desta obra, qual seja, proporcionar ao leitor os resultados de reflexões teóricas sobre as práticas metodológicas do DRPE. Para tal, este livro está organizado, além desta 
+            </texto>
+            <negrito>Introdução</negrito>
+            <texto>, em quatro capítulos: o primeiro, </texto>
+            <negrito>Reflexões sobre os Contextos das Práticas Metodológicas</negrito>
+            <texto>, discute os aspectos relevantes de influência dos diferentes contextos sobre a utilização do método; o segundo, </texto>
+            <negrito>Democracia, Ação Comunicativa e Educação Dialógica</negrito>
+            <texto>, trata dos fundamentos teóricos do método, ressaltando as contribuições conceituais de democracia representativa, participativa e deliberativa, bem como da ação comunicativa de Habermas e do processo de educação dialógica de Paulo Freire; o terceiro, </texto>
+            <negrito>Processo Metodológico do DRPE e seus Fundamentos</negrito>
+            <texto>, expõe o processo de formação da equipe interdisciplinar, a sua relevância na utilização do método e os seus principais fundamentos metodológicos, ressaltando o caráter circular do processo metodológico à semelhança da pesquisa qualitativa, e orienta sobre a estrutura de organização ideal do Relatório Final, que deve ser pensado e planejado com antecedência à realização do método; e o quarto, </texto>
+            <negrito>Práticas Metodológicas do DRPE</negrito>
+            <texto>, apresenta, detalhadamente, cada uma das técnicas utilizadas que compõem o método, analisando as possibilidades de sua utilização e os caminhos possíveis de interpretação e fazendo uso de exemplos práticos.</texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Tanto na versão impressa quanto na versão 
+            </texto>
+            <italico>e-book</italico>
+            <texto>
+                desta obra, são disponibilizados recursos audiovisuais que apresentam o DRPE na interpretação de pesquisadores e extensionistas que tiveram a oportunidade de participar, em situações e épocas diferentes, das práticas metodológicas nos trabalhos em campo.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto> 
+                Por fim, esta obra não é um tutorial sobre a utilização do DRPE, logo não substitui a capacitação formal da equipe interdisciplinar que irá utilizá-lo.
+            </texto>
+        </paragrafo>
+    
+    </pagina>
+
+
+ 
+    <!-- CAPITULO 1 -->
+    <pagina imagemfundo="capitulo1.png">
+        <numero>40</numero>
+        <capitulo>Capítulo 1</capitulo>
+        <indice nivel="1">Capítulo 1</indice>
+    </pagina>
+    <pagina>
+        <numero>41</numero>
+        <secao>Reflexões sobre os contextos das práticas metodológicas</secao>
+        <indice nivel="2">Reflexões sobre os contextos das práticas metodológicas</indice>
+        <youtube url="//www.youtube.com/embed/5Kf_svy96Vc" />
+        <paragrafo>
+            <texto>
+                O DRPE foi utilizado em cinco diferentes contextos, situações e objetivos. No primeiro contexto, o método foi utilizado com o objetivo de coletar informações para a elaboração de “Planos de Consolidação e Emancipação” de assentamentos rurais, pelo Programa INCRA-BID (BR 0274), em 10 assentamentos distribuídos em sete estados da Federação, ao longo do ano de 1997. A exigência do Programa, em especial a do Banco Interamericano de Desenvolvimento (BID), era de que seriam financiadas as demandas dos assentados nas áreas sociais e de produção, o que garantiria o sucesso de seus investimentos. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Foram organizadas, inicialmente, três equipes constituídas por estudantes de graduação que conheciam e haviam aplicado algumas técnicas de DRP, cada uma supervisionada por um estudante de pós-graduação em sociologia, antropologia e geografia agrária. Uma equipe foi para as Regiões Sul e Sudeste, diagnosticando três assentamentos: um em Minas Gerais, um no estado do Paraná e outro no Rio Grande do Sul. A segunda equipe foi para a Região Centro-Oeste e diagnosticou um assentamento em Mato Grosso do Sul e dois em Mato Grosso. A terceira equipe foi para a Região Nordeste, onde diagnosticou dois assentamentos no Rio Grande do Norte e dois no Maranhão. 
+            </texto>
+        </paragrafo>
+    </pagina>
+    <pagina>
+        <paragrafo>
+            <texto>
+                Nesse contexto, a quantidade e a qualidade das informações obtidas variaram de equipe para equipe, observando-se maiores dificuldades no momento de sistematização e redação dos relatórios. No momento de aplicação das técnicas, os “animadores”, aqueles que conduziam a aplicação das técnicas de dinâmica de grupo, exaltavam sua posição, chegando a imitar a linguagem e certos gestos dos assentados, no intuito de conseguir maior aproximação. Entretanto, esse tipo de atitude dificultou a obtenção de informações de qualidade, porque as possíveis reflexões críticas dos assentados sobre sua própria realidade perderam-se em meio às atividades lúdicas. No momento de elaboração dos relatórios, os membros das equipes demonstraram grande dificuldade de redação pela falta de conhecimento teórico e histórico sobre os “temas geradores” abordados pelos assentados e expressaram, indevidamente, julgamentos de valor sobre tais temas. Essas dificuldades, que afloraram nesse contexto, associadas à falta de definição da estrutura e conteúdo do “Plano de Consolidação e Emancipação” dos assentamentos, levaram as equipes de planejadores do Programa INCRA-BID a conferir algumas informações e a coletar outras, de forma complementar.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No segundo contexto, deu-se continuidade, em 1998, aos objetivos do contexto anterior, mas a composição de duas novas equipes contou com a presença de estudantes de pós-graduação que tinham experiência em pesquisa de campo e na área técnico-profissional. Além disso, os supervisores das equipes anteriores passaram a compor e coordenar as novas equipes. A experiência do contexto anterior associada à experiência de pesquisa de campo das novas equipes viabilizou a obtenção de informações de qualidade e a elaboração mais crítica dos relatórios. Outro aspecto que facilitou a utilização da metodologia, neste segundo contexto, foi a definição clara da estrutura do “Plano”, o que deixou claro também o tipo de informação desejada. Nesse novo contexto, foram realizados diagnósticos em mais dez assentamentos nas mesmas regiões anteriores. 
+            </texto>
+        </paragrafo>
+    </pagina>
+    <pagina>
+        <numero>45</numero>
+        <paragrafo>
+            <texto>O terceiro contexto de aplicabilidade do </texto>
+            <abrirpopup id='POPUP_DRPE'>DRPE</abrirpopup>
+            <texto> foi desenvolvido em parceria com a Universidade de Brasília, por meio dos integrantes do Grupo de Trabalho da Reforma Agrária (GTRA), e a Universidade Federal de Viçosa, por meio da participação de estudantes de vários cursos de graduação e de mestrado em Extensão Rural sob minha orientação. Neste contexto, o DRPE foi utilizado em doze assentamentos rurais da área de abrangência da Superintendência do INCRA do Entorno do Distrito Federal (SR 28). A finalidade foi elaborar Planos de Desenvolvimento dos Assentamentos (PDAs) e avaliar os limites e as possibilidades do DRPE para a construção de um conhecimento que permitisse ao mesmo tempo tratar da realidade dos assentamentos em sua complexidade e ser devidamente apropriado pelos assentados, seus coprodutores. Na elaboração desses PDAs foi utilizado, além do DRPE, o </texto>
+            <abrirpopup id="POPUP_MAPP" estilo="saibamais">Método Altadir de Planejamento Popular (MAPP).</abrirpopup>
+            <texto> Esse trabalho foi realizado por </texto>
+            <abrirpopup id="POPUP_APROFUNDANDO_TRES_EQUIPES" estilo="aprofundando">três equipes</abrirpopup>
+            <texto> coordenadas por profissionais com experiência na utilização de metodologias qualitativas em assentamentos, observando-se também a interdisciplinaridade dos coordenadores.</texto>
+        </paragrafo>
+        
+        <paragrafo>
+            <texto>
+                É importante ressaltar que, nesse contexto, foram organizados e ofertados vários cursos sobre o método para estudantes de graduação e de pós-graduação da Universidade Federal de Viçosa, de várias áreas de conhecimento científico. Assim, as equipes que participaram das práticas metodológicas nas áreas de assentamentos rurais foram capacitadas para usar o DRPE e o MAPP e acompanhadas diretamente por minha supervisão. Foi um contexto muito rico de troca de experiências dentro das equipes interdisciplinares, com diálogos constantes em vários momentos, antes, durante e depois do processo de realização do DRPE. Um desses momentos de avaliação do trabalho da própria equipe foi gravado na forma de vídeo.
+            </texto>
+        </paragrafo>
+        
+        <popup id="POPUP_DRPE">
+            <chamada estilo="link">
+                <paragrafo>
+                    <texto>Link</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Vale ressaltar que o DRPE foi utilizado como um dos métodos de pesquisa da minha tese de doutorado intitulada “De camponeses a membros do MST: os novos produtores rurais e sua organização social”, disponível em: </texto>
+                <link>solicitarendereço</link>
+                <texto>. Acesso em: 3 dez. 2016.</texto>
+            </paragrafo>
+        </popup>
+        <popup id="POPUP_MAPP">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba Mais</texto>
+                </paragrafo>
+            </chamada>
+            <paragrafo>
+                <texto>O objetivo do MAPP é identificar e selecionar os problemas que as organizações consideram mais relevantes, para hierarquizá-los e definir maneiras de enfrentá-los com os meios ao seu alcance. Fonte: Klausmeyer e Ramalho (1985, p. 29−40).</texto>
+            </paragrafo>
+        </popup>
+        <popup id="POPUP_APROFUNDANDO_TRES_EQUIPES">
+            <chamada estilo="aprofundando">
+                <paragrafo>
+                    <texto>Aprofundando</texto>
+                </paragrafo>
+            </chamada>
+            <paragrafo>
+                <texto>A primeira equipe foi coordenada por um consultor do INCRA (SR 28), formado em agronomia, com mestrado em economia agrícola e com larga experiência em métodos participativos de planejamento em assentamentos rurais do nordeste brasileiro. A segunda equipe foi coordenada por uma professora da USP, da área de geografia agrária, com experiência anterior na utilização do DRPE. A terceira equipe foi coordenada por mim. </texto>
+            </paragrafo>
+        </popup>
+    </pagina>
+    <pagina>
+        <paragrafo>
+            <texto>
+                A partir dos resultados obtidos nessa experiência com o DRPE, algumas reflexões críticas podem ser apresentadas. Por um lado, a equipe interdisciplinar obteve grande quantidade de informações qualitativas e quantitativas da situação dos assentados no que diz respeito a vários aspectos de suas vidas, como trajetória de vida; alfabetização e escolaridade dos assentados; organização do trabalho e da produção; avaliação das instituições ou das organizações pelos assentados que atuam ou não no assentamento. Essas informações foram obtidas por meio de técnicas que facilitaram o diálogo e a compreensão entre a equipe interdisciplinar e os assentados. Nesse sentido, a prática metodológica foi eficiente na coleta de informações, mas não se pode dizer, ainda, se foi eficiente e eficaz, por si só, como meio educativo. Por outro lado, as informações coletadas foram mais do que suficientes para a elaboração dos Planos de Desenvolvimento dos Assentamentos (PEREIRA et al., 2001). A avaliação é de que a continuidade do processo é essencial para garantir o caráter educativo iniciado com a prática metodológica do DRPE e do MAPP.
+            </texto>
+        </paragrafo>
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>A utilização do DRPE como instrumento metodológico de ação de grupos mediadores em assentamentos rurais pode abrir espaço para redefinir as “visões mediadoras” desses grupos, uma vez que os resultados obtidos pela utilização do método podem disciplinar o uso de recursos destinados aos assentamentos e potencializar esforços para o desenvolvimento sustentável dos trabalhadores rurais assentados</texto>
+            </paragrafo>
+        </chamada>
+        <paragrafo>
+            <texto>
+                De posse dos resultados da utilização do DRPE, tomando-se como base o tempo, o espaço e o contexto em que foi realizado, podem-se estabelecer critérios qualitativos e quantitativos de avaliação de um programa ou plano de desenvolvimento de assentamentos. Tais critérios devem se fundamentar nos quadros de referências dos “temas geradores” que delimitaram as potencialidades e limitações dos assentados. Para a elaboração dos critérios de avaliação, é importante considerar a conjugação dos “temas geradores” que compõem o universo temático dos assentados. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Definida as condições satisfatórias de sustentabilidade, pode-se proceder a uma classificação dos assentamentos em diferentes categorias, com o objetivo de “orientar” a escolha de novos assentamentos a serem trabalhados, o acompanhamento e o controle do processo de intervenção de determinado programa ou plano de desenvolvimento. Tal classificação tem como pressuposto básico o fato de que os assentamentos partem de pontos diferenciados de condições sociais, políticas, econômicas e ambientais. Com base nessa classificação, a equipe de intervenção do programa ou do plano de desenvolvimento poderá tomar decisões estratégicas, definir metas, recursos e prazos, de comum acordo com os assentados, de forma que as demandas apresentadas sejam efetivamente realizadas dentro das condições financeiras, de pessoal e material de que dispõe o programa dentro dos limites da política pública.
+            </texto>
+        </paragrafo>
+    </pagina>
+    <pagina>
+        <paragrafo>
+            <texto>
+                Portanto, os resultados do DRPE podem servir de base para avaliação de programas ou planos de desenvolvimento de assentamentos desde que seja realizado, periodicamente (anualmente, por exemplo), no mesmo local. Dessa forma, têm-se elementos comparativos de análise ao longo de um dado horizonte de tempo para avaliar as metas e os objetivos estabelecidos inicialmente. Entretanto, vale ressaltar, que não se deve superestimar a utilidade desse método, colocando-o como instrumento para resolver todos os problemas encontrados. É apenas um método de intervenção educativa e participativa que pode iniciar um processo de conscientização das pessoas e servir de recurso avaliativo de programas de políticas públicas.
+            </texto>            
+        </paragrafo>
+        <paragrafo>
+            <texto>Além disso, vale considerar outro resultado relevante desse terceiro contexto de aplicação do DRPE, proporcionado aos integrantes das equipes interdisciplinares, a realização de pesquisa em assentamentos rurais no âmbito do </texto>
+            <abrirpopup id="POPUP_MESTRADO" estilo="dicaleitura">mestrado em Extensão Rural da Universidade Federal de Viçosa.</abrirpopup>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No quarto contexto de análise, o método DRPE foi também utilizado em cooperativa e associações comunitárias rurais, no âmbito de um projeto de extensão universitária.  Com a Cooperativa dos Cafeicultores e Agropecuaristas (COCAPEC), sediada no município de Franca, estado de São Paulo, o DRPE foi utilizado em um processo de educação cooperativista, tendo como objetivo a organização do quadro social, em 2003. A área de atuação da cooperativa engloba os municípios de Claraval e Capetinga, no estado de Minas Gerais, e Pedregulho e Franca, no estado de São Paulo. O diagnóstico foi realizado com os associados localizados no município de Claraval, Minas Gerais, a partir de um debate participativo em torno da realidade da comunidade, o que gerou mudanças na ação comunicativa desse grupo social diante da direção da cooperativa, levando os associados a assumir a postura de “cidadãos cooperativistas”.
+            </texto>
+        </paragrafo>
+        <popup id="POPUP_MESTRADO">
+            <chamada estilo="dicaleitura">
+                <paragrafo>
+                    <texto>Dica de Leitura</texto>
+                </paragrafo>
+            </chamada>
+            <paragrafo>
+                <texto>O DRPE “abriu as portas” para a elaboração de quatro dissertações de mestrado no âmbito do terceiro contexto de aplicação do DRPE, a saber: “Dentro do Roçado e Perto dos Vizinhos: moradias no Assentamento Vereda I”, de Cláudia Aparecida Romeiro d'Ávila; “Trajetórias de Migrantes para Brasília e assentamentos rurais: o caso do Vereda I”, de Marcelo Leles Romarco de Oliveira; “Cultura local e metodologias participativas em assentamentos rurais: o caso de Brinco de Ouro”, de Cláudia Medeiros Suassuna; e “Residência agrária: troca de saberes para um projeto camponês e universitário”, de Maria Inês Escobar da Costa.</texto>
+            </paragrafo>
+        </popup>
+        <paragrafo>
+            <texto>
+                Entre 2003 e 2004, o DRPE foi realizado em dois locais diferentes: o primeiro no Vale do Jequetinhona, por ocasião de uma consultoria para o Fundo Cristão para Crianças (FCC); e o segundo no município de Santa Cruz do Escalvado, também em Minas Gerais, para o movimento de atingidos por barragens. Em 2003, os diagnósticos foram realizados em associações comunitárias vinculadas ao FCC nos seguintes municípios e comunidades no Vale do Jequitinhonha: Córrego da Velha, Malhada Branca, Água Limpa, Alto Caititu e a Escola Família Agrícola. Essas comunidades estão localizadas em quatro municípios: Araçuaí, Virgem da Lapa, Berilo e Francisco Badaró. O principal objetivo do DRPE foi o de orientar as ações das famílias dessas comunidades para a consolidação do desenvolvimento comunitário e a captação de recursos para execussão de projetos com instituições financiadoras como ONGs, institituições de iniciativa privada, órgãos públicos e com os próprios parceiros. Os resultados desse trabalho mostram que as soluções dos problemas identificados nas comunidades por meio do DRPE deveriam ser buscados pelos seus representantes eleitos, tendo como sugestão a redefinição do papel político institucional do FCC nas comunidades assistidas, no sentido de transformar a intervenção tutorial realizada até então em uma intervenção educativa e participativa.
+            </texto>
+        </paragrafo>
+    </pagina>
+    <pagina>
+        <numero>46</numero>
+        <indice nivel="2">Tabela</indice>
+        <paragrafo>
+            <texto>Em 2004, uma rica experiência foi realizada com os atingidos pela construção da usina hidrelétrica Risoleta Neves, conhecida como barragem “Candonga”, nome do consórcio entre a antiga Companhia Vale do Rio Doce e a ALCAN. O diagnóstico participativo foi realizado nas comunidades de São Sebastião do Soberbo e Novo Soberbo, município de Santa Cruz do Escalvado, estado de Minas Gerais, entre os dias 19 e 23 de janeiro de 2004. O objetivo principal da realização do DRPE, foi levantar as demandas das famílias atingidas, como ponto de partida para a realização de um planejamento participativo que contemplasse a reativação econômica da comunidade. A maioria das famílias atingidas participou de todas as etapas do processo do diagnóstico, por meio de técnicas que lhes possibilitaram expressar seus problemas, suas potencialidades e perspectivas em relação ao reassentamento. Pelos resultados obtidos, ficou clara a seriedade com que a comunidade desejava resolver seus problemas com o Consórcio. A terra para reassentamento foi considerada prioritária pela coletividade porque, na avaliação das famílias envolvidas, seria um patrimônio que lhes daria segurança e sustentabilidade no longo prazo. No entanto, a partir da entrega do relatório ao prefeito municipal e à comunidade, o conflito se ampliou entre a comunidade atingida e o consórcio empresarial. O relatório do DRPE foi enviado para o Conselho de Direitos Humanos da Organização das Nações Unidas (ONU) e para o Ministério Público como prova de uma denúncia de desrespeito aos direitos humanos apresentada pelo Movimento dos Atingidos por Barragens (MAB). Esse conflito e a referência ao relatório DRPE foram noticiados em uma </texto>
+            <abrirpopup id="POPUP_MATERIA_2004" estilo="aprofundando">matéria publicada no Jornal Folha de São Paulo em 2004.</abrirpopup>
+            <texto> É importante observar o desdobramento político da publicação do relatório como documento em que se baseou a ação comunicativa e o engajamento cívico da comunidade no sentido de garantir o cumprimento dos seus direitos de cidadania.</texto>
+        </paragrafo>
+        <tabela estilo="intervencao">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Forma de intervenção</negrito>                  
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Unidade social para a ação</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Papel do agente externo</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Papel dos membros do grupo</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha estilo="l1">
+                    <celula estilo="c1">
+                        <paragrafo>
+                            <texto>Convencional</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="c2">
+                        <paragrafo>
+                            <texto>Comunidade não diferenciada</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="c3">
+                        <paragrafo>
+                            <texto>Tutorial</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Diagnosticar (identificar os problemas e suas causas).</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Estabelecer os meios para solucioná-los.</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Avaliar as ações executadas.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="c4">
+                        <paragrafo>
+                            <texto>Passivo</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>Executar as ações prescritas pelo agente externo.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha estilo="l2">
+                    <celula estilo="c1">
+                        <paragrafo>
+                            <texto>Participativa</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="c2">
+                        <paragrafo>
+                            <texto>Grupos com interesses comuns</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="c3">
+                        <paragrafo>
+                            <texto>Educacional</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Identificar grupos com interesses comuns</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Promover a organização inicial do grupo.</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Orientar na identificação dos problemas.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="c4">
+                        <paragrafo>
+                            <texto>Ativo</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Diagnosticar (identificar os problemas e suas causas).</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Estabelecer os meios para solucioná-los.</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <marcadorlista />
+                            <texto>Avaliar as ações executadas e buscar novos caminhos, se necessário.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        <popup id="POPUP_MATERIA_2004">
+            <chamada estilo="aprofundando">
+                <paragrafo>
+                    <texto>Aprofundando</texto>
+                </paragrafo>
+            </chamada>
+            <paragrafo>
+                <texto>A íntegra da reportagem “ONG denuncia violação de direitos de atingidos por barragem em MG”, escrita por Thiago Guimarães, pode ser conferida  em: </texto>
+                <link url="http://www1.folha.uol.com.br/folha/brasil/ult96u65639.shtml">http://www1.folha.uol.com.br/folha/brasil/ult96u65639.shtml</link>
+                <texto>. Acesso em: 3 dez. 2016.</texto>
+            </paragrafo>
+        </popup>
+    </pagina>
+    <pagina>
+        <paragrafo>
+            <texto>
+                O quinto contexto de experiência com o método DRPE foi realizado no âmbito da incubação de empreendimentos de economia solidária desenvolvida pela Incubadora Tecnológica de Cooperativas Populares (INCUBACOOP) da Universidade Federal de Lavras (UFLA), a partir de 2006. A INCUBACOOP-UFLA assumiu o DRPE como método oficial de incubação de empreendimentos de economia solidária, seja na forma de associação ou de cooperativa. Em 2010, foi publicada uma cartilha em quadrinhos explicativa sobre o trabalho da INCUBACOOP, em que consta o DRPE como método de incubação, o qual constitui
+            </texto>
+        </paragrafo>
+        <citacao>
+            [...] o ponto de partida de reflexão e conscientização dos membros do grupo quanto às condições de potencialidades e limitações para constituir uma cooperativa. Os resultados do DRPE são a base para a elaboração do planejamento participativo e do plano de negócios, bem como para a consolidação da identidade e da organização inicial do grupo. (INCUBACOOP, 2010, p. 9).
+        </citacao>
+        <paragrafo>
+            <texto>
+                Nesse contexto, foram organizados e ofertados vários cursos sobre DRPE para estudantes de graduação de várias áreas do conhecimento científico e de pós-graduação em administração e administração pública da UFLA. Como resultado, foram publicados artigos e resumos expandidos em encontros e congressos científicos para divulgação do método no processo de incubação de associações e cooperativas. Os resultados mostram que o método tem contribuído para promover a conscientização dos trabalhadores desempregados e com trabalho precarizado; que a sua organização, por meio do trabalho solidário, e a sua profissionalização, por meio da aquisição de conhecimentos técnicos atualizados, podem ajudá-los a superar seus problemas e a atender aos interesses coletivos. Metodologicamente, para cada DRPE realizado, a equipe interdisciplinar elabora um relatório específico que é devolvido à coletividade para ser apresentado e debatido, dando continuidade ao processo educativo, e servir de base à etapa seguinte do Planjeamento Participativo e do Plano de Negócios para a constituição e/ou o fortalecimento de associações e cooperativas.
+            </texto>
+        </paragrafo>
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>As reflexões sobre esses diferentes contextos, locais e situações ao longo de mais de duas décadas de trabalho mostram que os resultados do DRPE contribuem efetivamente para as práticas de democracia no âmbito das relações sociais e interinstitucionais e as transformações das práticas culturais autoritárias em práticas culturais participativas que valorizam e reconhecem os direitos individuais e humanos, bem como proporcionam o fortalecimento das organizações sociais comprometidas com os interesses públicos não estatais. Em termos gerais, contribui para a formação democrática da sociedade brasileira.</texto>
+            </paragrafo>
+        </chamada>
+    </pagina>
+    <pagina estilo="pagina_complementando">
+        <numero>48</numero>
+        <indice nivel="2">Complementando</indice>
+        <chamada estilo="complementando">
+            <paragrafo>
+                <texto>Complementando</texto>
+            </paragrafo>
+        </chamada>
+        <paragrafo>
+            <texto>
+                Confira os trabalhos publicados sobre DRPE como método de incubação de associações e cooperativas:
+            </texto>
+        </paragrafo>
+        
+        <paragrafo>
+            <marcadorlista />
+            <negrito>Diagnóstico Rápido Participativo Emancipador como Tecnologia Social para a Economia Solidária e a Gestão Social</negrito>
+            <texto>, de Érica A. Marques, J. C. Machado, José Roberto Pereira e L. M. Bicalho, apresentado no I Seminário Nacional de Economia Solidária e Tecnologia Social, em Ponta Grossa-PR, 2014.</texto>
+        </paragrafo>
+        <paragrafo>
+            <marcadorlista />
+            <negrito>Intervenção Participativa em Empreendimentos Econômicos Solidários</negrito>
+            <texto>, de D. D. Norberto, L. M. Bicalho e José Roberto Pereira, apresentado no IX Congresso de Extensão da UFLA, em 2014.</texto>
+        </paragrafo>
+        <paragrafo>
+            <marcadorlista />
+            <negrito>Diagnostico Rápido Participativo Emancipador uma Tecnologia Social Inovadora</negrito>
+            <texto>, de Érica A. Marques, J. C. Machado, T. S. Teixeira e José Roberto Pereira, apresentado no IX Congresso de Extensão da UFLA, em 2014.</texto>
+        </paragrafo>
+        <paragrafo>
+            <marcadorlista />
+            <negrito>Diagnóstico Rápido Participativo Emancipador (DRPE) como metodologia de intervenção educativa e participativa na formação de cooperativas de catadores</negrito>
+            <texto>, de L. M. Bicalho, José Roberto Pereira, Érica A. Marques e J. C. Machado, no Encontro Nacional Conhecimento e Tecnologia: Inclusão Socioeconômica de Catadores (as) de Materiais Recicláveis, em Brasília-DF, 2014.</texto>
+        </paragrafo>
+        <paragrafo>
+            <marcadorlista />
+            <negrito>Social Intervention and Collective Action in the Process of Recycling at Lavras City, Minas Gerais State Brazil</negrito>
+            <texto>, de E. E. Sila, E. Zwick, José Roberto Pererira, L. M. Bicalho, K. C. P. Silva e L. C. Oliveira, apresentado no The ISWA World Solid Waste Congress, em Florença, Itália, em 2012.</texto>
+        </paragrafo>
+    </pagina>
+    
+</livro>

@@ -4,7 +4,7 @@ spl_autoload_register(function ($class_name) {
     include $class_name . '.class.php';
 });
 
-$book = new Book\Parser("livro2.xml", 1);
+$book = new Book\Parser("livro3.xml", 1);
 
 $html = $book->all();
 ?>
