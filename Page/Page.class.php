@@ -52,6 +52,9 @@ class Page extends GeneralContent {
                     if ($this->indexMaker)
                         $this->indexMaker->add($this->pageNumber, new Index($child));
                     break;
+                case "lista":
+                    $e = new OrderedList($child);
+                    break;
 
                 case "numero":
                     $e = new PageNumber($child);
@@ -70,6 +73,10 @@ class Page extends GeneralContent {
 
                 case "secao":
                     $e = new Section($child);
+                    break;
+
+                case "subsecao":
+                    $e = new Subsection($child);
                     break;
                 
                 case "tabela":
