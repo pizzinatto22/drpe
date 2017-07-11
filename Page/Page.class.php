@@ -79,6 +79,10 @@ class Page extends GeneralContent {
                     $e = new Subsection($child);
                     break;
                 
+                case "subsubsecao":
+                    $e = new Subsubsection($child);
+                    break;
+                
                 case "tabela":
                     $e = new Table($child);
                     break;
