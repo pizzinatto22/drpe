@@ -1743,9 +1743,1706 @@
     </pagina>
     
     <!-- Capítulo 4 -->
-    <pagina>
-        
+    <pagina imagemfundo="capitulo4.png">
+        <numero>400</numero>
+        <capitulo>Capítulo 4</capitulo>
+        <indice nivel="1">Capítulo 4</indice>
     </pagina>
+    <pagina>
+        <numero>401</numero>
+        <secao>Práticas Metodológicas do DRPE</secao>
+        <indice nivel="2">Práticas Metodológicas do DRPE</indice>
+        
+        <paragrafo>
+            <texto>
+                As práticas metodológicas apresentadas neste Capítulo estão baseadas na utilização de cada uma das técnicas participativas que compõem o DRPE. Essas técnicas se alinham aos princípios da proposta emancipadora, quando a dimensão sociopolítica é estimulada na troca de visões de mundo e nas análises dos significados dos conceitos e valores dominados pelos atores sociais e pela coletividade. A sequência de apresentação das técnicas segue uma estratégia metodológica de aproximação sucessiva e cumulativa em relação à realidade que se quer conhecer e intervir de forma educativa e participativa, problematizando-a por meio da identificação do universo de temas geradores dos participantes.
+            </texto>
+        </paragrafo>
+        
+        <subsecao>Apresentação da Equipe Interdisciplinar</subsecao>
+        <indice nivel="3">Apresentação da Equipe Interdisciplinar</indice>
+        <paragrafo>
+            <texto>
+                A apresentação da equipe não é uma tarefa simples no âmbito do DRPE, como se fosse apenas uma visita. Ela tem o propósito de aproximar a equipe interdisciplinar dos membros da coletividade em um curto espaço de tempo. A equipe deve pedir licença a cada família para realizar o diagnóstico em seu local de trabalho, apresentar cada um dos membros, apresentar e explicar as atividades do diagnóstico e pedir que cada um dos participantes se apresente falando o nome. Na sequência, depois da concordância da coletividade em realizar o diagnóstico, a equipe solicita aos participantes que cada um fale a sua idade, o seu estado civil, a sua ocupação, o número de filhos e de dependentes, entre outras informações, sempre considerando o número de membros da coletividade presente, como pode ser observado na Fotografia 1. Se for um número maior do que 60 pessoas, essa atividade torna-se cansativa, sendo recomendável realizá-la em pequenos grupos.
+            </texto>
+        </paragrafo>
+        
+        <paragrafo>
+            <texto>
+                A apresentação da equipe e dos membros da coletividade deve ser orientada pelos princípios éticos que caracterizam os três planos da alteridade: axiológico, epistemológico e praxiológico. Assim, a dupla apresentação da equipe e dos membros da coletividade deve expressar o compromisso profissional com o diagnóstico a ser realizado, o compromisso com a verdade, o respeito mútuo, o respeito às diferenças e ao conhecimento e à experiência dos membros da coletividade. Essa apresentação serve para estabelecer um pacto ou mesmo um contrato informal entre as partes para a realização do diagnóstico, proporcionando o início de um processo dialógico que deve permanecer durante todo o trabalho. Nesse momento, os observadores anotadores da equipe devem estar atentos para ouvir e escrever fielmente as falas dos membros da coletividade. 
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                A apresentação dos membros de uma dada coletividade pode ser registrada conforme estes exemplos: 
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>Senhor A e Senhora D: têm duas filhas (Roberta, 11 anos, e Mariana, 8) e estão na luta pela terra há 2 anos e 3 meses. O senhor A nasceu no Maranhão e sua última residência foi em Ceilândia. Trabalhou de eletricista, em fazendas e chácaras no DF. Tem dificuldade de arranjar emprego por causa da idade. Ficou sabendo do Projeto de Assentamento (PA) pelo INCRA.</texto>
+            </item>
+            <item>
+                <texto>Dona Maria: divorciada há 12 anos, tem oito filhos, mas somente um, Sandro, deficiente (mental), mora no PA. Nasceu em Itambacurí-MG. Ficou sabendo em Taboquinha, cidade próxima a Padre Bernardo, que a Ivanilde estava fazendo cadastramento para um pedaço de terra. Junto com ela veio um grupo de mais ou menos 100 pessoas.</texto>
+            </item>
+            <item>
+                <texto>Senhor Barriga: casado (com Olinda), pai de cinco filhos. Tem três pessoas morando com ele no PA, inclusive um filho adotivo (Damião Lopes da Silva), nasceu no Ceará e sua última residência foi em Planaltina de Goiás. Foi caminhoneiro, trabalhou de meeiro durante 12 anos. Tem dificuldade de arranjar emprego por causa da idade. Ficou sabendo do PA através de um vizinho do acampamento do MST há mais ou menos 2 anos.</texto>
+            </item>
+            <item>
+                <texto>Zé Mineiro: divorciado, tem 4 filhos, mas está morando sozinho. Nasceu em Unaí-MG e sua última residência foi em Brasília, DF. Trabalhou como meeiro, empregado temporário e como jardineiro no DF. Ficou sabendo do PA através do rádio e veio procurar o MST “as pessoas do movimento”.</texto>
+            </item>
+            <item>
+                <texto>Tuiuiu: casado, pai de 3 filhos (a filha mais velha tem 16 anos e o Júnior tem problema de audição). Nasceu em Pedreiras-MA, onde trabalhou como feirante. Sua última residência foi em Brasília, DF, onde trabalhou como ajudante de retífica de carros. Ficou desempregado por motivo de saúde. Soube do movimento através de amigos do PA Boa Vista e esta há mais ou menos 3 anos na região.</texto>
+            </item>
+            <item>
+                <texto>Bastião: solteiro, mora sozinho, porém a mãe é sua dependente. Nasceu em Santa Maria-TO, onde trabalhava em fazendas; sua última residência foi no Estado de Goiás; ficou sabendo da reforma agrária através de parentes.</texto>
+            </item>
+            <item>
+                <texto>Senhora K e Senhor W: o casal tem 2 filhos pequenos; ela veio de Unaí-MG e ficou conhecendo o acampamento através da mãe e da irmã, assentadas no PA Buritis; e veio para lutar por um pedaço de terra. </texto>
+            </item>
+            <item>
+                <texto>Senhor L: solteiro, mineiro de Uruana. Trabalhava de lavrador para os outros, ficou sabendo do acampamento através do tio, que é assentado no PA Buritis.</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                O conteúdo das informações obtido no momento da apresentação expressa a trajetória de vida de cada indivíduo e de sua família, seus laços de amizade e de parentesco, a motivação de estar presente na coletividade, a experiência de trabalho (saber fazer), as habilidades e competências, e as possíveis expectativas com os resultados do DRPE, além de informações de caráter histórico de formação dos grupos sociais. Todas essas informações devem ser obtidas seguindo um roteiro de questões elaborado com base no quadro de referência dos temas geradores da coletividade, construído previamente com base no levantamento de informações secundárias feito pela equipe interdisciplinar.
+            </texto>
+        </paragrafo>
+        
+        <subsecao>Mapeamento Histórico</subsecao>
+        <indice nivel="3">Mapeamento Histórico</indice>
+
+        
+        <paragrafo>
+            <texto>
+                O objetivo do mapeamento histórico é desenhar o mapa do local onde reside e/ou trabalha a coletividade, na percepção de seus atores sociais participantes, e descrever a situação histórica das paisagens anteriores, bem como da futura paisagem imaginada por eles. Deve-se incentivar algum membro do grupo a iniciar o traçado, de forma que outras pessoas também participem, desenhando ou descrevendo a paisagem, expressando o máximo possível de informações sobre a situação atual e a situação futura. É por meio dessa técnica que os participantes indicam os principais lugares que serão visitados pela equipe interdisciplinar, por ocasião da realização da técnica seguinte, a “caminhada transversal”, quando são captadas as fotografias, gravados os vídeos e desenhadas as paisagens, complementando as informações levantadas no mapeamento histórico.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                O mapa desenhado coletivamente pelos próprios participantes representa os detalhes de toda a área de residência e/ou de trabalho e um estímulo à reflexão de cada um em relação à sua própria realidade ao ser visualizada a sua situação e a de seus vizinhos. A equipe interdisciplinar poderá comparar o mapa desenhado pelos participantes com algum mapa oficial anterior e assim obter informações ricas para análise e interpretação da realidade local. Os procedimentos de utilização dessa técnica podem ser verificados na descrição do processo de mapeamento feito por uma equipe interdisciplinar experiente, em um assentamento rural.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para compreender melhor a lógica de ocupação do espaço em cada lote, ou “chácara”, de um assentamento rural e para discutir com a coletividade o planejamento de toda a área, a equipe interdisciplinar amplia um mapa oficial parcelado, fornecido pelo INCRA, e o recorta em partes correspondentes às chácaras individuais, conforme a Figura 4. 
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                Cada família recebe a sua “parte” e recolhe materiais como sementes, folhas, penas, pedras e flores para representar os elementos do meio ambiente existentes em sua área, no planejamento de utilização da sua chácara. Depois de cada parte montada, a família apresenta seu projeto para todos os participantes, de forma que todas as famílias possam conhecer o planejamento uma da outra e visualizar no mapa a projeção da produção e localização das moradias, estradas, rede elétrica, áreas comuns e vizinhança. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No assentamento Cachoeira, no município de Uruanã de Minas, por exemplo, depois de apresentado o mapa, uma discussão na coletividade sobre o melhor caminho para a passagem da “rede tronco” de energia elétrica apontou a alternativa de seguir um alinhamento no fundo dos lotes da mata que continuasse pelo “eixão” (estrada principal projetada no mapa). No entanto, a coletividade acabou concluindo que a rede deveria passar pela estrada principal projetada no mapa. As projeções de parte e final do mapa podem ser observadas nas Fotografias 2 e 3, e as explicações de cada um sobre a paisagem futura da sua chácara podem ser conferidas no Quadro 5.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                Vale ressaltar a discussão sobre a localização das casas nos lotes e suas implicações, como a questão da rede elétrica, que foi levantada pela equipe interdisciplinar. Outros aspectos sobre a forma como a coletividade percebeu o espaço do assentamento podem ser observados na Figura 5.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Um aspecto importante a ser avaliado no processo de construção do mapa futuro é a relação de proporção entre a área parcelada e a área de reserva (em geral, representada apenas pela expressão “área de reserva” – isso não acontece nas áreas de veredas e nascentes). Também não aparecem os elementos construídos: edifícios da área comunitária, antiga sede da fazenda, casas. Aparecem apenas linhas delimitando espaços com as expressões “área comunitária”, “área da sede velha”, lote 1 etc.  Essas características mostram a relação simbólica que a coletividade tem com os espaços do assentamento, ao definir os limites das áreas, as veredas, as nascentes, o local do futuro poço artesiano. As nascentes e o poço, pelo grande valor prático e simbólico da água; as veredas e a cachoeira, pelo forte impacto visual; os limites, pela função básica de demarcar espaços individuais e torná-los mais legíveis. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No conjunto, esses aspectos compõem a imagem do local e a identidade criada, as quais têm por elemento fundamental, nesse caso, a terra. Esse é o elemento mais importante, definido pelos seus limites e pelo nome de cada um deles. Além disso, há outros três aspectos a considerar em relação à terra: 
+            </texto>
+        </paragrafo>
+        <lista esitlo="alfabetica">
+            <item>
+                <texto>é mais importante do que as coisas que tem nela – no mapa não aparecem construções, vegetação, plantação, nada é representado nos lotes além dos limites e dos nomes dos assentados; </texto>
+            </item>
+            <item>
+                <texto>é mais importante do que as áreas de reserva e a área comum – ambas estão representadas proporcionalmente bem menores do que são na realidade; e</texto>
+            </item>
+            <item>
+                <texto>é tão importante que foi refeita parte do mapa porque alguns assentados tiveram receio de que a sua chácara não fosse caber nele ou ficasse muito pequena.</texto>
+            </item>
+        </lista>
+
+        
+                
+                        
+                                
+                                                
+        <subsecao>Caminhada Transversal</subsecao>
+        <indice nivel="3">Caminhada Transversal</indice>
+        <paragrafo>
+            <texto>
+                Essa técnica é complementar à técnica do mapeamento histórico e consiste em percorrer transversalmente o maior diâmetro possível da área objeto do diagnóstico. A equipe interdisciplinar, sempre acompanhada de pequenos grupos que conheçam bem a área, fazem a caminhada observando os aspectos previamente definidos no quadro de referência de temas geradores, de forma a captar os elementos da história do lugar, a situação presente e a situação desejada pela coletividade. O objetivo é levantar informações detalhadas, de preferência fotografando os lugares considerados pela coletividade como sendo críticos ou que representam problemas a superar, a exemplo do que foi realizado na comunidade de São Sebastião do Soberbo, em Minas Gerais, conforme mostra a Fotografia 4. 
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                No momento de fazer o mapeamento, a equipe interdisciplinar deve definir com a coletividade o percurso a ser feito no local, dividi-la em pequenos grupos e, durante a caminhada, descrever o percurso de forma textual e gráfica, como é ilustrado na Figura 6.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Em assentamentos e comunidades rurais, normalmente utiliza-se a caminhada transversal para descrever tecnicamente a paisagem e as características socioambientais, como ilustrado na Figura 7. Durante a caminhada transversal, a equipe interdisciplinar deve explorar as informações que ainda não foram obtidas na técnica do mapeamento histórico, tendo como referência os temas geradores da coletividade.
+            </texto>
+        </paragrafo>
+        
+        <subsecao>Diagrama de Venn</subsecao>
+        <indice nivel="3">Diagrama de Venn</indice>
+        <paragrafo>
+            <texto>
+                Essa técnica consiste na representação gráfica – em forma de círculos ou “bolas” – e na interpretação da coletividade da importância e atuação de organizações, entidades ou instituições presentes em suas vidas cotidianas, tendo como referência a própria organização que a representa. Mas a representação gráfica por si só não é o objetivo do Diagrama de Venn, o que se procura é estimular o diálogo entre a equipe e os participantes e entre os próprios participantes em torno dos temas geradores que expressam a realidade na qual vivem, possibilitando à coletividade compreender melhor a sua forma de organização (associação, cooperativa, sindicato, instituição pública, entre outras) diante de outras organizações no contexto em que atua. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Portanto, o objetivo dessa técnica é identificar e avaliar organizações públicas e privadas que têm importância e atuação sobre a coletividade em foco, na interpretação dos próprios participantes do diagnóstico. 
+            </texto>
+        </paragrafo>
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>
+                    No diagrama de Venn, considera-se “importância” como um atributo qualitativo que é o resultado da intersubjetividade dos participantes, no sentido da potencialidade das organizações em análise para transformar a vida da coletividade, ou seja, expressa o reconhecimento do interesse público daquela organização. Já “atuação” é um atributo objetivo em que cada participante verifica a presença e as ações da organização em análise voltadas para a coletividade, no sentido de uma interação intensa entre elas. 
+                </texto>
+            </paragrafo>
+        </chamada>
+        <paragrafo>
+            <texto>
+                Para sua correta utilização, essa técnica possui alguns passos para avaliar a importância das organizações externas à coletividade em foco, quais sejam:
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <paragrafo>
+                <texto>
+                    pedir aos participantes que listem as organizações que têm importância para eles;
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    desenhar a organização que representa os participantes na forma de um círculo, no centro do quadro ou espaço utilizado;
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    pedir a um participante que desenhe o círculo da primeira organização da lista, tomando como referência o tamanho do círculo da organização que o representa, explicando que quanto maior for o tamanho do círculo, maior será a importância da organização em análise, e quanto menor for o círculo (sempre em relação ao círculo da organização que o representa), menor será a importância atribuída por ele;
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    perguntar ao participante que desenhou o círculo o porquê daquele tamanho (maior ou menor);
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    estimular a reflexão da coletividade e a participação de outros membros, de forma que também atribuam tamanho de círculo para a organização em análise, criando um ambiente de crítica coletiva em relação ao tema gerador; e
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    anotar as falas e os argumentos apresentados sobre as razões da importância da organização.
+                </texto>
+            </paragrafo>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                Do mesmo modo, essa técnica possui meios para avaliar a atuação das organizações no contexto da coletividade. Assim, depois do diálogo em torno da primeira organização sobre a sua importância, passa-se a discutir a atuação dela considerando os seguintes passos:
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>solicitar a um participante que movimente o círculo da organização em análise em relação à posição da sua organização, que é a referência central, explicando que quanto maior for a distância do círculo da organização em análise em relação ao círculo da organização que representa a coletividade, menor será a atuação daquela organização, e quanto menor a distância, maior será a atuação, podendo haver intersecção ou mesmo união dos círculos, expressando intensa atuação;</texto>
+            </item>
+            <item>
+                <texto>estimular as reflexões de todos os participantes ao questionar as razões da distância atribuída; </texto>
+            </item>
+            <item>
+                <texto>estimular o debate entre os participantes;</texto>
+            </item>
+            <item>
+                <texto>fotografar e copiar o desenho com a configuração final (tamanho e posição das bolas); e</texto>
+            </item>
+            <item>
+                <texto>anotar as falas e os argumentos apresentados.</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Os resultados do Diagrama de Venn são valiosos para o planjemanto participativo e para a definição de estratégias da coletivade no que diz respeito à solidariedade e a possíveis parcerias entre as organizações, bem como para a gestão social dos processos que envolvem a coletividade e as organizações que atuam em seu contexto. Além disso, o desenvolvimento dessa técnica constitui um processo de conscientização individual e coletiva, ao proporcionar um diálogo aberto para a troca de informações e conhecimentos entre equipe interdisciplinar e coletividade em foco, em relação à amplitude e às limitações da organização que os representa no contexto local, nacional e internacional, no sentido de os próprios participantes identificarem problemas, suas causas e possíveis soluções. 
+            </texto>
+        </paragrafo>
+        
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>
+                    Os resultados obtidos com o Diagrama de Venn permitem uma avaliação das potencialidades e limitações, bem como das oportunidades e das ameaças da organização que representa a coletividade em foco. 
+                </texto>
+            </paragrafo>
+        </chamada>
+        <paragrafo>
+            <texto>
+                Para ilustrar o funcionamento dessa técnica, apresentam-se os exemplos práticos de uma cooperativa e um assentamento rural. O primeiro diz respeito à Cooperativa dos Cafeicultores e Pecuaristas (COCAPEC), sediada no município de Franca, no estado de São Paulo. Nesse exemplo, as organizações que apresentaram importância para os associados da cooperativa localizados em uma comunidade rural do município de Claraval, Minas Gerais, são:
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>Cooperativa de Crédito Rural COCAPEC (CREDICOCAPEC).</texto>
+            </item>
+            <item>
+                <texto>Bancos.</texto>
+            </item>
+            <item>
+                <texto>Indústria de insumos.</texto>
+            </item>
+            <item>
+                <texto>Bolsa de Valores.</texto>
+            </item>
+            <item>
+                <texto>Governo Federal.</texto>
+            </item>
+            <item>
+                <texto>Organização das Cooperativas do Estado de São Paulo (OCESP).</texto>
+            </item>
+            <item>
+                <texto>Organização das Cooperativas Brasileiras (OCB).</texto>
+            </item>
+            <item>
+                <texto>Prefeitura.</texto>
+            </item>
+            <item>
+                <texto>Indústria de máquinas.</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                Tomando-se como referência o tamanho do círculo da COCAPEC, foi pedido aos participantes que desenhassem o primeiro círculo representativo da importância da CREDICOCAPEP e de todas as outras organizações listadas. Na sequência, foram discutidas a importância e a atuação de cada uma das organizações, e a configuração delas está representada na Figura 8.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A avaliação feita da CREDICOCAPEC pelos participantes caracteriza bem o que a comunidade pensa sobre a cooperativa de crédito:
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“O banco é importante porque é fácil para a gente trabalhar”. (Avaliação 1)</texto>
+            </item>
+            <item>
+                <texto>“Nenhum outro banco trata o cooperado igual ao banco da cooperativa”. (Avaliação 2)</texto>
+            </item>
+            <item>
+                <texto>“Tamanho do banco igual ao da COCAPEC porque a cooperativa não sobrevive sem o banco e nem o    banco sem a cooperativa”. (Avaliação 3)</texto>
+            </item>
+            <item>
+                <texto>“A credicocapec foi criada para complementar.” (Avaliação 4)</texto>
+            </item>
+            <item>
+                <texto>“Às vezes, o banco traz mais benefícios do que a cooperativa.” (Avaliação 5) 	</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                Quanto à atuação da CREDICOCAPEC, houve consenso, mas a importância exigiu que fosse realizada uma votação entre duas opções.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Já a relação dos bancos com a cooperativa foi criticada, principalmente sobre os financiamentos, o que fez com que os cooperados percebessem, na cooperativa de crédito, uma opção mais viável. Por isso, a atuação dos bancos ficou distante e sua importância foi considerada de menor proporção do que a da CREDICOCAPEC.
+            </texto>
+        </paragrafo>
+        <lista>
+           <item>
+               <texto>“Menor do que a COCAPEC”. (Avaliação 6)</texto>
+           </item>
+           <item>
+               <texto>“Do lado de fora”. (Avaliação 7)</texto>
+           </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                A avaliação da atuação do banco exigiu que houvesse votação entre três posições, enquanto a importância colocada teve a aprovação de todos.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A realização do Diagrama de Venn motivou intensa participação dos cooperados, que foram estimulados a se posicionar sobre a forma como percebem as organizações que interagem com a cooperativa. Os posicionamentos pessoais, embora demonstrassem divergências, não chegaram a ser antagônicos, havendo compatibilidade principalmente no que diz respeito à CREDICOCAPEC e ao Governo Federal. Ambos foram descritos como imprescindíveis para a cooperativa, sendo bem reconhecida a atuação da primeira e criticada a quase inexistente atuação do segundo.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os resultados possibilitaram identificar a falta de informação dos associados sobre algumas organizações, como a Organização das Cooperativas Brasileiras (OCB) e a Organização das Cooperativas do Estado de São Paulo (OCESP). Os esclarecimentos foram feitos pelos próprios participantes que tinham a informação, o que demonstra a mútua aprendizagem, propósito do DRPE. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                O segundo exemplo diz respeito aos resultados do Diagrama de Venn para o assentamento rural Cachoeira, que foi realizado com a presença de 21 pessoas, entre homens e mulheres. As organizações foram listadas espontaneamente pelos participantes na seguinte ordem:
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>Sindicato dos Trabalhadores Rurais (STR).</texto>
+            </item>
+            <item>
+                <texto>Instituto Nacional de Colonização e Reforma Agrária (INCRA).</texto>
+            </item>
+            <item>
+                <texto>Prefeitura Municipal de Uruanã de Minas.</texto>
+            </item>
+            <item>
+                <texto>Empresa de Assistência Técnica e Extensão Rural–MG (EMATER/MG).</texto>
+            </item>
+            <item>
+                <texto>Instituto Mineiro de Agropecuária (IMA).</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                A configuração das organizações avaliadas pode ser vista na Figura 9
+            </texto>
+        </paragrafo>
+        
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>
+                    A avaliação feita pelos participantes, considerando a importância e a atuação das organizações em relação à Associação dos Trabalhadores Rurais do Assentamento Cachoeira (APRAC), pode ser conferida a seguir.
+                </texto>
+            </paragrafo>
+        </chamada>
+        
+        
+        <subsubsecao>APRAC</subsubsecao>
+        <paragrafo>
+            <texto>
+                Foram feitas algumas observações iniciais sobre a importância e os benefícios de participar da associação. Os participantes consideraram que o assentamento e a APRAC seriam representados por um círculo que seria referência para o tamanho dos outros círculos, no sentido de avaliar as outras organizações.
+            </texto>
+        </paragrafo>
+
+        <subsubsecao>STR</subsubsecao>
+        <paragrafo>
+            <texto>
+                O sindicado a que os assentados se referiram é o STR de Unaí. Eles atribuíram certa importância ao sindicato por este representá-los em determinadas instâncias políticas, mas não se identificam com a instituição. Algumas falas dos assentados expressam melhor suas percepções.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“O Sindicato representa o Trabalhador.” (Avaliação 8)</texto>
+            </item>
+            <item>
+                <texto>“O Sindicato é importante, mas se a gente quiser alguma coisa, tem que ir atrás.” (Avaliação 9)</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Assim, eles desenharam um pequeno círculo para representar o STR de Unaí, bem menor do que o da  APRAC, o que significa a pouca importância que essa instituição tem para eles nesse momento e a imagem social que fazem dela. 
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“Sindicato ajuda em algumas conquistas e foi quem cedeu esta área, mas às vezes eles querem é aumentar o número de associados.” (Avaliação 10)</texto>
+            </item>
+            <item>
+                <texto>“Fazem cobranças por direitos que não vêm.” (Avaliação 11)</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Além disso, consideraram que o STR de Unaí não tem atuado no assentamento, o que pode ser visualizado pela distância dessa organização em relação à APRAC. Todos concordaram com a distância.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“Eles vieram aqui uma vez, deram uma palestra que nem era do nosso interesse, e nunca mais voltaram aqui.” (Avaliação 12)</texto>
+            </item>
+        </lista>
+
+        <subsubsecao>INCRA</subsubsecao>
+        <paragrafo>
+            <texto>
+                Os assentados atribuíram grande importância ao INCRA pelo que a organização representa em termos burocráticos na distribuição de terras, mas demonstraram sentimento de insatisfação pela morosidade no processo de formalização e liberação de recursos. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Na discussão sobre esse assunto, eles demonstraram dúvida quanto ao nível de importância ao desenharem vários tamanhos do círculo representativo dessa instituição. As frases, a seguir, expressam suas percepções sobre a importância do INCRA:
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>Importância do INCRA ao desenharem o círculo um pouco maior do que o da APRAC – “É mais importante que a APRAC!” (Avaliação 13).</texto>
+            </item>
+            <item>
+                <texto>Importância do INCRA ao desenharem o círculo maior do que o da APRAC – “Sem o INCRA, não existiria o assentamento, sequer a associação.” (Avaliação 14).</texto>
+            </item>
+            <item>
+                <texto>Importância do INCRA ao desenharem o círculo um pouco menor do que o da APRAC – “A bola do INCRA pode diminuir de tamanho, porque eles estão aqui no assentamento há três anos, mas a associação é que corre atrás.” (Avaliação 15).</texto>
+            </item>
+            <item>
+                <texto>Importância do INCRA ao desenharem o círculo bem maior do que o da APRAC – “Com toda a lentidão, eu agradeço ao INCRA por estar em casa própria, em terra própria e em condições de trabalhar e pagar por isso.” (Avaliação 16) e “Eu acho que essa bola mudando muito ainda vai derrubar alguém; macaco que pula muito, uma hora ele pula no galho seco e cai.” (Avaliação 17).</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Por último, chegaram ao consenso de que a importância do INCRA é bem maior, desenhando a bola quase três vezes maior do que a da associação. Por outro lado, os assentados demonstraram consciência da realidade que envolve a relação deles com o INCRA e do papel dessa instituição no processo de “reforma agrária”. Nesse sentido, desenharam o círculo do INCRA em pequena interseção com o círculo da APRAC, o que significa atuação aquém do desejado, posição que foi aprovada pela maioria dos assentados presentes (13 a favor e 2 contra), como pode ser avaliado na frase a seguir.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“O INCRA está próximo, mas vai ter um dia que ele vai se afastar, à medida que for cumprindo os compromissos com o assentamento                (encaminhar água, luz, energia etc.). Já cumpriu metade das obrigações.” (Avaliação 18)</texto>
+            </item>
+        </lista>
+
+        <subsubsecao>Prefeitura Municipal de Uruanã de Minas</subsubsecao>
+        <paragrafo>
+            <texto>
+                Na avaliação, os participantes desenharam o círculo da prefeitura maior pela sua importância na vida cotidiana das famílias assentadas no que diz respeito à educação, ao transporte e à saúde. Mais uma vez demonstraram consciência de que possuem direito ao acesso aos serviços que devem ser prestados pela prefeitura, apesar de alguns ainda não terem transferido o título de eleitor para o município de Uruanã de Minas. Eles demonstraram também ter facilidade de aproximação com o prefeito e os vereadores.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“Tudo que a gente precisa, passa primeiro pela associação.” [Desenha o círculo um pouco menor do que o da Associação]. (Avaliação 19)</texto>
+            </item>
+            <item>
+                <texto>“A Prefeitura faz e pode fazer mais pelo assentamento, em parceria com o INCRA. A secretária disse que não tinha contato com o INCRA, aí eu disse é fácil, eu tenho o telefone, e dei a ela.” (Avaliação 20)</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Apesar de haver certa divergência de opinião quanto à atuação da prefeitura no assentamento, eles chegaram à conclusão de que a prefeitura tem uma atuação satisfatória, mesmo levando em consideração a observação de um dos participantes de que o prefeito nunca esteve no local e não conhece a realidade deles. O desenho do círculo, em interseção com a associação, representando a atuação da prefeitura, venceu por 13 a 7 na votação.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“Eu voto que eles estão se aproximando, mas ainda não estão dentro. De vez em quando vem algum vereador aqui, mas nunca veio o prefeito, eles não conhecem a nossa realidade.” (Avaliação 21) </texto>
+            </item>
+            <item>
+                <texto>“A Prefeitura participa bastante no assentamento.”   (Avaliação 22) </texto>
+            </item>
+        </lista>
+
+        <subsubsecao>EMATER/MG</subsubsecao>
+        <paragrafo>
+            <texto>
+                Os participantes consideram que a EMATER/MG tem importância para aqueles que não sabem produzir ainda ou para aqueles que querem produzir muito. Esse aspecto demonstra, por um lado, a racionalidade camponesa de produzir e, por outro, o tipo de orientação técnica que essa empresa adota, voltada para aumentos constantes de produtividade. Por isso, desenharam o círculo menor do que o da APRAC. 
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“A EMATER é importante, mas a gente tem que ir atrás deles. [Desenha o círculo menor que o da Associação.] (Avaliação 23) </texto>
+            </item>
+            <item>
+                <texto>“A gente não depende da EMATER para produzir, mas depende para produzir bem”. (Avaliação 24) </texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Quanto à atuação da EMATER/MG, eles avaliaram que poderia ser maior, no sentido de ter a presença mais constante do técnico, mas não avaliaram a qualidade do trabalho dele pelo fato de não haver, ainda, tempo de relacionamento suficiente. Vai ser o primeiro trabalho do técnico com eles, por isso desenharam o círculo em interseção na expectativa de maior aproximação.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“Acho que eles têm grande conhecimento sobre agricultura e podem nos ajudar”. (Avaliação 25)</texto>
+            </item>
+        </lista>
+
+        <subsubsecao>IMA</subsubsecao>
+        <paragrafo>
+            <texto>
+                Apesar de apresentar essa instituição, a maioria não sabe o que é e qual a sua importância. Além disso, os participantes reclamaram que os serviços são obrigatórios e pagos.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“Eu sei que eles vieram aqui fazer um cartão, marcar o gado, vacinar o gado, registrar etc.” (Avaliação 26)</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Portanto, atribuíram pouca importância e atuação da IMA no assentamento, avaliação representada pelo desenho do círculo em pequena interseção com o da APRAC.
+            </texto>
+        </paragrafo>
+
+        <subsecao>Calendário Sazonal</subsecao>
+        <indice nivel="3">Calendário Sazonal</indice>
+        <paragrafo>
+            <texto>
+                Essa é uma técnica que consiste na construção, junto com os participantes, de um esquema gráfico em que as coordenadas Y e X representam, respectivamente, a demanda relativa de força de trabalho, medida em dias de trabalho, e as atividades ao longo dos meses de um ano. O objetivo dessa técnica é promover a reflexão crítica sobre a organização do trabalho, a distribuição das principais atividades e a demanda relativa da força de trabalho ao longo dos meses de um ano, no sentido de avaliar as potencialidades e limitações da coletividade. Procura-se descrever e discutir em pequenos grupos envolvidos em atividades específicas a quantidade necessária de dias de trabalho em cada mês do ano para alcançar um objetivo previamente definido. Por exemplo, a colheita de um determinado produto é sazonal, ou seja, demanda maior intensidade de trabalho durante os meses que compreendem o período de colheita, assim como a construção e manutenção de cercas é uma atividade que demanda maior intensidade de trabalho em meses específicos do ano, de acordo com a região. E há atividades que demandam trabalho todos os meses do ano. A intensidade de trabalho necessário para desenvolver um dado conjunto de atividades por mês pode ser medida também pela proporção do quantitativo de homens por dia (relação homens/dias).
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os resultados dessa técnica podem mostrar o quantitativo, a composição e a caracterização da força de trabalho, por idade e sexo, e a organização do trabalho como troca de dias, mutirão, trabalho em parceria, entre outras formas. Além disso, os resultados podem servir de base para o planejamento participativo, no sentido de alcançar a melhor forma de organização das atividades produtivas, de serviço e de trabalho em cada mês. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No caso do calendário sazonal, serão apresentados, como exemplos, os resultados obtidos na Cooperativa de Produção Agropecuária Vitória (COPAVI), localizada no município de Paranacity, estado do Paraná, e na comunidade de São Sebastião do Soberbo, Santa Cruz do Escalvado, em Minas Gerais,  esta atingida pela construção de uma usina hidrelétrica. Os resultados permitem avaliar os períodos de maior demanda de força de trabalho e as atividades desenvolvidas pelos trabalhadores e facilitam a implementação de projetos.
+            </texto>
+        </paragrafo>
+	<paragrafo>
+            <texto>
+                Como pode ser observado no Gráfico 1, no calendário sazonal da COPAVI, o ano agrícola começa em julho de um ano e termina em junho do outro ano. O gráfico do calendário sazonal apresenta as atividades consideradas, pelos participantes, como as principais e que demandam maior intensidade relativa de força de trabalho, medida em número de dias correspondente a um mês, ao longo do ano agrícola. Em julho de 1998, a COPAVI contava com 39 associados como força de trabalho disponível para as atividades do cotidiano, incluindo homens e mulheres, associados e não associados em período probatório (seis meses), e duas pessoas de licença médica. Segundo os associados, sempre há variação na produção e na disponibilidade de força de trabalho nas atividades de indústria e lavoura. Assim, para as atividades que demandam maior tempo de trabalho, eles têm contratado diaristas, como no caso da limpa da mandioca, do café e de outras culturas.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                As atividades que demandam intensidade de trabalho constante são aquelas em que há trabalho durante todos os dias do ano como suinocultura, avicultura e laticínios, que demandam um trabalhador permanente em cada uma; bovinocultura, que demanda quatro trabalhadores; horta, que demanda cinco trabalhadores. O total de trabalhadores permanentes para essas atividades chega a 12.
+            </texto>
+        </paragrafo>
+	<paragrafo>
+            <texto>
+                As atividades no abatedouro incluem o abate de aves e suínos, que têm seu maior pique de trabalho no final do mês de novembro, antes do Natal e Ano Novo, e seu menor pique nos meses de março e abril, período posterior à Páscoa. As atividades da lavoura incluem o corte da cana-de-açúcar, nos meses de outubro, novembro e dezembro, além do preparo do solo para plantio e adubação, capina e outros tratos culturais. As atividades dos derivados de cana-de-açúcar englobam a produção de rapadura, cachaça, melado e doce de leite.
+            </texto>
+        </paragrafo>
+	<paragrafo>
+            <texto>
+                Nos meses de julho e agosto, eles preparam o solo para plantio de mandioca e milho, ou sorgo, para silagem. Em outubro, novembro e dezembro, cortam cana-de-açúcar para abastecer a indústria (alambique) e, em dezembro, fazem a limpa do café. Com base no calendário construído com essa técnica, as atividades requisitadas pelo grupo podem ser organizadas considerando cada fase do período agrícola.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Outro exemplo ilustrativo de utilização dessa técnica foi o resultado do DRPE realizado na comunidade de São Sebastião do Soberbo. Essa comunidade tem uma história secular na exploração do Rio Doce, seja na pesca, seja na extração do ouro, bem como nas atividades típicas da agricultura familiar. Foram feitos três calendários representativos das principais atividades que caracterizaram o trabalho das famílias daquela comunidade, quais sejam: calendário do rio; calendário da terra; calendário das criações.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Foram levantadas com as famílias de São Sebastião do Soberbo as principais atividades desenvolvidas no cultivo da terra e em relação ao rio e as criações. No calendário da terra estão as culturas de milho, feijão e cana. No calendário do rio, as atividades de trabalho estão relacionadas com a extração do ouro e a pesca. Alguns moradores tiravam areia e pedra do rio, cortavam lenha e engordavam porcos no fundo do quintal que dava para o rio, tarefas que envolviam toda a família. Era comum também a contratação de ajudantes, troca de dias de serviço ou ainda troca por produtos. No calendário das criações, estão as de porcos e de gado de leite. Por meio dos “calendários”, foi possível identificar o ciclo de cada atividade desenvolvida. 
+            </texto>
+        </paragrafo>
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>
+                    A síntese dos três calendários pode ser observada no Quadro 6 mais à frente.
+                </texto>
+            </paragrafo>
+        </chamada>
+
+        <subsubsecao>Calendário do Rio</subsubsecao>
+        <paragrafo>
+            <texto>
+                Os dois principais produtos explorados no rio são o ouro e o peixe. As atividades de garimpo compreendiam o período de março a outubro. Os garimpeiros trabalhavam durante todo o dia até o anoitecer. Quando necessário, a atividade se estendia noite afora. Na região, existiam quatro donos de balsa, para os quais os 17 garimpeiros trabalhavam. Os donos das balsas ficavam com 60% de todo o valor arrecadado, e os 40% restantes eram divididos entre os garimpeiros (mergulhadores) e requeiros. O local explorado para o garimpo é denominado por eles de “fofoca”. Nas horas de folga, mergulhadores e requeiros pescam.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Na pescaria, o trabalho é autônomo. Tudo o que foi pescado é vendido e/ou consumido pelo pescador e pela sua família. O material de pesca utilizado é bem amplo como espinhol, rede, anzol e tarrafa. Na época de seca, os peixes estão bem maiores e é justamente nessa época que a pesca é mais intensa (ocorre a qualquer hora do dia e durante todos os dias do mês), iniciando no mês de março. Os meses e as horas destinados para a pesca variam de acordo com a disponibilidade de tempo programada para outras atividades, mas, em média, os moradores destinam 15 dias do mês para a pesca. Durante a piracema, nos meses de novembro a fevereiro, é proibido pescar. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A ictiofauna da região é abundante, sendo o peixe uma das principais fontes de alimentação dos moradores. As principais espécies citadas por eles foram curumatã, cascudo, tilápia, traíra, mandi, dourado, pintado. Alguns moradores têm carteira de pesca emitida pelo Instituto Estadual de Floresta (IEF), no município de Ponte Nova. Embora haja essa documentação, não existe fiscalização da modalidade de pesca, que é realizada por vários meios, como a tarrafa, a rede, o molinete e a vara de taquara. Foi dito que, depois da construção da barragem no Rio Doce, a pesca seria proibida durante cinco anos. Pode-se perceber a importância do rio para os moradores por meio de suas falas: 
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“[...] do rio a gente tira tudo”.  (Fala 1)</texto>
+            </item>
+            <item>
+                <texto>“[...] o rio é uma mãe para gente”. (Fala 2)</texto>
+            </item>
+            <item>
+                <texto>“[...] o rio é tudo! Além do peixe e do ouro, retiramos ainda a areia e o cascalho”. (Fala 3)</texto>
+            </item>
+            <item>
+                <texto>“[...] é o nosso quebra galho”. [dizem isso considerando que um caminhão de areia custava cinquenta reais, e um de pedra oitenta]. (Fala 4) </texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Relataram que é comum a pesca no rio, principalmente de dourados, estes chegavam a pesar 22 quilos (apresentaram fotos para a equipe que comprovaram essas afirmações).
+            </texto>
+        </paragrafo>
+
+        <subsubsecao>Calendário da Terra</subsubsecao>
+        <paragrafo>
+            <texto>
+                Os principais cultivos apresentados pelos moradores são o milho, o feijão e a cana-de-açúcar. Para o cultivo do milho, o preparo da terra começava em agosto e consistia em roçar, queimar e arar a terra. O número de dias de serviço gasto para essa atividade varia com o tamanho do terreno, que equivale, em média, a três hectares. O preparo do terreno pode ocorrer com trabalho braçal ou com maquinário. Alguns produtores alugavam trator e pagavam 30 reais por hora de uso, com isso diminuíam significativamente o tempo gasto para o preparo do terreno (quatro horas). No trabalho braçal e no uso de tração animal, o tempo gasto era de 15 dias.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                O meeiro é o trabalhador responsável por roçar e fazer o plantio. Já o dono da terra entrava com o terreno preparado e com os insumos. O plantio era feito no mês de outubro, e o replantio em novembro, gastando-se 20 dias. No plantio do milho eram feitas duas capinas: a primeira 20 dias depois do plantio, em novembro, junto com o replantio; a segunda 20 dias depois da primeira, realizada entre o final de dezembro e o início de janeiro. No caso dos produtores que plantavam feijão e milho consorciado, uma terceira capina era feita 20 dias depois da realização da segunda, no mês de fevereiro. A colheita do milho era feita em maio. Se o milho fosse colhido junto com o feijão, a atividade ocorreria no mês de julho. Em média eram colhidos 70 sacos de milho.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para o cultivo do feijão consorciado com o milho, o preparo do solo era feito no mês de fevereiro, o plantio no mês de março e a colheita entre os meses de junho e julho. Para o cultivo do feijão das águas, o preparo do terreno era feito no mês de outubro, o plantio no mês de novembro e a colheita em janeiro. Para o feijão das águas, eram gastos 15 dias de trabalho no plantio e colhidos, em média, 40 sacos de feijão. Para bater as vagens, eram gastos de três a quatro dias de serviço.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para o cultivo da cana-de-açúcar, o preparo do solo era feito no mês de agosto e gastava-se 15 dias de serviço, geralmente, entre os meses de setembro a março em uma área de quatro hectares de terra, em média. Eram feitas duas capinas: a primeira de 30 a 60 dias depois do plantio, gastando-se 20 dias de serviço; a segunda de 60 a 90 dias depois da primeira, gastando-se 20 dias de serviço. A colheita era feita 120 dias depois do plantio de duas formas: em caso de venda, toda a produção de cana era colhida de uma só vez; no caso de consumo animal, cortava-se aos poucos. Colhia-se até uma tonelada de cana por dia. A rebrota da cana era colhida um ano depois da primeira colheita. O ciclo produtivo da cana-de-açúcar é de seis anos. Depois desse período, o canavial deve ser reformado.
+            </texto>
+        </paragrafo>
+
+        <subsubsecao>Calendário das Criações</subsubsecao>
+        <paragrafo>
+            <texto>
+                A criação de porcos era destinada, principalmente, para o consumo da família, as sobras eram vendidas para os vizinhos. O porco caipira era o animal mais criado pela comunidade de Soberbo, já que requer menos cuidados e a propensão a doenças é muito menor. Embora este seja um fator primordial para a criação do porco caipira, alguns moradores criavam o porco de granja (porco branco).
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para a engorda do porco eram gastos 90 dias, sendo duas horas por dia destinadas para o trato como alimentação, manutenção e higienização do local. Para a criação do porco de granja, a limpeza do chiqueiro era feita duas vezes por dia, exigindo maior tempo, além de outros cuidados como a castração, o trato do umbigo e o corte das presas.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para a criação de gado leiteiro, a exigência de tempo era maior durante os meses de chuva, quando o gado não pasta e precisa de cuidado dentro do curral. A retirada de leite ocorria apenas uma vez por dia e pela manhã. O leite era vendido para laticínios da região ou para o consumo próprio.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                A quantidade de homens/dia, a cada mês ao longo de um ano, está representada no Gráfico 2. Nesse caso, o trabalho no rio, no que diz respeito ao ouro, é mais intenso do que a atividade de pesca, embora as duas atividades possam ser realizadas por uma única pessoa ou um grupo familiar.
+            </texto>
+        </paragrafo>
+	<paragrafo>
+            <texto>
+                O Gráfico 3, a seguir, mostra as atividades daqueles grupos familiares formados por garimpeiros e meeiros ao mesmo tempo. As atividades que demandam maior intensidade relativa de trabalho são o garimpo, seguido da agricultura. 
+            </texto>
+        </paragrafo>
+
+
+
+
+        <paragrafo>
+            <texto>
+                O Gráfico 4 apresenta o conjunto de atividades dos agricultores familiares e a intensidade relativa de trabalho distribuída entre eles, envolvendo no máximo 35 dias/homem.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                O Gráfico 5 apresenta o total dias/homem necessário para o desenvolvimento de todas as atividades. Pode-se comparar o total do conjunto de atividades com cada uma delas e verificar sua distribuição mês a mês.
+            </texto>
+        </paragrafo>
+
+        <subsecao>Entra e Sai</subsecao>
+        <paragrafo>
+            <texto>
+                Essa é uma técnica grafológica adaptada para a coleta de informações de dados econômicos e de produção de uma coletividade. Por ser elaborada a partir de desenhos e representações gráficas, permite aos participantes melhor visualização dos seus gastos e receitas em cada atividade produtiva ou de serviço desenvolvida. Essa técnica tem um conteúdo pedagógico crítico por mostrar a posição da coletividade na “cadeia produtiva” na qual está inserida, explicitando os fornecedores de insumos e os canais de comercialização, o que permite analisar suas potencialidades e limitações no mercado. Pode ser utilizada, também, para caracterizar os tipos de unidades de produção agropecuária (unidade camponesa, empresa capitalista, latifúndio, agricultor familiar), analisando-se o tipo de produção, o emprego de mão de obra, o emprego de tecnologia, o destino da produção e a ocupação da terra. 
+            </texto>
+        </paragrafo>
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>
+                    A técnica entra e sai permite avaliar com os participantes a sua dependência ou autonomia em relação ao mercado, tanto à jusante quanto à montande da produção. Por um lado, pode-se mostrar aos participantes os custos para produzir cada produto e sua relação com o comércio de insumos. Por outro, pode-se mostrar a relação de cada produto com o mercado na hora de comercializá-lo, questionando a formação de preços de venda e a competitividade. Os resultados dessa técnica são úteis para elaborar pesquisa de mercado de cada produto e planejamento da produção, bem como para repensar a forma de organização dos participantes. 
+                </texto>
+            </paragrafo>
+        </chamada>
+        <paragrafo>
+            <texto>
+                Por isso, deve-se iniciar essa técnica apresentando um quadro contendo cinco colunas com os títulos “O QUE ENTRA; DE ONDE VEM; O QUE TEM; O QUE SAI; PARA ONDE VAI”, respectivamente. Esse quadro representa o fluxo da produção de cada produto ou o processo produtivo que caracteriza a cadeia produtiva. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A coluna central “O QUE TEM” deve ser a primeira a ser preenchida, a partir das informações coletadas com os participantes sobre o que tem ou o que produzem (ou o serviço que realizam). Depois do preenchimento das informações da coluna central, passa-se para o da  coluna sobre “O QUE ENTRA”; depois para “DE ONDE VEM”, “O QUE SAI” e “PARA ONDE VAI”, nessa sequência. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                O Quadro 7 apresenta o resultado dessa técnica utilizada em um assentamento de Reforma Agrária no Brasil.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                No caso dos resultados encontrados nesse assentamento, a técnica do entra e sai mostra que os principais produtos cultivados são o milho, o arroz, o feijão, a mandioca e a cana; e as principais criações são o gado de corte, a galinha e os porcos, bem como a produção artesanal. Pode-se observar que esses produtos guardam relações entre si, no sentido de caracterizar a forma de organização da unidade camponesa. Isso significa que a produção é realizada para atender o consumo e as necessidades da família, o excedente normalmente é vendido em feira para a compra de produtos que não são produzidos pela unidade camponesa. As linhas de produção são diversificadas, e a organização do trabalho é familiar. Não há utilização de capital financeiro intensivo para a produção (créditos bancários), o que reforça o grau de autonomia da produção frente ao sistema bancário e ao Estado. Além de o gado servir como poupança, pelo alto grau de liquidez e pela garantia contra a inflação, o artesanato é uma alternativa econômica que proporciona às famílias aumento significativo de renda. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Por meio dessa técnica, pode-se observar que os associados da COCAPEC conhecem o caminho da produção de café, sendo a cafeicultura a principal atividade do grupo. A comercialização é feita pela cooperativa, que recolhe o café na comunidade e o leva ao armazém da unidade municipal. Uma amostra é encaminhada à cooperativa para ser classificada, pois servirá de referência para as vendas futuras.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                As outras culturas apresentadas pelo grupo podem ser identificadas como cultura de subsistência, característica própria da unidade de agricultura familiar. Nesse contexto, eles analisaram a falta de diversificação da produção com caráter comercial, que se dá pela falta de área para cultivo e pela falta de assistência técnica fornecida pela cooperativa, pois o número de agrônomos é insuficiente para assistir a todos os associados. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Outro exemplo de utilização da técnica entra e sai pode ser observado em uma cooperativa, conforme o Quadro 8.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                O resultado do entra e sai, nesse caso, demonstra o “ensanduichamento” dos associados da COCAPEC que, de um lado, encontram-se dependentes das indústrias de insumos determinando seus custos de produção e, de outro, dependente dos preços de mercado determinados pelas grandes corporações, o que restringe os preços dos produtos, de forma a desfavorecer o elo mais fraco dessa cadeia, os agricultores familiares associados à cooperativa. Portanto, cabe a cooperativa buscar medidas que amenizem esse efeito sobre os associados, negociando por meio de contratos e convênios descontos para aquisição de insumos e políticas de mercado mais justas.
+            </texto>
+        </paragrafo>
+
+        <subsecao>Entrevista Semiestruturada</subsecao>
+        <paragrafo>
+            <texto>
+                A entrevista semiestruturada exige um conhecimento prévio do entrevistador sobre quem vai ser entrevistado e o tema a ser abordado. Nesse caso, uma leitura atenta e a análise das informações secundárias são fundamentais para a realização de uma boa entrevista. O roteiro da entrevista faz parte desse conhecimento prévio, mas serve apenas como um guia orientador para o entrevistador iniciar a coleta de informações mais detalhadas e a ela dar sequência. Nesse tipo de entrevista, as respostas do entrevistado servem para levantar novas perguntas que não constam no roteiro. As entrevistas com informantes-chave devem ser realizadas por dois entrevistadores, o que facilita a abordagem pelo fato de ser necessário dividir as tarefas de perguntar, observar, anotar e trocar ideias e impressões. Essa técnica está presente em várias outras técnicas que compõem o DRPE.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Entende-se por “entrevista semiestruturada” aquela que parte de certos questionamentos básicos, apoiados em teorias ou objetivos do estudo e que oferecem amplo espaço de interrogativas, resultante do diálogo com os informantes. Nesse sentido, algumas questões orientadoras da entrevista são elaboradas a priori e complementadas à medida que vão aparecendo mais informações, sejam secundárias, sejam primárias, em um processo contínuo de retroalimentação. Dessa forma, os diferentes atores sociais (individuais e coletivos) envolvidos no âmbito do DRPE serão submetidos a várias entrevistas, com objetivo de obter o máximo de informações e avaliar as variações das respostas em diferentes momentos. As entrevistas são realizadas com os participantes da coletividade no sentido de complementar as informações já levantadas por meio das técnicas utilizadas anteriormente.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Antes de iniciar as entrevistas, deve-se ter contato com os atores sociais que serão entrevistados, preferencialmente de maneira informal, para que se apresentem e saibam dos propósitos almejados. Para tal, algumas considerações são necessárias, quais sejam:
+            </texto>
+        </paragrafo>
+        <lista estilo="bolinha">
+            <item>
+                <texto>Os entrevistados devem saber o que se espera deles e quais podem ser suas contribuições para o esclarecimento da situação interessada.</texto>
+            </item>
+            <item>
+                <texto>É conveniente que os entrevistados e os entrevistadores estabeleçam horário e local e se a entrevista será gravada ou não. Preferencialmente a entrevista deve ser gravada.</texto>
+            </item>
+            <item>
+                <texto>No início da entrevista, os entrevistadores devem estar conscientes de que precisam empenhar esforços no sentido de proporcionar um clima de tranquilidade, confiança, lealdade e harmonia entre eles e os entrevistados. Nesse sentido, os entrevistadores devem mostrar-se de acordo com as afirmações dos entrevistados, dando oportunidade ampla para suas preocupações e introduzindo questões diretivas nos meandros das respostas. O entrevistador não deve permitir que os entrevistados fiquem calados ou que a entrevista chegue a um ponto morto, ou seja, há necessidade de rapport na entrevista.</texto>
+            </item>
+            <item>
+                <texto>Na entrevista, vários tipos de perguntas podem ser feitos: interrogativas mediatas, explicativa imediata, consequências, avaliativas, hipotéticas e categoriais. Todos esses tipos procuram explorar em profundidade as respostas dos entrevistados. </texto>
+            </item>
+        </lista>
+            
+
+        <subsecao>Grupo Focal</subsecao>
+        <paragrafo>
+            <texto>
+                Com objetivo de obter informações qualitativas sobre os temas geradores da coletividade, o grupo focal pode ser utilizado em momentos específicos do processo de diagnóstico definidos pela equipe. No DRPE é normalmente utilizada de forma conjugada com outras técnicas, assim como as entrevistas semiestruturadas. O grupo focal (KRUGER, 1994) é uma entrevista coletiva, utilizada para um tipo especial de grupo, na qual um animador coordena a discussão para identificar a tendência de percepções dos seus participantes, fundamentando-se nas atitudes e percepções relacionadas a conceitos, produtos, serviços que são produtos do ambiente do grupo e influenciados pelas pessoas ao seu redor. Além do animador, deve haver um anotador/observador dentro do grupo para descrever a situação e discutir, posteriormente, com o animador. Dependendo do contexto, a reunião poderá ser gravada ou o anotador/observador deverá anotar as respostas dos participantes. Essa técnica é importante porque permite um aprofundamento qualitativo do tema gerador. Além disso, os resultados da utilização dessa técnica permite comparar os resultados entre coletividades e de grupos dentro da coletividade estudada, o que torna possível captar a dinâmica das ações em termos de similaridades e diferenças, podendo-se, com isso, ao mesmo tempo, generalizar e relativizar elementos empíricos e teóricos. Essa técnica deve ser conduzida da seguinte forma: 
+            </texto>
+        </paragrafo>
+        <lista estilo="bolinha">
+            <item>
+                <texto>Cada coletividade deve formar um ou mais grupos focais com seis a doze pessoas no máximo, o que permitirá a coesão do grupo em torno do tema gerador a ser explorado. </texto>
+            </item>
+            <item>
+                <texto>Os grupos focais têm como princípio uma discussão focalizada, previamente determinada. No DRPE, o foco deve ser cada tema gerador em estudo, cujas questões devem ser colocadas de forma sequencial à discussão iniciada, tendo como orientação um roteiro de questões.</texto>
+            </item>
+            <item>
+                <texto>Os participantes devem ser razoavelmente homogêneos, mas não necessariamente com relações familiarizadas entre si, o que pode garantir a afinidade entre os membros e, ao mesmo tempo, provocar um debate em profundidade do tema em questão. Nos grupos focais, os participantes influenciam e são influenciados uns pelos outros, como acontece na realidade da vida social. Nesse sentido, os entrevistadores que coordenam os grupos têm várias funções, como: moderar as discussões, ouvir, observar, identificar oposições, conflitos.</texto>
+            </item>
+            <item>
+                <texto>Os grupos focais devem ser conduzidos em séries, ou seja, depois da realização da entrevista com um grupo. Sistematizadas e analisadas as informações coletadas naquele grupo, passa-se a outro e assim sucessivamente.</texto>
+            </item>
+        </lista>
+        
+        
+        <subsubsecao>Rotina Diária</subsubsecao>
+        <paragrafo>
+            <texto>
+                É uma técnica complementar ao calendário sazonal que permite visualizar a distribuição do trabalho ao longo do dia. A base dessa técnica pode ser a entrevista semiestruturada ou mesmo a técnica do grupo focal. Os resultados obtidos com essa técnica podem auxiliar na programação do trabalho das equipes de assistência técnica ou de outros agentes externos em atividade de extensão, fornecendo indicativos dos melhores horários para as visitas e sinalizando para a disponibilidade de tempo dos membros das famílias para o desenvolvimento de trabalhos, cursos e outras atividades.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A rotina diária normalmente é apresentada em um box, na forma de um texto sistematizado, como pode ser observado o resultado dessa técnica utilizada no assentamento São Francisco, no município de Formoso−MG, no Box 1.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                Outra forma de registrar os resultados da rotina diária é por meio de um texto discursivo envolvendo mais de um grupo, como foi feito no relatório no assentamento Vereda I, no município de Padre Bernardo, em Goiás. Embora esse assentamento estivesse em sua fase inicial de organização do espaço produtivo e de socialização, pode-se constatar a formação de pequenos grupos de ajuda mútua, geralmente constituídos por cinco pessoas, entre vizinhos, parentes e amigos. O tipo de ajuda mútua mais comum observado pela rotina diária foi a “troca de dias”. 
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                Por meio da rotina diária é possível identificar e analisar a organização do trabalho no âmbito da coletividade ou mesmo de uma família. No caso do assentamento Vereda I, observou-se que a organização do trabalho estava centrada na família, seja pela divisão do assentamento em “chácaras”, seja pela forma de exploração produtiva. Na chamada “roça coletiva” que organizaram na fase de acampamento, não ocorreu a coletivização do trabalho, mas plantaram em um mesmo local, onde cada família ficou responsável pelo cultivo de uma determinada área. Apesar de alguns assentados se recordarem de ter participado de “mutirão” em seu local de origem, ainda não haviam praticado esse tipo de ajuda mútua. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Outro resultado que se pode alcançar com a rotina diária é a identificação da força de trabalho efetiva. No caso do assentamento Vereda I, ele é constituído por homens e mulheres na faixa de idade entre 14 e 65 anos, totalizando 150 pessoas. Observou-se, por meio dessa técnica, que os assentados possuem outras habilidades além da produção de alimentos no cultivo da terra, quais sejam: carpintaria, mecânica e artesanato com palha. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A rotina diária descrita, ilustra a situação passada pela maioria das famílias do assentamento Vereda I na fase inicial de organização do trabalho das famílias, conforme o Box 3. 
+            </texto>
+        </paragrafo>
+        
+        
+
+        <subsubsecao>Construção</subsubsecao>
+        <paragrafo>
+            <texto>
+                Essa técnica consiste em promover a reflexão crítica de uma coletividade sobre as condições de infraestrutura que possuem na atualidade e aquela que desejam “construir” no futuro próximo com os recursos escassos de que dispõem no local. É uma técnica de diagnóstico e, ao mesmo tempo, de planejamento, pois estimula a coletividade a pensar na construção de seu futuro. Para a realização dessa técnica normalmente são utilizados recursos simbólicos encontrados no próprio local de realização do diagnóstico como pedras, paus, folhas, gravetos, entre outros. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                É uma técnica realizada em pequenos grupos que possuem algum elemento cultural identitário, como grupo de vizinhos, pessoas que praticam mutirão ou troca de dias ou alguma forma de solidariedade na organização do trabalho e da produção. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A equipe interdisciplinar explica o objetivo da técnica, estabelecendo um desafio para cada grupo, voltado para pensar o futuro do próprio grupo e de toda a coletividade. Explicada a atividade e colocado o desafio para os participantes, a equipe interdisciplinar distribui para cada grupo uma quantidade igual de recursos simbólicos e estabelece um período de tempo para a realização da “construção” desejada, que representa o futuro na percepção deles. A equipe monitora tirando fotografias, filmando e anotando as falas dos participantes de cada grupo que expressam o sentido do que desejam representar com o formato em “construção”. Depois do horário estipulado para terminar a tarefa, os participantes de cada grupo explicam para todos os significados da sua construção, o que estimula o debate e as reflexões críticas em torno de um dado tema gerador. Com isso, todos os participantes têm a oportunidade de conhecer o que cada grupo e cada pessoa pensa a respeito do futuro da sua própria coletividade.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Essa técnica foi utiilizada em diferentes situações e contextos. No caso do reassentamento de famílias atingidas pela barragem de Candonga, no município de Santa Cruz do Escalvado, Minas Gerais, essa técnica foi utilizada para representar o tipo ideal de moradia na percepção dos grupos de atingidos. Por isso, o desafio colocado para os participantes foi identificar o tipo de construção ideal a ser feita por eles e a sua organização territorial na nova paisagem, tendo em vista a disponibilidade escassa de recursos. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para identificar o tipo ideal de moradia entre as famílias atingidas, a equipe interdisciplinar atribuiu a tarefa de: construir “a casa dos sonhos” deles. Os grupos receberam certa quantidade de recursos materiais e o tempo determinado para finalizar a tarefa, como pode ser observado na Fotografia 5. Em razão do grande número de participantes, foi necessária a formação de dois grupos, de acordo com a afinidade entre as pessoas, esclarecendo-se que a construção da casa deveria representar o sonho e as expectativas da coletividade.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                O padrão das casas idealizadas pelos participantes não fugiu ao padrão das casas de São Sebastião do Soberbo, o que indica que as famílias queriam reproduzir o tipo de moradia que tinham no local anterior: casa simples com quintal extenso que permitisse cultivar horta e plantar árvores frutíferas. Para os moradores de São Sebastião do Soberbo, os quintais representavam elemento fundamental na segurança alimentar.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os resultados da tarefa dada aos grupos mostram as características da casa idealizada pelas famílias que deveria ser construída na nova área:
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>Um jardim onde plantariam flores, frutas e hortaliças para consumo e venda do excedente.</texto>
+                <quebralinha />
+                <texto>“O jardim tá em volta da casa.” (Comentário 1)</texto>
+                <quebralinha />
+                <texto>“Eu cuido do jardim.” (Comentário 2)</texto>
+                <quebralinha />
+                <texto>“Em volta tem um jardim com acerola, manga, horta, pequenos animais como cachorro, gato, galinha.” (Comentário 3)</texto>
+                <quebralinha />
+                <texto>“Varanda com jardim na frente, garagem do lado do corredor para o quintal.” (Comentário 4)</texto>
+            </item>
+            <item>
+                <texto>Uma cozinha ampla.</texto>
+            </item>
+            <item>
+                <texto>Uma área de serviço.</texto>
+                <quebralinha />
+                <texto>“Na área de serviço tem fogão e forno a lenha, e para lavar roupa no terraço.” (Comentário 5)</texto>
+                <quebralinha />
+                <texto>“Tem gente da comunidade que faz forno a lenha para preparo de bolos para o próprio consumo e para a venda, farinha de mandioca.” (Comentário 6)</texto>
+            </item>
+            
+            
+            <item>
+                <texto>Banheiros de frente para os quartos.</texto>
+                <quebralinha />
+                <texto>“O banheirinho que o Consórcio ta fazendo é deeeesse tamanho.” (Comentário 7)</texto>
+            </item>
+            
+            <item>
+                <texto>Copa junto com a sala.</texto>
+            </item>
+            <item>
+                <texto>Quatro quartos.</texto>
+                <quebralinha />
+                <texto>“Que caibam os móveis que temos.” (Comentário 8)</texto>
+                <quebralinha />
+                <texto>“Teria que ter no mínimo três quartos, mas isso depende da quantidade de pessoas que tem na família.” (Comentário 9)</texto>
+            </item>
+            
+            
+            <item>
+                <texto>Garagem com grade e portão.</texto>
+                <quebralinha />
+                <texto>“O parente pode visitar e usar a garagem.” (Comentário 10)</texto>
+            </item>
+            
+            <item>
+                <texto>Terraço.</texto>
+            </item>
+            <item>
+                <texto>O terreno da casa deve ser completamente contornado por um muro que também delimitaria a garagem e a entrada da residência.</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                Em outro exemplo de autilização dessa técnica, com professores e monitores da Escola Família Agrícola (EFA) do município de Virgem da Lapa, Minas Gerais, ela foi realizada para promover a reflexão crítica deles sobre a situação atual e a situação futura da escola e das famílias dos estudantes que vivem naquele município, especificamente sobre a agricultura praticada pelas famílias dos alunos e a expectativa de futuro que eles tinham para essa agricultura. Primeiramente foram coletados, na área de cultivo da escola, materiais diversos para a construção da representação da agricultura atual e futura. Os participantes foram divididos em dois grupos para realizar essa atividade e, depois de construídas as representações, apresentaram os significados das “construções”, conforme as Fotografias 6 e 7.  
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                As situações estão sintetizadas nos Quadro 9 e 10, comparando-se a atual e a futura.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                As explicações dos participantes do grupo 1 sobre a comparação entre a situação atual e futura, por meio da construção realizada, estão sintetizadas nas frases a seguir.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Situação atual explicada pelo grupo 1 (PEREIRA et al. 2003a, p. 39−40):
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>“A nossa função é servir de ponte entre uma realidade e outra. A grande mudança de uma para outra é a educação. Buscar trabalhar aquilo que é da terra, com recurso local.”</texto>
+            </item>
+            <item>
+                <texto>“Há uma necessidade de mais parcerias e políticas públicas que favoreçam a agricultura familiar. É preciso que mais instituições estejam pensando em trabalhar com esta realidade. Faltam políticas, mais ONGs, investimento das ONGs já existentes.”</texto>
+            </item>
+            <item>
+                <texto>“A terra aqui é seca, desprotegida e sem água. As pedras, aqui, representam as dificuldades na produção.”</texto>
+            </item>
+            <item>
+                <texto>“O Verde é a produção que ainda existe: andu, abóbora, banana, urucum, manga, que são resistentes.”</texto>
+            </item>
+            <item>
+                <texto>“As pedras são muito maiores que o fruto, o que justifica o êxodo para as cidades, praias, sul de Minas, interior de São Paulo.”</texto>
+            </item>
+            <item>
+                <texto>“Falta de organização é essa vareta de bambu sozinho.”</texto>
+            </item>
+            <item>
+                <texto>“Tem água, mas tá pouca, tá acabando.”</texto>
+            </item>
+            <item>
+                <texto>“O homem daqui ama a terra, a família e quer produzir, só falta conhecimento, produção, informação.”</texto>
+            </item>
+            <item>
+                <texto>“Queimadas destruíram a matéria orgânica.”</texto>
+            </item>
+            <item>
+                <texto>“A Agricultura familiar é insustentável assim.”</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                Situação futura explicada pelo grupo 1 (PEREIRA et al. 2003a, p. 39−40):
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>“A ponte de cartolina que liga uma realidade a outra são as parcerias para a questão da educação, organização e agricultura familiar.”</texto>
+            </item>
+            <item>
+                <texto>“Curva de nível pode ser importante.”</texto>
+            </item>
+            <item>
+                <texto>“A União é o bambu amarrado.”</texto>
+            </item>
+            <item>
+                <texto>“Água é preciso preservar, faltam mais caixas coletoras.” </texto>
+            </item>
+            <item>
+                <texto>“É preciso maior quantidade de coisas para maior diversidade, é o que representa o Melão de São Caetano.”</texto>
+            </item>
+            <item>
+                <texto>“A semente de milho tá aqui no sentido da produção, para o resgate do crioulo, pra não deixar acabar, pois essa semente é resistente e apropriada para esse ambiente.”</texto>
+            </item>
+            <item>
+                <texto>“Parcerias possibilitam grandes mudanças, a educação é que ensina a própria maneira de plantar com consórcio, manga e outras coisas mais.</texto>
+            </item>
+            <item>
+                <texto>“Não esquecer o que já existe: as nativas. Valorizar o recurso natural; o consórcio, não existe mais queimada.</texto>
+            </item>
+            <item>
+                <texto>“Queremos uma agricultura familiar sustentável. A EFA é a ponte, mas não sozinha.”</texto>
+            </item>
+            <item>
+                <texto>“Nossos trabalhos são comunitários: vacinação nas aves das famílias das comunidades somos nós que fazemos.”</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                As explicações dos participantes do grupo 2 sobre a comparação entre a situação atual e futura, por meio da construção realizada, estão sintetizadas nas frases a seguir.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Situação atual explicada pelo grupo 2 (PEREIRA et al. 2003a, p. 41−42):
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>“A escola trabalha muito a questão do uso dos recursos existentes e também trabalha com pequenos animais.”</texto>
+            </item>
+            <item>
+                <texto>“O gado diminuiu muito em nossa região porque tem diminuído o tamanho das propriedades.”</texto>
+            </item>
+            <item>
+                <texto>“Nosso povo não tem condições de criar gado confinado. A criação vai ter que ser pensada, racionalizada.”</texto>
+            </item>
+            <item>
+                <texto>“Pequenos animais fazem parte da subsistência do Vale. O gado diminuiu muito: acabou o pasto, diminuiu o gado. O estrume é usado.”</texto>
+            </item>
+            <item>
+                <texto>“Não existe condição de manter o gado confinado, como em outras regiões.”</texto>
+            </item>
+            <item>
+                <texto>“Tem muita coisa que existe, mas pode ser melhorada. Existe produção, mas é pouca.”</texto>
+            </item>
+            <item>
+                <texto>“A leucena já existia muito antes da escola, mas não era utilizada.”</texto>
+            </item>
+            <item>
+                <texto>“Foi colocada uma pedra no meio representando as pedras no caminho como falta de recurso e política.”</texto>
+            </item>
+            <item>
+                <texto>“Não simboliza somente o empecilho, mas também sinal de força para superação de obstáculos.”</texto>
+            </item>
+            <item>
+                <texto>“A leguminosa (leucena) é sinal de resistência, não posso pôr de um lado só.”</texto>
+            </item>
+            <item>
+                <texto>“Na folha da realidade atual das propriedades dos alunos aparece o desmatamento, a queimada, a produção com um único grão de milho simbolizando que é pouca, mas com potencial. Também tem o uso de dejetos para adubação, composto e formas de alimentação de animais.”</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                Situação futura explicada pelo grupo 2 (PEREIRA et al. 2003a, p. 41−42):
+            </texto>
+        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto>“Uma produção maior de milho, representada por dois grãos.”</texto>
+            </item>
+            <item>
+                <texto>“Por acaso, a natureza derrubou a folha da mangueira, e para nós tem um significado, porque também entrou no desenho. É o acaso.”</texto>
+            </item>
+            <item>
+                <texto>“Caiu uma folha de mangueira com o vento perto da representação do ideal: veio do céu, por isso ficou aqui.”</texto>
+            </item>
+            <item>
+                <texto>“A união das varetas de bambu feita com barbante simboliza a força da união. A necessidade de associação dos produtores.”</texto>
+            </item>
+            <item>
+                <texto>“As folhas da agricultura atual e da ideal foram interligadas com a cartolina, representando a ponte que poderia ser os próprios monitores, as parcerias.”</texto>
+            </item>
+            <item>
+                <texto>“As pedras colocadas no meio e em cada uma das folhas tinha o significado dos obstáculos. Os de hoje serão superados, nem por isso deixarão de surgir novos obstáculos no futuro.”</texto>
+            </item>
+            <item>
+                <texto>“No ideal, uma coisa que as famílias querem é maior conforto, um pouco mais de conforto para famílias.”</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                No caso do assentamento Vereda I, o objetivo da utilização da técnica construção foi estimular a criatividade dos assentados no emprego de recursos escassos, observando-se o projeto que cada grupo apresentava para o assentamento. Ao apresentarem seus projetos, eles demonstraram os problemas e as necessidades que sentiam no espaço produtivo e na socialização entre as famílias. Para isso, também foram oferecidos a cada grupo a mesma quantidade de materiais encontrados na área do assentamento, quais sejam: cinco gravetos; pequena quantidade de saibro e de pedregulhos. Não foram oferecidos outros materiais como barbante, fita crepe, papel e cola porque não eram recursos disponibilizados no cotidiano deles, o que poderia limitar a simbologia das suas ideias ao projetar as construções. Como a maioria deles carregava facas, facões ou canivetes, foi permitido o uso livre desses instrumentos. A Fotografia 8 mostra os materiais utilizados por um dos grupos.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                Depois da utilização dessa técnica foram discutidas as razões que levaram cada grupo a definir o seu projeto, as dificuldades que encontraram para desenvolver a construção e a organização do grupo para isso. Os assentados presentes na reunião foram divididos em quatro grupos.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No grupo 1, os assentados projetaram um galpão com energia e um poço artesiano. Nesse grupo, os assentados se colocaram como produtores da agricultura mecanizada, o que justifica o projeto do galpão com as máquinas agrícolas e a rede elétrica. Seus argumentos foram os seguintes: 
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“A gente somos do campo e, se reunir, podemos conseguir.” (Argumento 1)</texto>
+            </item>
+            <item>
+                <texto>“O material significa aquilo que precisamos para o assentamento, aquilo que a gente espera.” (Argumento 2)</texto>
+            </item>
+            <item>
+                <texto>“Sonho de um galpão do campo de cerrado, com um trator, caminhão para transportar o alimento para vender, poço artesiano, rede de energia elétrica, calcário e adubo.” (Argumento 3)</texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                No grupo 2, os assentados representaram a situação histórica vivenciada por eles na fase de acampamento, enfocando as dificuldades de se organizar coletivamente para conquistar a terra. Tais dificuldades ainda estão presente na fase atual. No início, o grupo demonstrou dificuldades para planejar e trabalhar de forma coletiva. Algumas pessoas começaram a quebrar parte do material sem ouvir/respeitar as ideias dos demais. Então, um integrante disse “que era preciso pensar primeiro”. Depois de conversarem, chegaram à conclusão que seria possível, com o material disponível, construir três coisas: casa, fogueira e curral. Decidiram então representar o início da chegada na Fazenda Serra Feia, onde tudo era feito em conjunto. Havia um barracão onde eram feitas as reuniões e algumas pessoas dormiam, e um fogão que as mulheres usavam para cozinhar para todo o acampamento. Na técnica, tudo aconteceu tão rápido, exatamente como na época do acampamento. O curral, que era visto do acampamento, significava a conquista da sede, um objetivo.  
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No grupo 3, projetaram uma casa e seu entorno. O grupo iniciou o trabalho sem planejamento. Aos poucos, com a iniciativa de alguns, foi surgindo uma “parede”, que consumiu quase todos os recursos que possuíam. Com a parede terminada, começaram a surgir os questionamentos: “Ninguém mora em uma parede. Se tivesse construído mais fina dava pra mais coisas. Vamos começá de novo.” O recomeço propiciou uma reflexão sobre planejamento de atividades que motivou a participação dos que ainda não haviam se manifestado. Nesse momento, tinham uma certeza: “pelo menos uma casa tem que sair”. O resultado foi a construção de uma casa, uma fossa séptica, um curral e um paiol, com o trabalho conjunto de mulheres e homens em um processo reflexivo a respeito da gestão de recursos e da participação coletiva.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No grupo 4, fizeram uma maquete reproduzindo uma propriedade rural. O trabalho começou sem planejamento, com um dos assentados construindo uma casa. Depois, cada integrante se empenhou a fazer o que desejava, o que caracterizou um trabalho mais individual do que coletivo, porém dentro de uma só ideia: construir uma fazenda. O grupo trabalhou de forma criativa e habilidosa na construção das seguintes “benfeitorias”: cerca, mata-burro, casa, fogão a lenha, “reserva” de lenha, chiqueiro, galinheiro, curral com coberta para bezerros, pasto, culturas, área de reserva ambiental, poste de energia elétrica e antena de televisão. O grupo não demonstrou dificuldades de trabalhar com o número reduzido de materiais, conseguindo aproveitar bem o que foi oferecido. Depois de construída a infraestrutura básica, deram continuidade à invenção através do desdobramento do material, dividindo a madeira e melhorando a maquete. Em conversa com os integrantes do grupo, foi possível identificar que eles tinham idealizado esse tipo de estabelecimento. Reproduziram na maquete os elementos constituintes de uma propriedade rural por onde provavelmente passaram e com a qual se identificaram. Tais elementos eram familiares ao grupo e representá-los foi uma atividade prazerosa.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os resultados da técnica construção deram subsídios para a realização da técnica matriz realidade e objetivo, por meio da qual os assentados apresentaram, coletivamente, os principais problemas da área social e da área de produção.
+            </texto>
+        </paragrafo>
+
+        <subsecao>Matriz Realidade e Objetivo</subsecao>
+        <paragrafo>
+            <texto>
+                Essa técnica consiste na elaboração de uma matriz na qual são cruzadas as informações sobre os problemas, suas causas e possíveis soluções apresentadas pelos participantes. Com base nos resultados dessa matriz é que se pode elaborar o planejamento participativo, explicitando as atividades que serão desenvolvidas pela própria coletividade, pelo poder público local, estadual ou federal –, a curto, médio e longo prazo. Essa técnica é utilizada no último dia de trabalho da equipe, pois constitui uma forma de sistematizar toda a problematização crítica dos dias anteriores.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para iniciar a técnica, pede-se aos participantes que apresentem os principais problemas que estão enfrentando. Em várias situações e contextos, principalmente em assentamentos rurais, os problemas foram divididos em “problemas sociais” e “problemas de produção”. Depois de relacionados os principais problemas, pede-se aos participantes que apontem o primeiro problema e falem sobre ele. 
+            </texto>
+        </paragrafo>
+        <chamada estilo="destaque">
+            <paragrafo>
+                <texto>
+                    A equipe interdisciplinar deve estimular as reflexões dos participantes, organizando as falas no sentido de dar oportunidade para todos que desejam se pronunciar. 
+                </texto>
+            </paragrafo>
+        </chamada>
+        <paragrafo>
+            <texto>
+                A equipe solicita aos participantes que reflitam sobre as causas do referido problema e, na sequência, pede-se que apresentem o objetivo relacionado ao referido problema. Por último, pergunta-se aos participantes sobre o caminho a ser escolhido para resolver o problema identificado, tendo em vista o objetivo apresentado.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No caso do assentamento Cachoeira, utilizou-se a matriz realidade e objetivo, no âmbito do Plano de Desenvolvimento do Assentamento (PDA), com 18 assentados (3 mulheres e 15 homens). O objetivo da realização da técnica matriz realidade e objetivo foi provocar a discussão coletiva sobre os principais problemas da área social e da área de produção. Para cada problema apresentado por eles, foram discutidas, detalhadamente as suas causas e indicados os respectivos objetivos. Em seguida, foram discutidos e apresentados os caminhos possíveis para atingir os objetivos, atribuindo-se responsabilidades para cada instituição e pessoa envolvidas no Plano. Os resultados obtidos com essa técnica encontram-se nos Quadros 11 e 12.
+            </texto>
+        </paragrafo>
+
+
+        <paragrafo>
+            <texto>
+                Segundo os assentados, dois grandes problemas eram a demora do PRONAF e a falta de licença para o desmatamento de lotes. O objetivo do desmatamento era a abertura das áreas para as atividades de maior interesse, que eram a criação de gado, o cultivo de pequenas áreas de milho, mandioca, arroz e feijão e a construção da casa e do quintal. O PDA foi encarado, pelos assentados, desde o começo, como uma “pedra no sapato”, um obstáculo a ser vencido para obtenção dos créditos do PRONAF. Entretanto, foi possível  estabelecer um diálogo com eles ressaltando as qualidades das lideranças, reprimindo expressões de autoritarismo e quebrando a “cultura do silêncio”. A assistência técnica tem um papel importante na continuidade desse processo educativo, ela deve ser diferenciada, a partir de uma postura educadora do técnico, entendendo a lógica da lavoura camponesa e percebendo o potencial de preservação e aproveitamento do cerrado na segurança alimentar do assentamento.  
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os problemas da área social e suas causas estão quase sempre ligados às políticas públicas, à educação, à saúde, à cultura e ao bem-estar social. Percebe-se que a entrada na terra não era a única “cerca” que eles tinham a vencer, ainda faltavam muitas outras que estavam diretamente relacionadas às intervenções do poder público. Ou seja, havia um longo caminho que deveriam percorrer em busca da cidadania. A questão ambiental, que apareceu mais evidente na preocupação com a diminuição das águas, foi muito discutida durante as técnicas e demonstrou a necessidade de um processo educativo constante e de alternativas técnicas viáveis para compatibilizar sustentabilidade ambiental com desenvolvimento econômico. As parcerias constituíam um meio importante para a construção e organização do assentamento, fazendo pontes com instituições públicas como a Universidade de Brasília (UnB), por meio do Programa Nacional de Educação da Reforma Agrária (PRONERA) e da Escola Agrotécnica de Unaí.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                No caso da Cooperativa Mariense de Artesanato, a matriz realidade e objetivo foi desenvolvida sem a separação entre área social e de produção. As causas dos problemas foram apresentadas de forma descritiva, depois da apresentação dos problemas, dos objetivos e das soluções, pelos associados, como pode ser observado no Quadro 13.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                As justificativas dos problemas e dos desejos dos associados foram apresentadas de forma descritiva. Para os associados, a falta de arrecadação dos fundos obrigatórios da cooperativa ocorreu devido à falta de conhecimento da lei que rege as cooperativas. O Fundo de Reserva Legal e o Fundo de Assistência Técnica, Educacional e Social (FATES) são obrigatórios pela Lei n. 5.764, de 16 de dezembro de 1971. Para as cooperativas, o artigo 28 da Lei n. 5.764/71 especifica as reservas (o legislador utilizou o nome “fundos”) obrigatórias, como segue:
+            </texto>
+        </paragrafo>
+        
+        <citacao>Art. 28 As cooperativas são obrigadas a constituir:</citacao>
+        <citacao>I Fundo de Reserva destinado a reparar perdas e atender ao desenvolvimento de suas atividades, constituído com 10% (dez por cento), pelo menos, das sobras líquidas do exercício;</citacao>
+        <citacao>II Fundo de Assistência Técnica, Educacional e Social, destinado à prestação de assistência aos associados, seus familiares e, quando previsto nos estatutos, aos empregados da cooperativa, constituído de 5% (cinco por cento), pelos menos, das sobras líquidas apuradas no exercício.</citacao>
+        <citacao>§ 1º Além dos previstos neste artigo, a Assembléia Geral poderá criar outros fundos, inclusive rotativos, com recursos destinados a fins específicos, fixando o modo de formação, aplicação e liquidação.</citacao>
+        <citacao>§ 2º Os serviços a serem atendidos pelo Fundo de Assistência Técnica, Educacional e Social poderão ser executados mediante convênio com entidades públicas e privadas. (BRASIL, 1971).</citacao>
+        
+        <paragrafo>
+            <texto>
+                Para os associados, o estatuto tinha muitos pontos falhos que precisavam ser verificados para que a cooperativa funcionasse melhor, e todos deveriam estudá-lo, se reunir em oficinas, no intuito de rever os pontos do estatuto e apresentar sugestões para melhorá-lo. Depois de realizadas as reuniões nessas oficinas, os grupos se reuniriam para trocar as ideias sugeridas e fariam uma prévia para, assim, levá-las para a assembleia.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Um dos problemas enfrentados pela cooperativa era a sua relação com os lojistas. Muitas vezes eram feitos grandes pedidos e, quando chegava o prazo para a entrega, o lojista desistia, ficando a cooperativa com uma grande quantidade de peças produzidas e uma dívida para pagar aos fornecedores de matéria-prima. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para os associados seria muito importante estabelecer um contrato de compra e venda tanto com os fornecedores quanto com os lojistas. Dessa forma, a cooperativa estaria garantindo o pagamento por desistência e a multa por atraso na entrega do material. Além desse contrato, os associados levantaram a necessidade de ter uma política de compra e venda para evitar a flutuação da demanda, uma vez que as peças eram produzidas quando havia pedidos. Para eles, descobrir novos nichos de mercado como a rede hoteleira, arquitetos e decoradores poderia ser um caminho para manter a produção em um nível contínuo e assim sair da dependência dos lojistas.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os associados relataram que o trabalho de confecção das peças era muito minucioso e levava tempo para ser executado. Muitas vezes o atraso na entrega era causado pela falta de matéria-prima dos fornecedores. Outro motivo apontado foi a falta de planejamento da produção, incluindo um detalhamento do tempo necessário para se produzir as peças. Segundo os próprios associados, se eles tivessem o cálculo do tempo que gastavam para produzir cada peça, ficaria mais fácil negociar com o lojista o prazo de entrega dos pedidos, evitando assim atrasos.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A construção ou aquisição de uma sede seria fundamental para a redução dos custos da cooperativa, uma vez que as oficinas e o escritório funcionavam em espaços alugados. Isso possibilitaria também a compra de matéria-prima de forma unificada, além do consumo e pagamento unificado das contas de luz, água e telefone.  A compra de matéria-prima era feita por oficinas, o que gerava uma despesa considerável. O material enviado para os lojistas ficava estocado no escritório, sendo este um espaço muito pequeno para esse tipo de atividade. Para construir a sede, a cooperativa precisaria adquirir um terreno de no mínimo um hectare e ter recursos financeiros.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os associados levantaram a questão de a produção se tornar parecida uma com a outra, o que não precisaria acontecer, pois havia muitas possibilidades do que se criar com fibra de bananeira.
+            </texto>
+        </paragrafo>
+        
+        <lista>
+            <item>
+                <texto>“[...] temos que trabalhar juntos e não desenvolver produtos para serem concorrentes dentro da cooperativa.” (Comentário 11)</texto>
+            </item>
+            <item>
+                <texto>“[...] a esteira é uma linha nova, nós vamos precisar de gente para aprender a fazer trama.” (Comentário 12).</texto>
+            </item>
+            <item>
+                <texto>“[...] temos que ter convergência de ideias em torno da produção das peças.” (Comentário 12).</texto>
+            </item>
+        </lista>
+        
+        <paragrafo>
+            <texto>
+                Um dos artesãos apresentou uma questão muito importante para o desenvolvimento da cooperativa: a participação dos associados. A participação deve estar sempre relacionada com comprometimento. Ela não pode se dar apenas pelo fato de o associado estar presente. Embora a participação seja algo essencial, seria necessário haver outros objetivos que poderiam ser alcançados por meio dela. Sem a participação consciente dos associados na cooperativa, não é possível desenvolvê-la com bases sólidas.
+            </texto>
+        </paragrafo>
+        <lista>
+            <item>
+                <texto>“[...] convocação não é convite. Muitos não têm consciência disso.” (Comentário 12) </texto>
+            </item>
+        </lista>
+        <paragrafo>
+            <texto>
+                Na oficina Gente de Fibra, os associados relataram a necessidade de adquirir mais dois fornos para dar conta de secar a produção no período de chuvas, quando a demanda era maior. Para os associados, faltavam equipamentos como plaina maior, serra de fita, estufa e lixadeira. O trabalho de lixar as peças era especializado e, na falta de uma pessoa, não havia como substituí-la. Na oficina Artes e Design, os associados relataram a necessidade de adquirir o equipamento “masseira”, pois dependiam da oficina Gente de Fibra para produzir a massa. Para eles, faltavam vários equipamentos necessários, como: prensa; equipamentos usados na lixadeira; mesa na área de acabamento; banquetas; espátulas.
+            </texto>
+        </paragrafo>
+
+        <subsubsecao>Eleição de Prioridades</subsubsecao>
+        
+        <paragrafo>
+            <texto>
+                Essa técnica consiste na apresentação e análise de todas as demandas existentes por parte da coletividade em foco, com o objetivo de elegê-las em ordem crescente de prioridade. Essa eleição constitui um ritual de encerramento do DRPE e se configura em um elemento fundamental para definir as estratégias orçamentárias e o planejamento participativo. Nesse momento, os participantes têm a oportunidade de praticar a democracia interna porque vão eleger suas prioridades depois de um processo educativo de análise da sua própria realidade, tendo consciência das suas limitações e possibilidades. A eleição de prioridades caracteriza o encerramento de um processo e o início de outro, que se dá com o “planejamento participativo”, servindo de base para se estabelecer os objetivos de curto, médio e longo prazo, bem como o estabelecimento de estratégias de ação. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Para a realização dessa técnica são distribuídos cartões feitos com cartolinas de cores diferentes, à escolha da equipe, com tamanho padronizado, representando simbolicamente dinheiro, para atribuir valores aos votos, da seguinte forma, por exemplo: verde = R$ 10,00 (dez reais); amarelo = R$ 5,00 (cinco reais); branco = R$ 1,00 (um real). O objetivo dessa técnica é identificar as prioridades sociais, econômicas, políticas e técnico-produtivas dos participantes por meio da realização de uma eleição democrática. Assim, as “notas”, ou cédulas de votação, são distribuídas e apresentadas as “urnas” com suas respectivas identificações (desenhos ou símbolos), para que pessoas analfabetas ou semianalfabetas possam identificá-las corretamente. Deve-se eleger fiscais, entre os participantes, para acompanhar a votação e evitar a “boca de urna”. A equipe interdisciplinar deve monitorar os eleitores no intuito de garantir a lisura de todo o processo. A “apuração” deve ser realizada na presença dos participantes, e o resultado apresentado imediatamente.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                A partir dos resultados da matriz realidade e objetivo é que se procede à realização da “eleição de prioridades”, subsidiando, assim, o planejamento participativo e a elaboração de projetos específicos. Os resultados obtidos com a utilização da técnica no assentamento Cachoeira estão apresentados nas Tabelas 1 e 2 (entre parênteses está o número de pessoas que votou na opção).
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os resultados da “eleição de prioridades” realizada com os associados da Cooperativa Mariense de Artesana encontram-se na Tabela 3 (entre parênteses está o número de pessoas que votou na opção).
+            </texto>
+        </paragrafo>
+
+        <subsecao>Considerações finais</subsecao>
+        <indice nivel="3">Considerações finais</indice>
+        <paragrafo>
+            <texto>
+                Como visto ao longo de todo o texto, o DRPE é um método que promove a participação e a formação de uma consciência crítica dos sujeitos de uma dada coletividade geralmente em torno da construção de um bem comum. No contexto de sociedades que buscam implementar e consolidar a democracia, como é o caso da sociedade brasileira, esse método pode contribuir para a formação de cidadãos conscientes de seus direitos e de seus deveres no processo de coprodução do bem público e de construção da nação. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Os resultados alcançados com as práticas do método DRPE em diferentes contextos expressam o seu potencial de transformação social ao estabelecer, localmente, processos dialógicos comprometidos com a construção de um bem comum à coletividade que até então não existia. Como analisou muito bem Paulo Freire, prevalecia, e ainda prevalece, na sociedade brasileira, o que denominou de “cultura do silêncio”. Essa cultura expressa um valor comum à maioria dos brasileiros, o silêncio, cujo sentido não pode ser atribuído porque são mudos, mas porque são impedidos de falar, de se comunicar e, consequentemente, impedidos de ser. Mesmo no contexto democrático em que atualmente se vive, ainda existe receio ou medo de expressar ideias e valores, por possíveis repreensões de quem detém o monopólio do poder de fala ou por coerção das posições sociais presentes e atuantes no local. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Contudo, transformar esse valor sedimentado por séculos na cultura brasileira é um imperativo categórico para se construir uma sociedade verdadeiramente democrática. Um passo à frente foi dado com a Constituição Federal de 1988, que abriu espaço formal para os mais variados instrumentos e direitos de democracia participativa e deliberativa, como a tramitação de projetos de lei de iniciativa popular, a livre associação civil, as garantias de direitos civis, políticos e sociais. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Um passo mais à frente é necessário: transformar a cultura do silêncio em cultura do diálogo. Para isso, é preciso ter em mãos métodos científicos adequados que auxiliem na tarefa de denunciar e quebrar a cultura do silêncio e de anunciar e construir a cultura democrática dialógica, caso contrário uma guerra de todos contra todos será inevitável, por falta de comunicação e de entendimento. Ou ainda, assistir, como no momento atual, a uma corrupção da opinião pública influenciada pela manipulação, distorção e omissão de informações por parte do Estado, das grandes corporações e da mídia televisiva e impressa que circula em todo o País. Um método científico adequado é aquele que tem o compromisso com a verdade e com a busca de um entendimento, de um consenso, não no sentido da relação entre maioria e minoria, mas com base em argumentos coerentes e consistentes, argumentos fundamentados em conhecimento científico e no saber da experiência. Mais ainda, tem o compromisso com o interesse público, com a construção de um bem comum e com o bem viver. Esse método deve ser capaz de colocar em prática o diálogo entre o senso comum, ou o saber da experiência, com o conhecimento científico, no sentido de produzir um conhecimento prático, esclarecido e acessível a todos. 
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                As práticas metodológicas com a utilização do DRPE apresentadas neste livro demonstram os compromissos éticos desse método, e os resultados alcançados mostram que uma transformação cultural é possível. O alcance ainda pode ser pequeno em termos de número de pessoas, o tempo necessário para preparar a equipe interdisciplinar pode ser longo e os custos financeiros para sua realização podem ser expressivos. Contudo, os dispêndios de tempo, recursos financeiros e de pessoas são relativos se comparados com a permanência da população na ignorância e na cultura do silêncio. Para isso, basta verificar os números financeiros da corrupção que historicamente assolam o País.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                Por fim, é necessário reafirmar que esse método não é a solução para todos os males que sofre a cultura brasileira, mas constitui uma possibilidade objetiva de estabelecer um processo de transformação de forma gradual e duradoura na direção de uma ação dialógica e de formação de uma racionalidade substantiva e comunicativa, requisitos essenciais para a consolidação de uma democracia participativa e deliberativa. Assim, espera-se que esta obra estimule mais pessoas, organizações e instituições a adotar o DRPE como rotina de trabalho em coletividades.
+            </texto>
+        </paragrafo>
+    </pagina>
+    
+    <pagina>
+        <numero>501</numero>
+        <secao>Referências</secao>
+        <indice nivel="1">Referências</indice>
+        <paragrafo>
+            <texto>
+                ALENCAR, E. Associativismo rural e participação. Lavras: UFLA/FAEPE, 2001. 80 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Formas de intervenção e associações comunitárias: apresentação de três casos. Revista Brasileira de Administração Contemporânea, Rio de Janeiro, v. 1, n. 10, p. 97–115, set. 1995.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Intervenção tutorial ou participativa? Cadernos de Administração Rural, Lavras, v. 2, n. 1, p. 23–43, jan./jun.1990.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Introdução à metodologia de pesquisa social. Lavras: UFLA, 1999. 125 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                BARDIN, Laurence. Análise de conteúdo. Lisboa: Edições 70, 1977. 229 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                BEEBE, James. Basic concepts and techniques of rapid appraisal. Human Organization, v. 54, n. 1, 1995. 
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                BORDA, O. F. Aspectos teóricos da pesquisa participante: considerações sobre o significado e o papel da ciência na participação popular. In: BRANDÃO, C. R. (Org.). Pesquisa participante. São Paulo: Brasiliense, 1989. p. 42–62.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                BRASIL. Lei n. 5.764, de 16 de dezembro de 1971. Define a Política Nacional de Cooperativismo, institui o regime jurídico das sociedades cooperativas, e dá outras providências. Disponível em: &lt;http://www.planalto.gov.br/ccivil_03/leis/L5764.htm&gt;. Acesso em: 17 fev. 2017.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                BROSE, Markus (Org.). Metodologia participativa: uma introdução a 29 instrumentos. Porto Alegre: Tomo Editorial, 2001. 312 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                CANÇADO, Airton C.; PEREIRA, José Roberto; TENÓRIO, Fernando G. Gestão Social: epistemologia de um paradigma. Curitiba, CRV, 2015. 214 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                CHAMBERS, R. Rural appraisal: rapid, relaxed and participatory. London: Institute of Development Studies, 1992. 50 p. (IDS Discussion Papers 311).
+            </texto>    
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Rural development: putting the last first. New York: Longman Scientific and Techhnical, 1987. 246 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                COELHO, F. M. G. A arte das orientações técnicas no campo: concepções e métodos. Viçosa: Ed. UFV, 2005. 139 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                D’INCAO, M. C.; ROY, G. Nós, cidadãos: aprendendo e ensinando a democracia. Rio de Janeiro: Paz e Terra, 1995. Ver “Conclusão: Intervenção alienante e mediação libertadora”, p. 253–267.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Nós, cidadãos: autonomia e participação popular. Rio de Janeiro: Paz e Terra, 1995. 277 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                DAHL, Robert A. Um prefácio à teoria democrática. Rio de Janeiro: Jorge Zahar Editor, 1989.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Sobre a democracia. Brasília, DF: EdUnB, 2001. 230 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                DEMO, Pedro. Participação é conquista: noções de política social participativa. Fortaleza, UFCE, 1986. 137 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ECO, Umberto. Como se faz uma tese. São Paulo: Editora Perspectiva, 1977. 170 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                FIGUEIREDO, Luís Cláudio. Modos de subjetivação no Brasil e outros escritos. São Paulo, Editora Escuta, 1995. 151 p. 
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                FREIRE, Paulo. Ação cultural para liberdade e outros escritos. Rio de Janeiro: Paz e Terra, 1982. 149 p.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                ______. Educação como prática da liberdade. Rio de Janeiro: Paz e Terra, 1983. 150 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Pedagogia da autonomia: saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996. 165 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Pedagogia do oprimido. Rio de Janeiro: Paz e Terra, 1987. 184 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                GARCIA, F. A base de uma administração autodeterminada: o diagnóstico emancipador. Rev. Adm. Emp, Rio de Janeiro, v. 20, n. 2, p. 7–17,  1980.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                HABERMAS, Jürgen. Diagnóstico do tempo: seis ensaios. Rio de Janeiro: Tempo Brasileiro, 2005. 180 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Direito e democracia: entre facticidade e validade. 2. ed. Rio de Janeiro, Tempo Brasileiro, 2010. 354 p. 1 v.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                ______. Direito e democracia: entre facticidade e validade. 2. ed. Rio de Janeiro: Tempo Brasileiro, 2003b. 352 p. 2 v.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Entre naturalismo e religião: estudos filosóficos. Rio de Janeiro: Tempo Brasileiro, 2007. 400 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Mudança estrutural da esfera pública: investigações quanto a uma categoria da sociedade burguesa. Rio de Janeiro: Tempo Brasileiro, 2003a.  398 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Teoria do agir comunicativo 1: racionalidade da ação e racionalização social. São Paulo: Editora WMF Martins Fontes, 2012a. 704 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Teoria do agir comunicativo 2: sobre a crítica da razão funcionalista. São Paulo: Editora WMF Martins Fontes, 2012b. 811 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                KLAUSMEYER, A.; RAMALHO, L. (Org.). Introdução a metodologias participativas: um guia prático. Recife: SACTES – DED, 1985. 250 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                HOUAISS, Instituto Antônio Houaiss. Dicionário da Língua Portuguesa. Versão monousuário, 3.0. CD-ROM. Objetiva: junho de 2009.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                KRUEGER, Richard A. Focus groups: a practical guide for applied research. London: SAGE Publications, 1994.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                LEROY, J. P. Modelos de desenvolvimento em questão. In: COMISSÃO PATORAL DA TERRA.  A luta pela terra: a Comissão Pastoral da Terra 20 anos depois. São Paulo: Paulus, 1997. p. 87–98.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                LIMA, V. A. de. Comunicação e cultura: as ideias de Paulo Freire. Rio de Janeiro: Paz e Terra, 1981. 167 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                MARQUES, Ângela C. S. (Org.) A deliberação pública e suas dimensões sociais, políticas e comunicativas: textos fundamentais. Belo Horizonte: Autêntica Editora, 2009. 271 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                MARQUES, José Roberto. O que é Rapport. 2016. Disponível em: &lt;http://www.ibccoaching.com.br/portal/coaching-e-psicologia/o-que-e-rapport&gt;. Acesso em: 16 fev. 2016.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                MARTINS, J. S. A chegada do estranho. São Paulo: Hucitec, 1993. 179 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                OAKLEY, P. Participation in development in Norteast Brazil. Community Development Journal, Oxford, v. 16, n. 1, p. 10–22, jan., 1980.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                OAKLEY, P.; MARSDEN, D. Approaches to participation in rural development. Genebra: International Labour Office, 1985.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                OLIVEIRA, L. R. C. O trabalho do antropólogo. Brasília, DF: Paralelo 15; São Paulo: Editora UNESP, 1998. 220 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                PEREIRA, José Roberto. De camponeses a membros do MST: os novos produtores rurais e sua organização social. Brasília, DF: Universidade de Brasília (UnB), 2000. 221 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Diagnóstico Rápido Participativo Emancipador (DRPE): metodologia. Brasília, DF: INCRA/BID, 1998. 20 p. Projeto BR 0274 ;  Mimeografado.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. DRPE – Diagnóstico Rápido Participativo Emancipador: a base para o Desenvolvimento Sustentável dos Assentamentos da Reforma Agrária. Viçosa: [S.L.], 2004a. Mimeografado.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ________. ERU 52: metodologia de intervenção e gerenciamento participativo. Viçosa, MG: UFV, 2004b. 35 p.
+            </texto>
+        </paragrafo>
+
+
+        <paragrafo>
+            <texto>
+                PEREIRA, J. R. et al. Incubadora tecnológica de Cooperativas Populares. Lavras, 2010, 20 p. (Desenvolvimento de material didático ou instrucional - Cartilha).
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Relatório de avaliação do segundo ano do PDHS para o Fundo Cristão para Criança. Viçosa, MG: [s.n.], 2003a. 108 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Plano de Desenvolvimento do Assentamento Cachoeira. Brasília, DF: Universidade de Brasília (UnB), 2002, 64 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Plano de Desenvolvimento do Assentamento São Francisco. Brasília, DF: Universidade de Brasília (UnB), 2003b, 99 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Diagnóstico Participativo dos Atingidos pela Barragem do Consórcio Candonga. Viçosa, MG: [s.n], 2004c, 86 p.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                ______. Plano de Desenvolvimento do Assentamento Vereda I. Brasília, DF: Universidade de Brasília (UnB), 2001a. 73 p.
+            </texto>
+        </paragrafo>
+        <paragrafo>
+            <texto>
+                ______. Relatório DRPE da Cooperativa Mariense de Artesanato. Maria da Fé. Lavras, MG: [s.n.], 2007. 43 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ______. Visões mediadoras e o papel dos diagnósticos participativos na organização de assentamentos rurais. Revista de Administração da UFLA – Organizações Rurais e Agroindustriais. Lavras, v.3, n. 2, p. 3–11, jul./dez., 2001b.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                POLETTO, I. A terra e a vida em tempos neoliberais: uma releitura da história da CPT. In: COMISSÃO PASTORAL DA TERRA. A luta pela terra: a Comissão Pastoral da Terra 20 anos depois. São Paulo: Paulus, 1997. p.21–69.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ROMANO, J. O. Poder, valores e conflitos nos processos de organização no interior dos assentamentos: comentários a um debate. In: MEDEIROS, L. et al. (Org.). Assentamentos rurais: uma visão multidisciplinar. São Paulo: UNESP, 1994. p. 250–258.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ROUSSEAU, Jean-Jacques. O contrato social. São Paulo: Penguin Classics Companhia das Letras, 2011. 199 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                SABOURIN, E. Desenvolvimento territorial e abordagem territorial: conceitos, estratégias e atores. In: SABOURIN, E.; TEIXEIRA, O. A. (Ed.). Planejamento e desenvolvimento dos territórios rurais: conceitos, controvérsias, experiências. Brasília, DF: Embrapa Informação Tecnológica, 2002. 402 p. p. 21-37.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                SOUSA SANTOS, Boaventura. de. Introdução a uma ciência pós-moderna. Rio de Janeiro: Graal, 1989. 176 p.
+            </texto>
+        </paragrafo>
+
+
+        <paragrafo>
+            <texto>
+                SOUZA, H. J. Como se faz análise de conjuntura. 11. ed. Petrópolis: Vozes, 1991. 54 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                TODOROV, T. A conquista da América: a questão do outro. São Paulo: Martins Fontes, 1996. 263 p.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                TRIVIÑOS, Augusto N. Silva. Introdução à pesquisa em ciências sociais. São Paulo: Atlas, 1987. 
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                VERHAGEN, K. Co-operation for survival. Dordrecht: ICG Printing, 1984.
+            </texto>
+        </paragrafo>
+
+        <paragrafo>
+            <texto>
+                ZIMMERMANN, N. de C. Os desafios da organização interna de um assentamento rural. In: MEDEIROS, L. et al. (Org.). Assentamentos rurais: uma visão multidisciplinar. São Paulo: UNESP, 1994. p. 205–224.
+            </texto>
+        </paragrafo>
+    </pagina>
+
 
     
 </livro>

@@ -20,6 +20,10 @@ class Paragraph extends GeneralContent {
                 case "abrirpopup" :
                     $html .= (new OpenPopup($child))->html();
                     break;
+                
+                case "quebralinha":
+                    $html .= (new BreakRow($child))->html();
+                    break;
 
                 case "link":
                     $html .= (new Link($child))->html();
