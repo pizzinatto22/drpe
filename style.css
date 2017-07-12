@@ -127,8 +127,8 @@ body {
     font-size: 60px;
 }
 
-.chamada.destaque {
-    background-color: rgb(185, 109, 21);
+.chamada.destaque,
+.chamada.destaque_verde {
     color: white;
     margin-left: -32px;
     margin-right: -32px;
@@ -138,6 +138,20 @@ body {
     padding-bottom: 16px;
     text-align: justify;
 }
+
+.chamada.destaque {
+    background-color: rgb(152, 72, 6);
+}
+
+.chamada.destaque_verde {
+    background-color: rgb(135, 185, 188);
+}
+
+.chamada.destaque .paragrafo,
+.chamada.destaque_verde .paragrafo {
+    text-indent: 0;
+}
+
 
 .chamada.destaque2 {
     color: white;
@@ -181,6 +195,7 @@ body {
 
 .chamada.aprofundando,
 .chamada.dicaleitura,
+.chamada.glossario,
 .chamada.link,
 .chamada.saibamais {
     font-size: 40px;
@@ -202,6 +217,11 @@ body {
     color: rgb(232, 165, 154);
 }
 
+.chamada.glossario {
+    background-image: url(images/glossario.png);
+    color: rgb(232, 166, 153);
+}
+
 .chamada.link {
     background-image: url(images/link.png);
 }
@@ -218,6 +238,7 @@ body {
 
 .chamada.aprofundando .paragrafo,
 .chamada.dicaleitura .paragrafo,
+.chamada.glossario .paragrafo,
 .chamada.link .paragrafo,
 .chamada.saibamais .paragrafo {
     font-size: 40px;
@@ -274,7 +295,6 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.itemlista,
 .paragrafo {
     text-indent: 4em;
     text-align: justify;	
@@ -283,12 +303,19 @@ body {
 
 .itemlista {
     display: list-item;
-    list-style-position: inside;
+    text-indent: 0;
+    text-align: justify;
+    margin-left: 4em;
+    margin-top: 1em;
 }
 
 
 .paragrafo.texto_direita {
     text-align: right;
+}
+
+.paragrafo .verde {
+    color: rgb(72, 165, 100);
 }
 
 .secao {
@@ -353,6 +380,10 @@ body {
 
 .openpopup.dicaleitura {
     color: rgb(232, 165, 154);
+}
+
+.openpopup.glossario {
+    color: rgb(232, 166, 153);
 }
 
 .openpopup.saibamais {
