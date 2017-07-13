@@ -314,6 +314,11 @@ body {
     text-align: right;
 }
 
+.paragrafo.avaliacao {
+    text-indent: 0;
+    color: rgb(79, 136, 126);
+}
+
 .paragrafo .verde {
     color: rgb(72, 165, 100);
 }

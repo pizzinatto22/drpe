@@ -1254,7 +1254,11 @@
             </texto>
             <negrito>Faculdade crítica</negrito>
             <texto>
-                diz respeito ao nível de consciência (crítica, ingênua e mágica) em que se encontram os indivíduos e o grupo para agir coletivamente. Está relacionada com o processo de conscientização de Paulo Freire e com o que denomina de “percepção estrutural da realidade”. De acordo com Alencar (2001, p. 63), esse subprocesso possui diferentes dimensões, como a identificação dos problemas e das suas possíveis causas; o estabelecimento de cursos de ações para lidar com os problemas identificados; e o desenvolvimento das ações e avaliação.
+                diz respeito ao nível de consciência 
+            </texto>
+            <abrirpopup id="POPUP_CRITICA" estilo="saibamais">(crítica, ingênua e mágica)</abrirpopup>
+            <texto>
+                em que se encontram os indivíduos e o grupo para agir coletivamente. Está relacionada com o processo de conscientização de Paulo Freire e com o que denomina de “percepção estrutural da realidade”. De acordo com Alencar (2001, p. 63), esse subprocesso possui diferentes dimensões, como a identificação dos problemas e das suas possíveis causas; o estabelecimento de cursos de ações para lidar com os problemas identificados; e o desenvolvimento das ações e avaliação.
             </texto>
         </paragrafo>
 	<paragrafo>
@@ -1387,6 +1391,18 @@
                 <texto>A intervenção participativa, ou intervenção social, é uma ação, ou conjunto de ações, praticada por pessoas que não pertencem ao núcleo comunitário onde tal ação se realiza (agentes externos). Ela pode assumir um caráter “tutorial” ou um caráter “educativo”. A intervenção assume um caráter tutorial quando a ação do agente externo é orientada no sentido de introduzir ideias previamente estabelecidas sem que haja participação da população na formulação de tais ideias. Nessa forma de agir, é o agente externo quem elabora os diagnósticos, identifica os problemas, escolhe os meios para solucioná-los, estabelece as estratégias de ação e avalia as ações executadas. Cabe à população, nessa forma de intervenção, executar as ações “prescritas”. A intervenção assume um caráter educativo quando a população-alvo é estimulada pelo agente externo a desenvolver a habilidade de diagnosticar e analisar seus problemas, decidir coletivamente sobre as ações para solucioná-los, executar tais ações e avaliá-las, buscando, sempre que necessário, novas alternativas. Fonte: Alencar (1995, p. 98−99).</texto>
             </paragrafo>
         </popup>
+        
+        <popup id="POPUP_CRITICA">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba mais</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>A consciência crítica “[...] é a representação das coisas e dos fatos como se dão na existência empírica. Nas suas correlações causais e circunstanciais [...] A consciência ingênua (pelo contrário) se crê superior aos fatos, dominando-os de fora e, por isso, se julga livre para entendê-los conforme melhor lhe agradar [...] A consciência mágica, por outro lado, não chega a acreditar-se ‘superior aos fatos, dominando-as de fora, nem se julga livre para entendê-los como melhor lhe agradar’. Simplesmente os capta, emprestando-lhes um poder superior, que a domina de fora e a que tem, por isso mesmo, de submeter-se com docilidade. É próprio dessa consciência o fatalismo, que leva ao cruzamento dos braços, à impossibilidade de fazer algo diante do poder dos fatos, sob os quais fica vencido o homem. Fonte: Freire (1983, p. 105).</texto>
+            </paragrafo>
+        </popup>
+
 
     </pagina>
     
@@ -1413,7 +1429,11 @@
         
         <paragrafo>
             <texto>
-                A formação e preparação de uma equipe interdisciplinar para realizar o DRPE tem um papel fundamental no processo de intervenção participativa. A equipe deve ser formada por cinco pessoas, entre homens e mulheres, com formação distinta, mas complementares em relação ao universo temático da coletividade em foco, sendo um coordenador, um “animador”, um observador e dois anotadores. Além disso, o perfil dos membros da equipe deve contemplar a criatividade, iniciativa, capacidade de mobilização e, principalmente, comunicação. O coordenador é o responsável pela distribuição das tarefas aos demais membros, e todos, juntos, devem definir a melhor estratégia de utilização das técnicas; o “animador” é aquele que sensibiliza as pessoas nas reuniões coletivas; o observador tem a função de observar e entrevistar os participantes; e os anotadores são aqueles que anotam todas as informações nos momentos das reuniões coletivas.
+                A formação e preparação de uma equipe 
+            </texto>
+            <abrirpopup id="POPUP_INTERDISCIPLINAR" estilo="saibamais">interdisciplinar</abrirpopup>
+            <texto>
+                para realizar o DRPE tem um papel fundamental no processo de intervenção participativa. A equipe deve ser formada por cinco pessoas, entre homens e mulheres, com formação distinta, mas complementares em relação ao universo temático da coletividade em foco, sendo um coordenador, um “animador”, um observador e dois anotadores. Além disso, o perfil dos membros da equipe deve contemplar a criatividade, iniciativa, capacidade de mobilização e, principalmente, comunicação. O coordenador é o responsável pela distribuição das tarefas aos demais membros, e todos, juntos, devem definir a melhor estratégia de utilização das técnicas; o “animador” é aquele que sensibiliza as pessoas nas reuniões coletivas; o observador tem a função de observar e entrevistar os participantes; e os anotadores são aqueles que anotam todas as informações nos momentos das reuniões coletivas.
             </texto>
         </paragrafo>
         <paragrafo>
@@ -1498,11 +1518,11 @@
                 Portanto, este trabalho está alinhado com a conclusão do estudo de D’Incao e Roy (1995, p. 258), que indica a necessidade de mudança nessa relação, procurando construir um diálogo crítico “[...] reenviando as pessoas a elas mesmas nas suas relações com os outros”. Para isso, os grupos mediadores devem exigir de si mesmos “[...] a plena consciência de seus próprios limites e possibilidades.” (D’INCAO; ROY, 1995, p. 266). Nesse sentido, a postura que a equipe interdisciplinar do DRPE deve ter diante dos membros de uma dada coletividade é romper com os entraves que impedem o estabelecimento de uma relação dialógica entre as partes. Ao procurar estabelecer essa relação dialógica, a equipe interdisciplinar deve:
             </texto>
         </paragrafo>
-        <paragrafo>
-            <citacao>
-                [...] a) abandonar a tradicional arrogância do erudito, aprender a ouvir discursos concebidos em diferentes sintaxes culturais, e adotar a humildade dos que realmente querem aprender e descobrir; b) romper com a assimetria das relações sociais geralmente impostas entre o entrevistador e o entrevistado; e c) incorporar pessoas das bases sociais como indivíduos ativos e pensantes nos esforços de pesquisa. (BORDA, 1989, p. 55).
-            </citacao>
-        </paragrafo>
+        
+        <citacao>
+            [...] a) abandonar a tradicional arrogância do erudito, aprender a ouvir discursos concebidos em diferentes sintaxes culturais, e adotar a humildade dos que realmente querem aprender e descobrir; b) romper com a assimetria das relações sociais geralmente impostas entre o entrevistador e o entrevistado; e c) incorporar pessoas das bases sociais como indivíduos ativos e pensantes nos esforços de pesquisa. (BORDA, 1989, p. 55).
+        </citacao>
+
         <paragrafo>
             <texto>
                 Ao agir nesse sentido, a equipe interdisciplinar estará caminhando na direção que Sousa Santos (1989) aponta como dupla ruptura epistemológica, ou seja, a equipe estará criando as bases, nesse âmbito, para a superação tanto da ciência como do senso comum num conhecimento prático esclarecido. Portanto, a utilização das técnicas que constituem o DRPE adquire caráter transformador da realidade social ao estabelecer a relação dialógica entre os técnicos da equipe e os membros da coletividade, ou melhor, entre o conhecimento científico e o senso comum.
@@ -1527,9 +1547,37 @@
         </paragrafo>
         <paragrafo>
             <texto>
-                A preparação prévia da equipe é fundamental para lograr êxito no trabalho de campo. Por isso, recomenda-se que a equipe passe por um curso sobre o método com pelo menos 60 horas de conteúdo teórico e prático e que o trabalho seja organizado como mencionado anteriormente, ou seja, prevendo pelo menos dois membros como observadores e anotadores, pelo menos dois membros que tenham habilidades para conduzir as técnicas e as dinâmicas de grupo e um coordenador geral da equipe. O trabalho da equipe deve primar pela descrição densa dos relatos dos participantes e das situações relevantes observadas, adotanto-se o procedimento etnográfico. Além disso, uma formação adequada da equipe interdisciplinar adota como orientação e prática os fundamentos teórico-metodológicos de todo o processo do DRPE.
+                A preparação prévia da equipe é fundamental para lograr êxito no trabalho de campo. Por isso, recomenda-se que a equipe passe por um curso sobre o método com pelo menos 60 horas de conteúdo teórico e prático e que o trabalho seja organizado como mencionado anteriormente, ou seja, prevendo pelo menos dois membros como observadores e anotadores, pelo menos dois membros que tenham habilidades para conduzir as técnicas e as dinâmicas de grupo e um coordenador geral da equipe. O trabalho da equipe deve primar pela descrição densa dos relatos dos participantes e das situações relevantes observadas, adotanto-se o procedimento 
+            </texto>
+            <abrirpopup id="POPUP_ETNOGRAFICO" estilo="saibamais">etnográfico.</abrirpopup>
+            <texto>
+                Além disso, uma formação adequada da equipe interdisciplinar adota como orientação e prática os fundamentos teórico-metodológicos de todo o processo do DRPE.
             </texto>
         </paragrafo>
+        
+        <popup id="POPUP_INTERDISCIPLINAR">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba mais</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>A interdisciplinaridade é entendida aqui como propõe Hilton Japiassu, no sentido de evitar a fragmentação do conhecimento científico, na postura crítica do sujeito que busca a compreensão do todo e não se satisfaz simplesmente com a parte. Para Japiassu (1976, p. 74) a “[...] interdisciplinaridade se caracteriza pela intensidade das trocas entre os especialistas e pelo grau de integração real das disciplinas, no interior de um projeto específico de pesquisa”. Assim, a interdisciplinaridade deve ser entendida neste livro como a busca constante do diálogo entre os diferentes conhecimentos e saberes existentes no real, no sentido de se alcançar um entendimento esclarecido, respeitando as peculiaridades de cada disciplina.</texto>
+            </paragrafo>
+        </popup>
+        
+        <popup id="POPUP_ETNOGRAFICO">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba mais</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>O sentido etnográfico atribuído aqui diz respeito aos membros da equipe saberem olhar, ouvir e escrever, da mesma forma como Oliveira (1998, p. 18) explica o trabalho do antropólogo a partir do saber olhar e do saber ouvir como atos cognitivos: “[...] será no escrever que nosso pensamento exercitar-se-à da forma mais cabal, como produtor de um discurso que seja tão criativo como próprio das ciências voltadas à construção da teoria social”.</texto>
+            </paragrafo>
+        </popup>
+
+
     </pagina>
     
     
@@ -1549,13 +1597,14 @@
                 Como já mencionado, os DRPs foram desenvolvidos e utilizados na década de 1970 por organizações não governamentais (ONGs) e governamentais europeias que trabalhavam em projetos de desenvolvimento rural em países da África e Ásia. A origem dos DRPs deve-se às críticas generalizadas aos métodos convencionais de diagnóstico e pesquisa, representados, principalmente, pelo método de tipo survey. Os técnicos então passaram a procurar novas formas de realizar pesquisa, que possibilitassem a difusão de tecnologias e o planejamento de projetos de desenvolvimento rural, no sentido de evitar o aumento da pobreza rural e a manutenção das desigualdades sociais e do status quo das lideranças locais, como bem criticou Chambers (1987) a postura dos chamados agentes externos. Para Chambers (1987), os pequenos produtores são profissionais porque detêm conhecimento, portanto o desafio dos técnicos consiste em aprender com eles, o que os coloca em termos de igualdade.
             </texto>
         </paragrafo>
+        <youtube url="//www.youtube.com/embed/-lHr14RSvVM" />
         <paragrafo>
             <texto>
                 Foi com esse intuito que surgiu o Rapid Rural Apraisal (RRA), no final da década de 1970, caracterizado pela produção de resultados rápidos e pelo uso conjugado de técnicas de pesquisa. Além dessas características, Beebe (1995) destaca três concepções básicas do RRA: perspectiva sistêmica; triangulação na coleta de dados; e interação entre dados coletados e análises. A rapidez dos resultados dos diagnósticos foi alvo de críticas na década de 1980 e, com isso, os técnicos e pesquisadores das agências de desenvolvimento passaram a enfocar o aspecto participativo do método sem, contudo, considerar o menor tempo possível, concebendo-o, a partir dos anos de 1990, de Diagnóstico Rural Participativo (CHAMBERS, 1992). 
             </texto>
         </paragrafo>
-        <chamada>
-            <paragrafo estilo="destaque">
+        <chamada estilo="destaque">
+            <paragrafo>
                 <texto>
                     O DRPE é um método especificamente elaborado para intervir, de forma planejada, na complexa realidade brasileira de grupos sociais como assentamentos rurais da Reforma Agrária, associações, cooperativas, empreendimentos de economia solidária, entre outros. 
                 </texto>
@@ -1586,7 +1635,10 @@
         </paragrafo>
         <lista estilo="alfabetica">
             <item>
-                <texto>Os elementos produzidos no âmbito de atuação dos atores sociais são obtidos por meio de informações secundárias que se encontram em fontes documentais e em dados estatísticos sobre a situação sociocultural, econômica, política e ambiental dos atores e da região em estudo. As fontes documentais incluem: revistas técnicas e científicas; jornais especializados; relatórios; projetos; entrevistas documentadas anteriormente realizadas. Enfim, todo material escrito que se relacione com as ações de cada um dos atores envolvidos. Essas “informações secundárias” ou “dados frios” são assim chamados porque são coletados de maneira não participativa, ou seja, as informações são obtidas independentemente de como os atores sociais veem a realidade, embora possa ser necessário consultar alguns deles. O objetivo é levantar informações que permitam caracterizar a coletividade antes de se relacionar com ela diretamente para subsidiar a utilização das técnicas que compõem o DRPE. Além disso, o registro e a sistematização dessas informações devem ser utilizadas para redigir o Relatório Final. </texto>
+                <texto>Os elementos produzidos no âmbito de atuação dos atores sociais são obtidos por meio de informações secundárias que se encontram em fontes documentais e em dados estatísticos sobre a situação sociocultural, econômica, política e ambiental dos atores e da região em estudo. As fontes documentais incluem: revistas técnicas e científicas; jornais especializados; relatórios; projetos; entrevistas documentadas anteriormente realizadas. Enfim, todo material escrito que se relacione com as ações de cada um dos atores envolvidos. Essas “informações secundárias” ou “dados frios” são assim chamados porque são coletados de maneira não participativa, ou seja, as informações são obtidas independentemente de como os atores sociais veem a realidade, embora possa ser necessário consultar alguns deles. O objetivo é levantar informações que permitam caracterizar a coletividade antes de se relacionar com ela diretamente para subsidiar a utilização das técnicas que compõem o DRPE. Além disso, o registro e a sistematização dessas informações devem ser utilizadas para redigir o 
+                </texto>
+                <abrirpopup id="POPUP_RELATORIO_FINAL" estilo="link">Relatório Final</abrirpopup>
+                <texto>.</texto>
             </item>
             <item>
                 <texto>Os processos e produtos centrados nos atores sociais são obtidos por meio da utilização de diversas técnicas de pesquisa e de dinâmica de grupo, que serão apresentadas mais à frente. Entre os atores sociais participantes são identificados os informantes-chave, pessoas selecionadas por critérios de tempo de moradia na localidade (os mais antigos), de conhecimento, saber ou experiência. Essa dimensão analítica constitui toda coleta e sistematização de informações primárias realizadas face a face pela equipe interdisciplinar com os atores participantes, por meio da identificação e descrição das percepções expressas pelos atores sociais a respeito de seus temas geradores.</texto>
@@ -1634,7 +1686,10 @@
         </paragrafo>
         <lista estilo="alfabetica">
             <item>
-                <texto>Expressão e descrição da realidade – é a expressão dos valores, das ideias e dos conceitos por meio de temas geradores manifestados pelos atores participantes, ou seja, conteúdos de valor e opções existenciais. É o momento de problematização ou reflexão da realidade pelos próprios atores sociais, quando identificarão seus próprios problemas, suas causas e possíveis soluções. É o momento também em que se depararão com as “situações-limite”. </texto>
+                <texto>Expressão e descrição da realidade – é a expressão dos valores, das ideias e dos conceitos por meio de temas geradores manifestados pelos atores participantes, ou seja, conteúdos de valor e opções existenciais. É o momento de problematização ou reflexão da realidade pelos próprios atores sociais, quando identificarão seus próprios problemas, suas causas e possíveis soluções. É o momento também em que se depararão com as 
+                </texto>
+                <abrirpopup id="POPUP_SITUACOES_LIMITE" estilo="glossario">“situações-limite”</abrirpopup>
+                <texto>.</texto>
             </item>
             <item>
                 <texto>Crítica do material expresso – é o momento em que se procura identificar e analisar potenciais e/ou prováveis contradições na situação de trabalho dos atores participantes, ou seja, em que se analisa as causas dos problemas identificados.</texto>
@@ -1658,11 +1713,9 @@
                 A equipe interdisciplinar deve levantar questões que possam identificar as possíveis situações de conflitos internos e as situações-limite dos atores participantes, explicitando e confrontando os diferentes interesses emergentes, bem como explorar as possíveis formas de superações dos problemas identificados, no sentido de vislumbrar as possíveis saídas da situação-limite, o que Freire (1987, p. 94) denomina de “inédito viável”: 
             </texto>
         </paragrafo>
-        <paragrafo>
-            <citacao>
-                No momento em que estes [os oprimidos] as percebem [situações-limites] não mais como uma ‘fronteira entre o ser e o nada, mas como uma fronteira entre o ser e o mais ser’, se fazem cada vez mais críticos na sua ação, ligada àquela percepção. Percepção em que está implícito o inédito viável como algo definido, a cuja concretização se dirigirá sua ação.
-            </citacao>
-        </paragrafo>
+        <citacao>
+            No momento em que estes [os oprimidos] as percebem [situações-limites] não mais como uma ‘fronteira entre o ser e o nada, mas como uma fronteira entre o ser e o mais ser’, se fazem cada vez mais críticos na sua ação, ligada àquela percepção. Percepção em que está implícito o inédito viável como algo definido, a cuja concretização se dirigirá sua ação.
+        </citacao>
         <paragrafo>
             <texto>
                 Esse quadro de referência de temas geradores deve ser construído pela equipe interdisciplinar a partir de informações secundárias. Para cada tema gerador, deve corresponder um conjunto de questões reflexivas, um conjunto de observações a ser feito no trabalho de campo e as respectivas técnicas de coleta de informações e dinâmicas de grupos a ser utilizadas. 
@@ -1701,11 +1754,9 @@
                 A sequência de análises parciais facilita a interação entre os membros da equipe interdisciplinar e os atores participantes e pode auxiliar na identificação de novas situações a ser observadas, de temas a ser cobertos pelas técnicas de coleta de informações, de novos indivíduos a ser envolvidos no diagnóstico, ou, até mesmo, das fontes secundárias a ser consultadas novamente, entre outras.
             </texto>
         </paragrafo>
-        <paragrafo>
-            <citacao>
-                A sequência de análises parciais (trabalho de campo – análise – trabalho de campo – análise) indica o caráter interativo da pesquisa qualitativa, significando que as pressuposições do pesquisador, ao iniciar o estudo, podem ser modificadas durante o próprio processo de investigação, acarretando, por seu turno, a reformulação das questões de pesquisa ou, até mesmo, do problema de pesquisa. Seria, na linguagem de Denzin &amp; Lincoln (1994: 4), a reconstrução social da realidade. (ALENCAR,1999, p. 17).
-            </citacao>
-        </paragrafo>
+        <citacao>
+            A sequência de análises parciais (trabalho de campo – análise – trabalho de campo – análise) indica o caráter interativo da pesquisa qualitativa, significando que as pressuposições do pesquisador, ao iniciar o estudo, podem ser modificadas durante o próprio processo de investigação, acarretando, por seu turno, a reformulação das questões de pesquisa ou, até mesmo, do problema de pesquisa. Seria, na linguagem de Denzin &amp; Lincoln (1994: 4), a reconstrução social da realidade. (ALENCAR,1999, p. 17).
+        </citacao>
         <paragrafo>
             <texto>
                 Segundo Bardin (1977), parte dos dados brutos, como os dados secundários obtidos durante a coleta de informações, deverá ser primeiramente organizada para, posteriormente, ser analisada. Ao serem apresentados em tabelas, quadros, gráficos, figuras ou modelos, os dados poderão ser resumidos e as informações fornecidas para análise colocadas em destaque. No que se refere às informações primárias, Alencar (1999) define seis passos sequenciais para organizá-las:
@@ -1888,6 +1939,31 @@
                 <texto>Procura avaliar as possibilidades de alcançar a sustentabilidade ambiental por meio de técnicas de análise e do levantamento de informações ecológicas.</texto>
             </item>
         </lista>
+        
+        <popup id="POPUP_RELATORIO_FINAL">
+            <chamada estilo="link">
+                <paragrafo>
+                    <texto>Link</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Na próxima seção, a Figura 3 mostra como o Relatório Final deve ser organizado, de forma esquemática, para promover a melhor apresentação do método utilizado e dos resultados alcançados.</texto>
+            </paragrafo>
+        </popup>
+        
+        <popup id="POPUP_SITUACOES_LIMITE">
+            <chamada estilo="glossario">
+                <paragrafo>
+                    <texto>Glossário</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Situações-limite – são determinantes históricas, esmagadoras, em face das quais não lhes cabe alternativa senão adaptar-se. Fonte: Freire (1987, p. 94). </texto>
+            </paragrafo>
+        </popup>
+
+
+        
     </pagina>
     
     <!-- Capítulo 4 -->
@@ -1975,8 +2051,10 @@
         </paragrafo>
         <paragrafo>
             <texto>
-                Para compreender melhor a lógica de ocupação do espaço em cada lote, ou “chácara”, de um assentamento rural e para discutir com a coletividade o planejamento de toda a área, a equipe interdisciplinar amplia um mapa oficial parcelado, fornecido pelo INCRA, e o recorta em partes correspondentes às chácaras individuais, conforme a Figura 4. 
+                Para compreender melhor a lógica de ocupação do espaço em cada lote, ou 
             </texto>
+            <abrirpopup id="POPUP_CHACARA" estilo="saibamais">“chácara”</abrirpopup>
+            <texto>, de um assentamento rural e para discutir com a coletividade o planejamento de toda a área, a equipe interdisciplinar amplia um mapa oficial parcelado, fornecido pelo INCRA, e o recorta em partes correspondentes às chácaras individuais, conforme a Figura 4.</texto>
         </paragrafo>
 
         <paragrafo>
@@ -2066,36 +2144,36 @@
             </texto>
         </paragrafo>
         <lista estilo="alfabetica">
-            <paragrafo>
+            <item>
                 <texto>
                     pedir aos participantes que listem as organizações que têm importância para eles;
                 </texto>
-            </paragrafo>
-            <paragrafo>
+            </item>
+            <item>
                 <texto>
                     desenhar a organização que representa os participantes na forma de um círculo, no centro do quadro ou espaço utilizado;
                 </texto>
-            </paragrafo>
-            <paragrafo>
+            </item>
+            <item>
                 <texto>
                     pedir a um participante que desenhe o círculo da primeira organização da lista, tomando como referência o tamanho do círculo da organização que o representa, explicando que quanto maior for o tamanho do círculo, maior será a importância da organização em análise, e quanto menor for o círculo (sempre em relação ao círculo da organização que o representa), menor será a importância atribuída por ele;
                 </texto>
-            </paragrafo>
-            <paragrafo>
+            </item>
+            <item>
                 <texto>
                     perguntar ao participante que desenhou o círculo o porquê daquele tamanho (maior ou menor);
                 </texto>
-            </paragrafo>
-            <paragrafo>
+            </item>
+            <item>
                 <texto>
                     estimular a reflexão da coletividade e a participação de outros membros, de forma que também atribuam tamanho de círculo para a organização em análise, criando um ambiente de crítica coletiva em relação ao tema gerador; e
                 </texto>
-            </paragrafo>
-            <paragrafo>
+            </item>
+            <item>
                 <texto>
                     anotar as falas e os argumentos apresentados sobre as razões da importância da organização.
                 </texto>
-            </paragrafo>
+            </item>
         </lista>
         
         <paragrafo>
@@ -2178,23 +2256,23 @@
                 A avaliação feita da CREDICOCAPEC pelos participantes caracteriza bem o que a comunidade pensa sobre a cooperativa de crédito:
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“O banco é importante porque é fácil para a gente trabalhar”. (Avaliação 1)</texto>
-            </item>
-            <item>
-                <texto>“Nenhum outro banco trata o cooperado igual ao banco da cooperativa”. (Avaliação 2)</texto>
-            </item>
-            <item>
-                <texto>“Tamanho do banco igual ao da COCAPEC porque a cooperativa não sobrevive sem o banco e nem o    banco sem a cooperativa”. (Avaliação 3)</texto>
-            </item>
-            <item>
-                <texto>“A credicocapec foi criada para complementar.” (Avaliação 4)</texto>
-            </item>
-            <item>
-                <texto>“Às vezes, o banco traz mais benefícios do que a cooperativa.” (Avaliação 5) 	</texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao">
+            <texto>“O banco é importante porque é fácil para a gente trabalhar”. (Avaliação 1)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“Nenhum outro banco trata o cooperado igual ao banco da cooperativa”. (Avaliação 2)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“Tamanho do banco igual ao da COCAPEC porque a cooperativa não sobrevive sem o banco e nem o    banco sem a cooperativa”. (Avaliação 3)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“A credicocapec foi criada para complementar.” (Avaliação 4)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“Às vezes, o banco traz mais benefícios do que a cooperativa.” (Avaliação 5) 	</texto>
+        </paragrafo>
+        
         
         <paragrafo>
             <texto>
@@ -2206,14 +2284,14 @@
                 Já a relação dos bancos com a cooperativa foi criticada, principalmente sobre os financiamentos, o que fez com que os cooperados percebessem, na cooperativa de crédito, uma opção mais viável. Por isso, a atuação dos bancos ficou distante e sua importância foi considerada de menor proporção do que a da CREDICOCAPEC.
             </texto>
         </paragrafo>
-        <lista>
-           <item>
-               <texto>“Menor do que a COCAPEC”. (Avaliação 6)</texto>
-           </item>
-           <item>
-               <texto>“Do lado de fora”. (Avaliação 7)</texto>
-           </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao">
+            <texto>“Menor do que a COCAPEC”. (Avaliação 6)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“Do lado de fora”. (Avaliação 7)</texto>
+        </paragrafo>
+        
         
         <paragrafo>
             <texto>
@@ -2235,7 +2313,7 @@
                 O segundo exemplo diz respeito aos resultados do Diagrama de Venn para o assentamento rural Cachoeira, que foi realizado com a presença de 21 pessoas, entre homens e mulheres. As organizações foram listadas espontaneamente pelos participantes na seguinte ordem:
             </texto>
         </paragrafo>
-        <lista>
+        <lista estilo="alfabetica">
             <item>
                 <texto>Sindicato dos Trabalhadores Rurais (STR).</texto>
             </item>
@@ -2258,7 +2336,7 @@
             </texto>
         </paragrafo>
         
-        <chamada estilo="destaque">
+        <chamada estilo="destaque_verde">
             <paragrafo>
                 <texto>
                     A avaliação feita pelos participantes, considerando a importância e a atuação das organizações em relação à Associação dos Trabalhadores Rurais do Assentamento Cachoeira (APRAC), pode ser conferida a seguir.
@@ -2280,37 +2358,37 @@
                 O sindicado a que os assentados se referiram é o STR de Unaí. Eles atribuíram certa importância ao sindicato por este representá-los em determinadas instâncias políticas, mas não se identificam com a instituição. Algumas falas dos assentados expressam melhor suas percepções.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“O Sindicato representa o Trabalhador.” (Avaliação 8)</texto>
-            </item>
-            <item>
-                <texto>“O Sindicato é importante, mas se a gente quiser alguma coisa, tem que ir atrás.” (Avaliação 9)</texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao">
+            <texto>“O Sindicato representa o Trabalhador.” (Avaliação 8)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“O Sindicato é importante, mas se a gente quiser alguma coisa, tem que ir atrás.” (Avaliação 9)</texto>
+        </paragrafo>
+
         <paragrafo>
             <texto>
                 Assim, eles desenharam um pequeno círculo para representar o STR de Unaí, bem menor do que o da  APRAC, o que significa a pouca importância que essa instituição tem para eles nesse momento e a imagem social que fazem dela. 
             </texto>
         </paragrafo>
-        <lista>
-            <item>
+
+            <paragrafo estilo="avaliacao">
                 <texto>“Sindicato ajuda em algumas conquistas e foi quem cedeu esta área, mas às vezes eles querem é aumentar o número de associados.” (Avaliação 10)</texto>
-            </item>
-            <item>
+            </paragrafo>
+            <paragrafo estilo="avaliacao texto_direita">
                 <texto>“Fazem cobranças por direitos que não vêm.” (Avaliação 11)</texto>
-            </item>
-        </lista>
+            </paragrafo>
+
         <paragrafo>
             <texto>
                 Além disso, consideraram que o STR de Unaí não tem atuado no assentamento, o que pode ser visualizado pela distância dessa organização em relação à APRAC. Todos concordaram com a distância.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“Eles vieram aqui uma vez, deram uma palestra que nem era do nosso interesse, e nunca mais voltaram aqui.” (Avaliação 12)</texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao">
+            <texto>“Eles vieram aqui uma vez, deram uma palestra que nem era do nosso interesse, e nunca mais voltaram aqui.” (Avaliação 12)</texto>
+        </paragrafo>
+
 
         <subsubsecao>INCRA</subsubsecao>
         <paragrafo>
@@ -2342,11 +2420,9 @@
                 Por último, chegaram ao consenso de que a importância do INCRA é bem maior, desenhando a bola quase três vezes maior do que a da associação. Por outro lado, os assentados demonstraram consciência da realidade que envolve a relação deles com o INCRA e do papel dessa instituição no processo de “reforma agrária”. Nesse sentido, desenharam o círculo do INCRA em pequena interseção com o círculo da APRAC, o que significa atuação aquém do desejado, posição que foi aprovada pela maioria dos assentados presentes (13 a favor e 2 contra), como pode ser avaliado na frase a seguir.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“O INCRA está próximo, mas vai ter um dia que ele vai se afastar, à medida que for cumprindo os compromissos com o assentamento                (encaminhar água, luz, energia etc.). Já cumpriu metade das obrigações.” (Avaliação 18)</texto>
-            </item>
-        </lista>
+        <paragrafo estilo="avaliacao">
+            <texto>“O INCRA está próximo, mas vai ter um dia que ele vai se afastar, à medida que for cumprindo os compromissos com o assentamento                (encaminhar água, luz, energia etc.). Já cumpriu metade das obrigações.” (Avaliação 18)</texto>
+        </paragrafo>
 
         <subsubsecao>Prefeitura Municipal de Uruanã de Minas</subsubsecao>
         <paragrafo>
@@ -2354,27 +2430,26 @@
                 Na avaliação, os participantes desenharam o círculo da prefeitura maior pela sua importância na vida cotidiana das famílias assentadas no que diz respeito à educação, ao transporte e à saúde. Mais uma vez demonstraram consciência de que possuem direito ao acesso aos serviços que devem ser prestados pela prefeitura, apesar de alguns ainda não terem transferido o título de eleitor para o município de Uruanã de Minas. Eles demonstraram também ter facilidade de aproximação com o prefeito e os vereadores.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“Tudo que a gente precisa, passa primeiro pela associação.” [Desenha o círculo um pouco menor do que o da Associação]. (Avaliação 19)</texto>
-            </item>
-            <item>
-                <texto>“A Prefeitura faz e pode fazer mais pelo assentamento, em parceria com o INCRA. A secretária disse que não tinha contato com o INCRA, aí eu disse é fácil, eu tenho o telefone, e dei a ela.” (Avaliação 20)</texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“Tudo que a gente precisa, passa primeiro pela associação.” [Desenha o círculo um pouco menor do que o da Associação]. (Avaliação 19)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“A Prefeitura faz e pode fazer mais pelo assentamento, em parceria com o INCRA. A secretária disse que não tinha contato com o INCRA, aí eu disse é fácil, eu tenho o telefone, e dei a ela.” (Avaliação 20)</texto>
+        </paragrafo>
         <paragrafo>
             <texto>
                 Apesar de haver certa divergência de opinião quanto à atuação da prefeitura no assentamento, eles chegaram à conclusão de que a prefeitura tem uma atuação satisfatória, mesmo levando em consideração a observação de um dos participantes de que o prefeito nunca esteve no local e não conhece a realidade deles. O desenho do círculo, em interseção com a associação, representando a atuação da prefeitura, venceu por 13 a 7 na votação.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“Eu voto que eles estão se aproximando, mas ainda não estão dentro. De vez em quando vem algum vereador aqui, mas nunca veio o prefeito, eles não conhecem a nossa realidade.” (Avaliação 21) </texto>
-            </item>
-            <item>
-                <texto>“A Prefeitura participa bastante no assentamento.”   (Avaliação 22) </texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“Eu voto que eles estão se aproximando, mas ainda não estão dentro. De vez em quando vem algum vereador aqui, mas nunca veio o prefeito, eles não conhecem a nossa realidade.” (Avaliação 21) </texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“A Prefeitura participa bastante no assentamento.”   (Avaliação 22) </texto>
+        </paragrafo>
+        
 
         <subsubsecao>EMATER/MG</subsubsecao>
         <paragrafo>
@@ -2382,24 +2457,25 @@
                 Os participantes consideram que a EMATER/MG tem importância para aqueles que não sabem produzir ainda ou para aqueles que querem produzir muito. Esse aspecto demonstra, por um lado, a racionalidade camponesa de produzir e, por outro, o tipo de orientação técnica que essa empresa adota, voltada para aumentos constantes de produtividade. Por isso, desenharam o círculo menor do que o da APRAC. 
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“A EMATER é importante, mas a gente tem que ir atrás deles. [Desenha o círculo menor que o da Associação.] (Avaliação 23) </texto>
-            </item>
-            <item>
-                <texto>“A gente não depende da EMATER para produzir, mas depende para produzir bem”. (Avaliação 24) </texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“A EMATER é importante, mas a gente tem que ir atrás deles. [Desenha o círculo menor que o da Associação.] (Avaliação 23) </texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“A gente não depende da EMATER para produzir, mas depende para produzir bem”. (Avaliação 24) </texto>
+        </paragrafo>
+        
+        
         <paragrafo>
             <texto>
                 Quanto à atuação da EMATER/MG, eles avaliaram que poderia ser maior, no sentido de ter a presença mais constante do técnico, mas não avaliaram a qualidade do trabalho dele pelo fato de não haver, ainda, tempo de relacionamento suficiente. Vai ser o primeiro trabalho do técnico com eles, por isso desenharam o círculo em interseção na expectativa de maior aproximação.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“Acho que eles têm grande conhecimento sobre agricultura e podem nos ajudar”. (Avaliação 25)</texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“Acho que eles têm grande conhecimento sobre agricultura e podem nos ajudar”. (Avaliação 25)</texto>
+        </paragrafo>
+
 
         <subsubsecao>IMA</subsubsecao>
         <paragrafo>
@@ -2407,11 +2483,11 @@
                 Apesar de apresentar essa instituição, a maioria não sabe o que é e qual a sua importância. Além disso, os participantes reclamaram que os serviços são obrigatórios e pagos.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“Eu sei que eles vieram aqui fazer um cartão, marcar o gado, vacinar o gado, registrar etc.” (Avaliação 26)</texto>
-            </item>
-        </lista>
+
+        <paragrafo estilo="avaliacao">
+            <texto>“Eu sei que eles vieram aqui fazer um cartão, marcar o gado, vacinar o gado, registrar etc.” (Avaliação 26)</texto>
+        </paragrafo>
+        
         <paragrafo>
             <texto>
                 Portanto, atribuíram pouca importância e atuação da IMA no assentamento, avaliação representada pelo desenho do círculo em pequena interseção com o da APRAC.
@@ -2465,7 +2541,7 @@
                 Foram levantadas com as famílias de São Sebastião do Soberbo as principais atividades desenvolvidas no cultivo da terra e em relação ao rio e as criações. No calendário da terra estão as culturas de milho, feijão e cana. No calendário do rio, as atividades de trabalho estão relacionadas com a extração do ouro e a pesca. Alguns moradores tiravam areia e pedra do rio, cortavam lenha e engordavam porcos no fundo do quintal que dava para o rio, tarefas que envolviam toda a família. Era comum também a contratação de ajudantes, troca de dias de serviço ou ainda troca por produtos. No calendário das criações, estão as de porcos e de gado de leite. Por meio dos “calendários”, foi possível identificar o ciclo de cada atividade desenvolvida. 
             </texto>
         </paragrafo>
-        <chamada estilo="destaque">
+        <chamada estilo="destaque_verde">
             <paragrafo>
                 <texto>
                     A síntese dos três calendários pode ser observada no Quadro 6 mais à frente.
@@ -2476,33 +2552,41 @@
         <subsubsecao>Calendário do Rio</subsubsecao>
         <paragrafo>
             <texto>
-                Os dois principais produtos explorados no rio são o ouro e o peixe. As atividades de garimpo compreendiam o período de março a outubro. Os garimpeiros trabalhavam durante todo o dia até o anoitecer. Quando necessário, a atividade se estendia noite afora. Na região, existiam quatro donos de balsa, para os quais os 17 garimpeiros trabalhavam. Os donos das balsas ficavam com 60% de todo o valor arrecadado, e os 40% restantes eram divididos entre os garimpeiros (mergulhadores) e requeiros. O local explorado para o garimpo é denominado por eles de “fofoca”. Nas horas de folga, mergulhadores e requeiros pescam.
+                Os dois principais produtos explorados no rio são o ouro e o peixe. As atividades de garimpo compreendiam o período de março a outubro. Os garimpeiros trabalhavam durante todo o dia até o anoitecer. Quando necessário, a atividade se estendia noite afora. Na região, existiam quatro donos de balsa, para os quais os 17 garimpeiros trabalhavam. Os donos das balsas ficavam com 60% de todo o valor arrecadado, e os 40% restantes eram divididos entre os garimpeiros (mergulhadores) e 
             </texto>
+            <abrirpopup id="POPUP_REQUEIROS" estilo="saibamais">requeiros</abrirpopup>
+            <texto>. O local explorado para o garimpo é denominado por eles de “fofoca”. Nas horas de folga, mergulhadores e requeiros pescam.</texto>
         </paragrafo>
         <paragrafo>
             <texto>
-                Na pescaria, o trabalho é autônomo. Tudo o que foi pescado é vendido e/ou consumido pelo pescador e pela sua família. O material de pesca utilizado é bem amplo como espinhol, rede, anzol e tarrafa. Na época de seca, os peixes estão bem maiores e é justamente nessa época que a pesca é mais intensa (ocorre a qualquer hora do dia e durante todos os dias do mês), iniciando no mês de março. Os meses e as horas destinados para a pesca variam de acordo com a disponibilidade de tempo programada para outras atividades, mas, em média, os moradores destinam 15 dias do mês para a pesca. Durante a piracema, nos meses de novembro a fevereiro, é proibido pescar. 
+                Na pescaria, o trabalho é autônomo. Tudo o que foi pescado é vendido e/ou consumido pelo pescador e pela sua família. O material de pesca utilizado é bem amplo como espinhol, rede, anzol e tarrafa. Na época de seca, os peixes estão bem maiores e é justamente nessa época que a pesca é mais intensa (ocorre a qualquer hora do dia e durante todos os dias do mês), iniciando no mês de março. Os meses e as horas destinados para a pesca variam de acordo com a disponibilidade de tempo programada para outras atividades, mas, em média, os moradores destinam 15 dias do mês para a pesca. Durante a piracema, nos meses de novembro a fevereiro, é proibido 
             </texto>
+            <abrirpopup id="POPUP_PESCAR" estilo="link">pescar</abrirpopup>
+            <texto>. </texto>
         </paragrafo>
         <paragrafo>
             <texto>
-                A ictiofauna da região é abundante, sendo o peixe uma das principais fontes de alimentação dos moradores. As principais espécies citadas por eles foram curumatã, cascudo, tilápia, traíra, mandi, dourado, pintado. Alguns moradores têm carteira de pesca emitida pelo Instituto Estadual de Floresta (IEF), no município de Ponte Nova. Embora haja essa documentação, não existe fiscalização da modalidade de pesca, que é realizada por vários meios, como a tarrafa, a rede, o molinete e a vara de taquara. Foi dito que, depois da construção da barragem no Rio Doce, a pesca seria proibida durante cinco anos. Pode-se perceber a importância do rio para os moradores por meio de suas falas: 
+                A 
+            </texto>
+            <abrirpopup id="POPUP_ICTIOFAUNA" estilo="glossario">ictiofauna</abrirpopup>
+            <texto>
+                da região é abundante, sendo o peixe uma das principais fontes de alimentação dos moradores. As principais espécies citadas por eles foram curumatã, cascudo, tilápia, traíra, mandi, dourado, pintado. Alguns moradores têm carteira de pesca emitida pelo Instituto Estadual de Floresta (IEF), no município de Ponte Nova. Embora haja essa documentação, não existe fiscalização da modalidade de pesca, que é realizada por vários meios, como a tarrafa, a rede, o molinete e a vara de taquara. Foi dito que, depois da construção da barragem no Rio Doce, a pesca seria proibida durante cinco anos. Pode-se perceber a importância do rio para os moradores por meio de suas falas: 
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“[...] do rio a gente tira tudo”.  (Fala 1)</texto>
-            </item>
-            <item>
-                <texto>“[...] o rio é uma mãe para gente”. (Fala 2)</texto>
-            </item>
-            <item>
-                <texto>“[...] o rio é tudo! Além do peixe e do ouro, retiramos ainda a areia e o cascalho”. (Fala 3)</texto>
-            </item>
-            <item>
-                <texto>“[...] é o nosso quebra galho”. [dizem isso considerando que um caminhão de areia custava cinquenta reais, e um de pedra oitenta]. (Fala 4) </texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao">
+            <texto>“[...] do rio a gente tira tudo”.  (Fala 1)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“[...] o rio é uma mãe para gente”. (Fala 2)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“[...] o rio é tudo! Além do peixe e do ouro, retiramos ainda a areia e o cascalho”. (Fala 3)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“[...] é o nosso quebra galho”. [dizem isso considerando que um caminhão de areia custava cinquenta reais, e um de pedra oitenta]. (Fala 4) </texto>
+        </paragrafo>
+        
         <paragrafo>
             <texto>
                 Relataram que é comum a pesca no rio, principalmente de dourados, estes chegavam a pesar 22 quilos (apresentaram fotos para a equipe que comprovaram essas afirmações).
@@ -2652,7 +2736,12 @@
                 <texto>É conveniente que os entrevistados e os entrevistadores estabeleçam horário e local e se a entrevista será gravada ou não. Preferencialmente a entrevista deve ser gravada.</texto>
             </item>
             <item>
-                <texto>No início da entrevista, os entrevistadores devem estar conscientes de que precisam empenhar esforços no sentido de proporcionar um clima de tranquilidade, confiança, lealdade e harmonia entre eles e os entrevistados. Nesse sentido, os entrevistadores devem mostrar-se de acordo com as afirmações dos entrevistados, dando oportunidade ampla para suas preocupações e introduzindo questões diretivas nos meandros das respostas. O entrevistador não deve permitir que os entrevistados fiquem calados ou que a entrevista chegue a um ponto morto, ou seja, há necessidade de rapport na entrevista.</texto>
+                <texto>No início da entrevista, os entrevistadores devem estar conscientes de que precisam empenhar esforços no sentido de proporcionar um clima de tranquilidade, confiança, lealdade e harmonia entre eles e os entrevistados. Nesse sentido, os entrevistadores devem mostrar-se de acordo com as afirmações dos entrevistados, dando oportunidade ampla para suas preocupações e introduzindo questões diretivas nos meandros das respostas. O entrevistador não deve permitir que os entrevistados fiquem calados ou que a entrevista chegue a um ponto morto, ou seja, há necessidade de 
+                </texto>
+                <abrirpopup id="POPUP_RAPPORT" estilo="glossario">rapport</abrirpopup>
+                <texto>
+                    na entrevista.
+                </texto>
             </item>
             <item>
                 <texto>Na entrevista, vários tipos de perguntas podem ser feitos: interrogativas mediatas, explicativa imediata, consequências, avaliativas, hipotéticas e categoriais. Todos esses tipos procuram explorar em profundidade as respostas dos entrevistados. </texto>
@@ -2992,17 +3081,17 @@
                 No grupo 1, os assentados projetaram um galpão com energia e um poço artesiano. Nesse grupo, os assentados se colocaram como produtores da agricultura mecanizada, o que justifica o projeto do galpão com as máquinas agrícolas e a rede elétrica. Seus argumentos foram os seguintes: 
             </texto>
         </paragrafo>
-        <lista>
-            <item>
+        
+            <paragrafo estilo="avaliacao">
                 <texto>“A gente somos do campo e, se reunir, podemos conseguir.” (Argumento 1)</texto>
-            </item>
-            <item>
+            </paragrafo>
+            <paragrafo estilo="avaliacao texto_direita">
                 <texto>“O material significa aquilo que precisamos para o assentamento, aquilo que a gente espera.” (Argumento 2)</texto>
-            </item>
-            <item>
+            </paragrafo>
+            <paragrafo estilo="avaliacao">
                 <texto>“Sonho de um galpão do campo de cerrado, com um trator, caminhão para transportar o alimento para vender, poço artesiano, rede de energia elétrica, calcário e adubo.” (Argumento 3)</texto>
-            </item>
-        </lista>
+            </paragrafo>
+        
         <paragrafo>
             <texto>
                 No grupo 2, os assentados representaram a situação histórica vivenciada por eles na fase de acampamento, enfocando as dificuldades de se organizar coletivamente para conquistar a terra. Tais dificuldades ainda estão presente na fase atual. No início, o grupo demonstrou dificuldades para planejar e trabalhar de forma coletiva. Algumas pessoas começaram a quebrar parte do material sem ouvir/respeitar as ideias dos demais. Então, um integrante disse “que era preciso pensar primeiro”. Depois de conversarem, chegaram à conclusão que seria possível, com o material disponível, construir três coisas: casa, fogueira e curral. Decidiram então representar o início da chegada na Fazenda Serra Feia, onde tudo era feito em conjunto. Havia um barracão onde eram feitas as reuniões e algumas pessoas dormiam, e um fogão que as mulheres usavam para cozinhar para todo o acampamento. Na técnica, tudo aconteceu tão rápido, exatamente como na época do acampamento. O curral, que era visto do acampamento, significava a conquista da sede, um objetivo.  
@@ -3113,28 +3202,26 @@
             </texto>
         </paragrafo>
         
-        <lista>
-            <item>
-                <texto>“[...] temos que trabalhar juntos e não desenvolver produtos para serem concorrentes dentro da cooperativa.” (Comentário 11)</texto>
-            </item>
-            <item>
-                <texto>“[...] a esteira é uma linha nova, nós vamos precisar de gente para aprender a fazer trama.” (Comentário 12).</texto>
-            </item>
-            <item>
-                <texto>“[...] temos que ter convergência de ideias em torno da produção das peças.” (Comentário 12).</texto>
-            </item>
-        </lista>
+        <paragrafo estilo="avaliacao">
+            <texto>“[...] temos que trabalhar juntos e não desenvolver produtos para serem concorrentes dentro da cooperativa.” (Comentário 11)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“[...] a esteira é uma linha nova, nós vamos precisar de gente para aprender a fazer trama.” (Comentário 12).</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“[...] temos que ter convergência de ideias em torno da produção das peças.” (Comentário 12).</texto>
+        </paragrafo>
         
         <paragrafo>
             <texto>
                 Um dos artesãos apresentou uma questão muito importante para o desenvolvimento da cooperativa: a participação dos associados. A participação deve estar sempre relacionada com comprometimento. Ela não pode se dar apenas pelo fato de o associado estar presente. Embora a participação seja algo essencial, seria necessário haver outros objetivos que poderiam ser alcançados por meio dela. Sem a participação consciente dos associados na cooperativa, não é possível desenvolvê-la com bases sólidas.
             </texto>
         </paragrafo>
-        <lista>
-            <item>
-                <texto>“[...] convocação não é convite. Muitos não têm consciência disso.” (Comentário 12) </texto>
-            </item>
-        </lista>
+        
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“[...] convocação não é convite. Muitos não têm consciência disso.” (Comentário 12) </texto>
+        </paragrafo>
+
         <paragrafo>
             <texto>
                 Na oficina Gente de Fibra, os associados relataram a necessidade de adquirir mais dois fornos para dar conta de secar a produção no período de chuvas, quando a demanda era maior. Para os associados, faltavam equipamentos como plaina maior, serra de fita, estufa e lixadeira. O trabalho de lixar as peças era especializado e, na falta de uma pessoa, não havia como substituí-la. Na oficina Artes e Design, os associados relataram a necessidade de adquirir o equipamento “masseira”, pois dependiam da oficina Gente de Fibra para produzir a massa. Para eles, faltavam vários equipamentos necessários, como: prensa; equipamentos usados na lixadeira; mesa na área de acabamento; banquetas; espátulas.
@@ -3166,6 +3253,10 @@
 
         <subsecao>Considerações finais</subsecao>
         <indice nivel="3">Considerações finais</indice>
+        
+        
+        <youtube url="//www.youtube.com/embed/9OM3FIGIjEs" />
+        
         <paragrafo>
             <texto>
                 Como visto ao longo de todo o texto, o DRPE é um método que promove a participação e a formação de uma consciência crítica dos sujeitos de uma dada coletividade geralmente em torno da construção de um bem comum. No contexto de sociedades que buscam implementar e consolidar a democracia, como é o caso da sociedade brasileira, esse método pode contribuir para a formação de cidadãos conscientes de seus direitos e de seus deveres no processo de coprodução do bem público e de construção da nação. 
@@ -3196,6 +3287,63 @@
                 Por fim, é necessário reafirmar que esse método não é a solução para todos os males que sofre a cultura brasileira, mas constitui uma possibilidade objetiva de estabelecer um processo de transformação de forma gradual e duradoura na direção de uma ação dialógica e de formação de uma racionalidade substantiva e comunicativa, requisitos essenciais para a consolidação de uma democracia participativa e deliberativa. Assim, espera-se que esta obra estimule mais pessoas, organizações e instituições a adotar o DRPE como rotina de trabalho em coletividades.
             </texto>
         </paragrafo>
+        
+        <popup id="POPUP_CHACARA">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba mais</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Chácara é a denominação dada pela coletividade à área individual no assentamento. O INCRA denomina a mesma área de “lote”.</texto>
+            </paragrafo>
+        </popup>
+        
+        <popup id="POPUP_REQUEIROS">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba mais</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Requeiro é um tipo de garimpeiro que explora o garimpo de forma manual, usando uma baia.</texto>
+            </paragrafo>
+        </popup>
+        
+        
+        <popup id="POPUP_PESCAR">
+            <chamada estilo="link">
+                <paragrafo>
+                    <texto>Link</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>É interessante ressaltar a crença da comunidade a respeito da influência da lua sobre suas atividades: “Tem a lua boa para pescar. Lua cheia e minguante”. </texto>
+            </paragrafo>
+        </popup>
+        
+        <popup id="POPUP_ICTIOFAUNA">
+            <chamada estilo="glossario">
+                <paragrafo>
+                    <texto>Glossário</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Ictiofauna – conjunto de peixes de uma região ou ambiente. Fonte: Houaiss (1999).</texto>
+            </paragrafo>
+        </popup>
+
+        <popup id="POPUP_RAPPORT">
+            <chamada estilo="glossario">
+                <paragrafo>
+                    <texto>Glossário</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Rapport – é um conceito originário da psicologia que remete à técnica de criar uma ligação de empatia com outra pessoa. O termo vem do francês rapporter, cujo significado remete à sincronização que permite estabelecer uma relação harmônica. A técnica objetiva gerar confiança no processo de comunicação para que a pessoa fique mais aberta e receptiva durante a terapia. Isso faz com que ela interaja, troque e receba informações com mais facilidade. Fonte: Marques (2016).</texto>
+            </paragrafo>
+        </popup>
+
     </pagina>
     
     <pagina>
