@@ -276,11 +276,11 @@ body {
 }
 
 .listaordenada.alfabetica {
-    list-style: lower-alpha;
+    list-style-type: lower-alpha;
 }
 
 .listaordenada.bolinha {
-    list-style: disc;
+    list-style-type: disc;
 }
 
 .numero_pagina {
@@ -313,6 +313,10 @@ body {
 
 .paragrafo.texto_direita {
     text-align: right;
+}
+
+.paragrafo.centralizado {
+    text-align: center;
 }
 
 .paragrafo.avaliacao {
@@ -420,9 +424,13 @@ body {
     overflow-x: auto;
 }
 
+.tabela table {
+    border-collapse: collapse;
+}
 
 .tabela td {
     padding: 5px;
+    border-collapse: collapse;
 }
 
 .tabela thead .paragrafo {
@@ -435,36 +443,51 @@ body {
     text-align: left;
 }
 
-.intervencao .tabela .paragrafo{
+.tabela .itemlista  {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.tabela .topo {
+    vertical-align: top;
+}
+
+.tabela_marrom table td {
+    border: 5px solid rgb(185, 109, 23);
+}
+
+.tabela_marrom table thead tr {
+    background-color: rgb(185, 109, 23);
     color: white;
 }
 
-.intervencao .tabela thead td {
-    background-color: rgb(91, 58, 36);
+.tabela_rosa thead tr {
+    background-color: rgb(275, 173, 163);
 }
 
-.intervencao .tabela tbody tr.l1 td.c1,
-.intervencao .tabela tbody tr.l2 td.c1 {
-    background-color: rgb(139, 84, 48);
+.tabela_rosa table td {
+    border: 5px solid rgb(275, 173, 163);
 }
 
-.intervencao .tabela tbody tr.l1 td.c2,
-.intervencao .tabela tbody tr.l2 td.c2 {
-    background-color: rgb(176, 114, 67);
+.tabela_verde table td {
+    border: 5px solid rgb(80, 137, 127);
 }
 
-.intervencao .tabela tbody tr.l1 td.c3,
-.intervencao .tabela tbody tr.l2 td.c3 {
-    background-color: rgb(191, 138, 95);
-}
-
-.intervencao .tabela tbody tr.l1 td.c4,
-.intervencao .tabela tbody tr.l2 td.c4 {
-    background-color: rgb(206, 166, 128);
+.tabela_verde table thead tr {
+    background-color: rgb(80, 137, 127);
+    color: white;
 }
 
 
+.tabela_educacao_bancaria td,
+.tabela_temas_geradores td{
+    vertical-align: top;
+}
 
+.tabela_temas_geradores .paragrafo,
+.tabela_temas_geradores .itemlista {
+    color: rgb(87, 87, 86);
+}
 
 
 /****** The Modal (background) ******/

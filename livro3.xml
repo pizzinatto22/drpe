@@ -304,24 +304,23 @@
                 Especificamente, destacam-se os seguintes objetivos do DRPE:
             </texto>
         </paragrafo>
-        <paragrafo>
-            <marcadorlista />
-            <texto> 
-                identificar e analisar os temas geradores dos participantes, motivando-os metodologicamente a problematizar sua própria realidade, com a finalidade de estabelecer suas prioridades, avaliando as ações que eles mesmos podem realizar e aquelas que caberiam às instituições locais, estaduais e federais;
-            </texto>
-        </paragrafo>
-        <paragrafo>
-            <marcadorlista />
-            <texto> 
-                levantar informações de natureza qualitativa e quantitativa a fim de elaborar estratégias de ação para os próprios participantes; e
-            </texto>
-        </paragrafo>
-        <paragrafo>
-            <marcadorlista />
-            <texto> 
-                identificar limitações e potencialidades estruturais de organização dos participantes da ação.
-            </texto>
-        </paragrafo>
+        <lista estilo="alfabetica">
+            <item>
+                <texto> 
+                    identificar e analisar os temas geradores dos participantes, motivando-os metodologicamente a problematizar sua própria realidade, com a finalidade de estabelecer suas prioridades, avaliando as ações que eles mesmos podem realizar e aquelas que caberiam às instituições locais, estaduais e federais;
+                </texto>
+            </item>
+            <item>
+                <texto> 
+                    levantar informações de natureza qualitativa e quantitativa a fim de elaborar estratégias de ação para os próprios participantes; e
+                </texto>
+            </item>
+            <item>
+                <texto> 
+                    identificar limitações e potencialidades estruturais de organização dos participantes da ação.
+                </texto>
+            </item>
+        </lista>
         <paragrafo>
             <texto> 
                 A meta global da emancipação somente poderá ser alcançada se os próprios participantes estabelecerem relações com seu meio social, cultural, econômico, político e ambiental que se sustentem no tempo. Como o DRPE constitui a base para a elaboração de Planejamentos Participativos e Planos de Desenvolvimento Sustentável, o tema “sustentabilidade ambiental” torna-se outro eixo de atenção desse método. Por isso, surge um quarto objetivo do DRPE:  identificar a compreensão e as práticas culturais que os participantes expressam sobre suas relações com a natureza.
@@ -1224,9 +1223,129 @@
                 Para diferenciar a educação participativa da educação tutorial, Alencar (1990) resume, comparativamente, as características dessas duas formas de intervenção, conforme o Quadro 1. 
             </texto>
         </paragrafo>
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 1 − Intervenção convencional (tutorial) versus participativa</texto>
+        </paragrafo>
+        <tabela estilo="tabela_marrom">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Forma de intervenção</negrito>                  
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Unidade social para a ação</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Papel do agente externo</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Papel dos membros do grupo</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Convencional</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Comunidade não diferenciada</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <negrito>TUTORIAL</negrito>
+                        </paragrafo>
+                        <lista>
+                            <item>
+                                <texto>Diagnosticar (identificar os problemas e suas causas).</texto>
+                            </item>
+                            <item>
+                                <texto>Estabelecer os meios para solucioná-los.</texto>
+                            </item>
+                            <item>
+                                <texto>Avaliar as ações executadas.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <negrito>PASSIVO</negrito>
+                        </paragrafo>
+                        <lista>
+                            <item>
+                                <texto>Executar as ações prescritas pelo agente externo.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Participativa</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Grupos com interesses comuns</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <negrito>EDUCACIONAL</negrito>
+                        </paragrafo>
+                        <lista>
+                            <item>
+                                <texto>Identificar grupos com interesses comuns</texto>
+                            </item>
+                            <item>
+                                <texto>Promover a organização inicial do grupo.</texto>
+                            </item>
+                            <item>
+                                <texto>Orientar na identificação dos problemas.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <negrito>ATIVO</negrito>
+                        </paragrafo>
+                        <lista>
+                            <item>
+                                <texto>Diagnosticar (identificar os problemas e suas causas).</texto>
+                            </item>
+                            <item>
+                                <texto>Estabelecer os meios para solucioná-los.</texto>
+                            </item>
+                            <item>
+                                <texto>Avaliar as ações executadas e buscar novos caminhos, se necessário.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Alencar (1990, p. 25)</texto>
+        </paragrafo>
         <paragrafo>
             <texto>
-                Por um lado, na educação tutorial, o agente externo considera o locus da ação (comunidade, assentamento rural, cooperativa, associação, entre outros) como um sistema social homogêneo, ou seja, não procura fazer diferenciação entre os membros. Nesse tipo de intervenção, o agente externo trabalha, geralmente, apenas com lideranças que não possuem legitimidade democrática, o que reforça as ações autoritárias, desvirtua a ação comunicativa em prol de interesses privados e cria laços de dependência. Assim, 
+                Por um lado, na educação tutorial, o agente externo considera o 
+            </texto>
+            <italico>locus</italico>
+            <texto>
+                da ação (comunidade, assentamento rural, cooperativa, associação, entre outros) como um sistema social homogêneo, ou seja, não procura fazer diferenciação entre os membros. Nesse tipo de intervenção, o agente externo trabalha, geralmente, apenas com lideranças que não possuem legitimidade democrática, o que reforça as ações autoritárias, desvirtua a ação comunicativa em prol de interesses privados e cria laços de dependência. Assim, 
             </texto>
         </paragrafo>
         <citacao>
@@ -1247,9 +1366,165 @@
                 Essa diferenciação entre intervenção tutorial e participativa está fundamentada em Freire (1987), ao levantar os questionamentos críticos em relação às características da educação bancária, como pode ser observado no Quadro 2.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 2 − Educação bancária e seus  questionamentos críticos</texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_marrom tabela_educacao_bancaria">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>
+                                EDUCAÇÃO BANCÁRIA
+                            </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>
+                                QUESTIONAMENTOS CRÍTICOS
+                            </texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>1. O educador é o que educa; os educandos, os educados.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Não há diálogo se não há humildade. A “pronúncia” do mundo, com que os homens o recriam permanentemente, não pode ser um ato arrogante.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>2. O educador é o que sabe; os educandos, os que não sabem.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Como posso dialogar se alieno a ignorância, isto é, se a vejo sempre no outro, nunca em mim?</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>3. O educador é o que pensa; os educandos, os pensados.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Como posso dialogar se me admito como um homem diferente, virtuoso por herança, mas diante dos outros, meros “isto”, em quem não reconheço outros eu?</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>4. O educador é o que diz a palavra; os educandos, os que a escutam docilmente.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Como posso dialogar se me sinto participante de um gueto de homens puros, donos da verdade e do saber, para quem todos os que estão fora são “essa gente” ou são “nativos inferiores”?</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>5. O educador é o que disciplina; os educandos, os disciplinados.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Como posso dialogar se parto de que a “pronúncia” do mundo é tarefa de homens seletos e que a presença das massas na história é sinal de sua deterioração que devo evitar?</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>                
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>6. O educador é o que opta e prescreve sua opção; os educandos, os que seguem a prescrição.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Como posso dialogar, se me fecho à contribuição dos outros, que jamais reconheço, até me sinto ofendido com ela?</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>7. O educador é o que atua; os educandos, os que têm a ilusão de que atuam na atuação do educador.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Como posso dialogar se temo a superação e se só em pensar nela sofro e definho?</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>8. O educador escolhe o conteúdo programático; os educandos, jamais ouvidos nessa escolha, se acomodam a ele.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>A autossuficiência é incompatível com o diálogo.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>9. O educador identifica a autoridade do saber com sua autoridade funcional, que opõe antagonicamente à liberdade dos educandos; estes devem adaptar-se às determinações daquele.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Não há diálogo se não há uma intensa fé nos homens, fé no seu poder de fazer e de refazer, de criar e recriar, na sua vocação de “ser mais”, que não é privilégio de alguns eleitos, mas direito dos homens</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>10. O educador, finalmente, é o sujeito do processo; os educandos, meros objetos.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>No diálogo, como ponto de encontro entre os homens, não há ignorantes absolutos, nem sábios absolutos: há homens que, em comunhão, buscam saber mais.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adaptado de Freire (1987)</texto>
+        </paragrafo>
+        
         <paragrafo>
             <texto>
-                Oakley (1980 apud ALENCAR, 2001, p. 63−65) identifica cinco subprocessos fundamentais no processo de educação participativa, a saber: faculdade crítica, participação, organização, solidariedade e articulação. 
+                Oakley (1980 
+            </texto>
+            <italico>apud</italico>
+            <texto>
+                ALENCAR, 2001, p. 63−65) identifica cinco subprocessos fundamentais no processo de educação participativa, a saber: faculdade crítica, participação, organização, solidariedade e articulação. 
             </texto>
         </paragrafo>
         <paragrafo>
@@ -1282,7 +1557,11 @@
             </texto>
             <negrito>organização</negrito>
             <texto>
-                quanto a solidariedade são desdobramentos do processo de conscientização e da participação dos indivíduos na ação coletiva. Assim, a 
+                quanto a 
+            </texto>
+            <negrito>solidariedade</negrito>
+            <texto>
+                são desdobramentos do processo de conscientização e da participação dos indivíduos na ação coletiva. Assim, a 
             </texto>
             <negrito>solidariedade,</negrito>
             <texto>
@@ -1392,7 +1671,11 @@
                 </paragrafo>    
             </chamada>
             <paragrafo>
-                <texto>A intervenção participativa, ou intervenção social, é uma ação, ou conjunto de ações, praticada por pessoas que não pertencem ao núcleo comunitário onde tal ação se realiza (agentes externos). Ela pode assumir um caráter “tutorial” ou um caráter “educativo”. A intervenção assume um caráter tutorial quando a ação do agente externo é orientada no sentido de introduzir ideias previamente estabelecidas sem que haja participação da população na formulação de tais ideias. Nessa forma de agir, é o agente externo quem elabora os diagnósticos, identifica os problemas, escolhe os meios para solucioná-los, estabelece as estratégias de ação e avalia as ações executadas. Cabe à população, nessa forma de intervenção, executar as ações “prescritas”. A intervenção assume um caráter educativo quando a população-alvo é estimulada pelo agente externo a desenvolver a habilidade de diagnosticar e analisar seus problemas, decidir coletivamente sobre as ações para solucioná-los, executar tais ações e avaliá-las, buscando, sempre que necessário, novas alternativas. Fonte: Alencar (1995, p. 98−99).</texto>
+                <texto>A intervenção participativa, ou intervenção social, é uma ação, ou conjunto de ações, praticada por pessoas que não pertencem ao núcleo comunitário onde tal ação se realiza (agentes externos). Ela pode assumir um caráter “tutorial” ou um caráter “educativo”. A intervenção assume um </texto>
+                <negrito>caráter tutorial</negrito>
+                <texto> quando a ação do agente externo é orientada no sentido de introduzir ideias previamente estabelecidas sem que haja participação da população na formulação de tais ideias. Nessa forma de agir, é o agente externo quem elabora os diagnósticos, identifica os problemas, escolhe os meios para solucioná-los, estabelece as estratégias de ação e avalia as ações executadas. Cabe à população, nessa forma de intervenção, executar as ações “prescritas”. A intervenção assume um </texto>
+                <negrito>caráter educativo</negrito>
+                <texto> quando a população-alvo é estimulada pelo agente externo a desenvolver a habilidade de diagnosticar e analisar seus problemas, decidir coletivamente sobre as ações para solucioná-los, executar tais ações e avaliá-las, buscando, sempre que necessário, novas alternativas. Fonte: Alencar (1995, p. 98−99).</texto>
             </paragrafo>
         </popup>
         
@@ -1508,13 +1791,22 @@
         </lista>
         <paragrafo>
             <texto>
-                Pode-se considerar que o problema da alteridade no âmbito das coletividades perpassa, também, de forma dinâmica, pelos três planos a que se refere Todorov (1996). No plano axiológico, a posição dos grupos mediadores em relação aos membros das coletividades tem sido de superioridade, seja pelo status de “agente externo”, aquele que os representa fora do ambiente de trabalho ou da organização, seja pelo conhecimento que expressa, seja pelo fato de possuir curso superior, por exemplo, o que remete ao plano epistemológico. Os grupos mediadores correm o risco de idealizar o caminho a ser seguido pela coletividade, estabelecendo metas e objetivos a ser alcançados, e podem idealizar um modelo de organização em detrimento da forma percebida e praticada pelos membros da coletividade. Ao agirem dessa forma, acabam por reforçar traços de dependência como a “patronagem” e o “clientelismo”.
+                Pode-se considerar que o problema da alteridade no âmbito das coletividades perpassa, também, de forma dinâmica, pelos três planos a que se refere Todorov (1996). No plano 
             </texto>
+            <negrito>axiológico</negrito>
+            <texto> , a posição dos grupos mediadores em relação aos membros das coletividades tem sido de superioridade, seja pelo 
+            </texto>
+            <italico>status</italico>
+            <texto> de “agente externo”, aquele que os representa fora do ambiente de trabalho ou da organização, seja pelo conhecimento que expressa, seja pelo fato de possuir curso superior, por exemplo, o que remete ao plano </texto>
+            <negrito>epistemológico</negrito>
+            <texto>. Os grupos mediadores correm o risco de idealizar o caminho a ser seguido pela coletividade, estabelecendo metas e objetivos a ser alcançados, e podem idealizar um modelo de organização em detrimento da forma percebida e praticada pelos membros da coletividade. Ao agirem dessa forma, acabam por reforçar traços de dependência como a “patronagem” e o “clientelismo”.</texto>
         </paragrafo>
         <paragrafo>
             <texto>
-                No plano praxiológico, os grupos mediadores podem assumir que seus valores são melhores do que os valores dos membros da coletividade em foco, ou superiores, negando uma possível relação “dialógica” com eles, distanciando-se deles por não procurarem conhecer e reconhecer suas trajetórias e seus valores culturais. Geralmente, os grupos mediadores agem de forma indiferente a essas questões, como se a coletividade fosse homogênea. Essas posições assumidas nesses três planos de alteridade é que caracterizam o tipo de intervenção tutorial. 
+                No plano 
             </texto>
+            <negrito>praxiológico</negrito>
+            <texto>, os grupos mediadores podem assumir que seus valores são melhores do que os valores dos membros da coletividade em foco, ou superiores, negando uma possível relação “dialógica” com eles, distanciando-se deles por não procurarem conhecer e reconhecer suas trajetórias e seus valores culturais. Geralmente, os grupos mediadores agem de forma indiferente a essas questões, como se a coletividade fosse homogênea. Essas posições assumidas nesses três planos de alteridade é que caracterizam o tipo de intervenção tutorial.</texto>
         </paragrafo>
 
         <paragrafo>
@@ -1598,8 +1890,13 @@
         </paragrafo>
         <paragrafo>
             <texto>
-                Como já mencionado, os DRPs foram desenvolvidos e utilizados na década de 1970 por organizações não governamentais (ONGs) e governamentais europeias que trabalhavam em projetos de desenvolvimento rural em países da África e Ásia. A origem dos DRPs deve-se às críticas generalizadas aos métodos convencionais de diagnóstico e pesquisa, representados, principalmente, pelo método de tipo survey. Os técnicos então passaram a procurar novas formas de realizar pesquisa, que possibilitassem a difusão de tecnologias e o planejamento de projetos de desenvolvimento rural, no sentido de evitar o aumento da pobreza rural e a manutenção das desigualdades sociais e do status quo das lideranças locais, como bem criticou Chambers (1987) a postura dos chamados agentes externos. Para Chambers (1987), os pequenos produtores são profissionais porque detêm conhecimento, portanto o desafio dos técnicos consiste em aprender com eles, o que os coloca em termos de igualdade.
+                Como já mencionado, os DRPs foram desenvolvidos e utilizados na década de 1970 por organizações não governamentais (ONGs) e governamentais europeias que trabalhavam em projetos de desenvolvimento rural em países da África e Ásia. A origem dos DRPs deve-se às críticas generalizadas aos métodos convencionais de diagnóstico e pesquisa, representados, principalmente, pelo método de tipo 
             </texto>
+            <italico>survey</italico>
+            <texto>. Os técnicos então passaram a procurar novas formas de realizar pesquisa, que possibilitassem a difusão de tecnologias e o planejamento de projetos de desenvolvimento rural, no sentido de evitar o aumento da pobreza rural e a manutenção das desigualdades sociais e do 
+            </texto>
+            <italico>status quo</italico>
+            <texto> das lideranças locais, como bem criticou Chambers (1987) a postura dos chamados agentes externos. Para Chambers (1987), os pequenos produtores são profissionais porque detêm conhecimento, portanto o desafio dos técnicos consiste em aprender com eles, o que os coloca em termos de igualdade.</texto>
         </paragrafo>
         <youtube url="//www.youtube.com/embed/-lHr14RSvVM" />
         <paragrafo>
@@ -1639,16 +1936,18 @@
         </paragrafo>
         <lista estilo="alfabetica">
             <item>
-                <texto>Os elementos produzidos no âmbito de atuação dos atores sociais são obtidos por meio de informações secundárias que se encontram em fontes documentais e em dados estatísticos sobre a situação sociocultural, econômica, política e ambiental dos atores e da região em estudo. As fontes documentais incluem: revistas técnicas e científicas; jornais especializados; relatórios; projetos; entrevistas documentadas anteriormente realizadas. Enfim, todo material escrito que se relacione com as ações de cada um dos atores envolvidos. Essas “informações secundárias” ou “dados frios” são assim chamados porque são coletados de maneira não participativa, ou seja, as informações são obtidas independentemente de como os atores sociais veem a realidade, embora possa ser necessário consultar alguns deles. O objetivo é levantar informações que permitam caracterizar a coletividade antes de se relacionar com ela diretamente para subsidiar a utilização das técnicas que compõem o DRPE. Além disso, o registro e a sistematização dessas informações devem ser utilizadas para redigir o 
-                </texto>
+                <negrito>Os elementos produzidos no âmbito de atuação dos atores sociais</negrito>
+                <texto> são obtidos por meio de informações secundárias que se encontram em fontes documentais e em dados estatísticos sobre a situação sociocultural, econômica, política e ambiental dos atores e da região em estudo. As fontes documentais incluem: revistas técnicas e científicas; jornais especializados; relatórios; projetos; entrevistas documentadas anteriormente realizadas. Enfim, todo material escrito que se relacione com as ações de cada um dos atores envolvidos. Essas “informações secundárias” ou “dados frios” são assim chamados porque são coletados de maneira não participativa, ou seja, as informações são obtidas independentemente de como os atores sociais veem a realidade, embora possa ser necessário consultar alguns deles. O objetivo é levantar informações que permitam caracterizar a coletividade antes de se relacionar com ela diretamente para subsidiar a utilização das técnicas que compõem o DRPE. Além disso, o registro e a sistematização dessas informações devem ser utilizadas para redigir o </texto>
                 <abrirpopup id="POPUP_RELATORIO_FINAL" estilo="link">Relatório Final</abrirpopup>
                 <texto>.</texto>
             </item>
             <item>
-                <texto>Os processos e produtos centrados nos atores sociais são obtidos por meio da utilização de diversas técnicas de pesquisa e de dinâmica de grupo, que serão apresentadas mais à frente. Entre os atores sociais participantes são identificados os informantes-chave, pessoas selecionadas por critérios de tempo de moradia na localidade (os mais antigos), de conhecimento, saber ou experiência. Essa dimensão analítica constitui toda coleta e sistematização de informações primárias realizadas face a face pela equipe interdisciplinar com os atores participantes, por meio da identificação e descrição das percepções expressas pelos atores sociais a respeito de seus temas geradores.</texto>
+                <negrito>Os processos e produtos centrados nos atores sociais</negrito>
+                <texto> são obtidos por meio da utilização de diversas técnicas de pesquisa e de dinâmica de grupo, que serão apresentadas mais à frente. Entre os atores sociais participantes são identificados os informantes-chave, pessoas selecionadas por critérios de tempo de moradia na localidade (os mais antigos), de conhecimento, saber ou experiência. Essa dimensão analítica constitui toda coleta e sistematização de informações primárias realizadas face a face pela equipe interdisciplinar com os atores participantes, por meio da identificação e descrição das percepções expressas pelos atores sociais a respeito de seus temas geradores.</texto>
             </item>
             <item>
-                <texto>Os processos e produtos originados pela estrutura socioeconômica do macroambiente social dos atores são obtidos por meio da análise das políticas públicas – de âmbito federal, estadual ou municipal –, materializadas em leis, normas, regulamentos, programas, projetos específicos, entre outras formas. Essa dimensão analítica é desenvolvida e incorporada na elaboração do Relatório Final. Pode ser incluída aqui uma sistematização teórica sintética, quando for considerado adequado pela equipe interdisciplinar.</texto>
+                <negrito>Os processos e produtos originados pela estrutura socioeconômica do macroambiente social dos atores</negrito>
+                <texto> são obtidos por meio da análise das políticas públicas – de âmbito federal, estadual ou municipal –, materializadas em leis, normas, regulamentos, programas, projetos específicos, entre outras formas. Essa dimensão analítica é desenvolvida e incorporada na elaboração do Relatório Final. Pode ser incluída aqui uma sistematização teórica sintética, quando for considerado adequado pela equipe interdisciplinar.</texto>
             </item>
         </lista>
         
@@ -1690,16 +1989,18 @@
         </paragrafo>
         <lista estilo="alfabetica">
             <item>
-                <texto>Expressão e descrição da realidade – é a expressão dos valores, das ideias e dos conceitos por meio de temas geradores manifestados pelos atores participantes, ou seja, conteúdos de valor e opções existenciais. É o momento de problematização ou reflexão da realidade pelos próprios atores sociais, quando identificarão seus próprios problemas, suas causas e possíveis soluções. É o momento também em que se depararão com as 
-                </texto>
+                <negrito>Expressão e descrição da realidade</negrito>
+                <texto> – é a expressão dos valores, das ideias e dos conceitos por meio de temas geradores manifestados pelos atores participantes, ou seja, conteúdos de valor e opções existenciais. É o momento de problematização ou reflexão da realidade pelos próprios atores sociais, quando identificarão seus próprios problemas, suas causas e possíveis soluções. É o momento também em que se depararão com as </texto>
                 <abrirpopup id="POPUP_SITUACOES_LIMITE" estilo="glossario">“situações-limite”</abrirpopup>
                 <texto>.</texto>
             </item>
             <item>
-                <texto>Crítica do material expresso – é o momento em que se procura identificar e analisar potenciais e/ou prováveis contradições na situação de trabalho dos atores participantes, ou seja, em que se analisa as causas dos problemas identificados.</texto>
+                <negrito>Crítica do material expresso</negrito>
+                <texto> – é o momento em que se procura identificar e analisar potenciais e/ou prováveis contradições na situação de trabalho dos atores participantes, ou seja, em que se analisa as causas dos problemas identificados.</texto>
             </item>
             <item>
-                <texto>Criatividade – é o momento de mobilização dos recursos estratégicos disponíveis aos grupos sociais para estabelecer os cursos de ação. Corresponde, sequencialmente, à fase do Planejamento Participativo. </texto>
+                <negrito>Criatividade</negrito>
+                <texto> – é o momento de mobilização dos recursos estratégicos disponíveis aos grupos sociais para estabelecer os cursos de ação. Corresponde, sequencialmente, à fase do Planejamento Participativo. </texto>
             </item>
         </lista>
         <paragrafo>
@@ -1737,12 +2038,441 @@
                 Os temas geradores podem ser organizados conforme o Quadro 3.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 3 – Referência de temas geradores da coletividade</texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_rosa tabela_temas_geradores">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>TEMAS GERADORES</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>QUESTÕES</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>OBSERVAÇÕES</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>TÉCNICAS</negrito>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>(EXEMPLOS)</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>1</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1a</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1b</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Entrevistas</texto>
+                            </item>
+                            <item>
+                                <texto>Caminhada transversal</texto>
+                            </item>
+                            <item>
+                                <texto>Mapeamento</texto>
+                            </item>
+                        </lista>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>2</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2a</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2b</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Entrevistas Semiestruturadas</texto>
+                            </item>
+                            <item>
+                                <texto>Entra e sai</texto>
+                            </item>
+                            <item>
+                                <texto>Mapeamento</texto>
+                            </item>
+                            <item>
+                                <texto>Caminhada transversal</texto>
+                            </item>
+                            <item>
+                                <texto>Mapeamento</texto>
+                            </item>
+                            <item>
+                                <texto>Rotina diária</texto>
+                            </item>
+                            <item>
+                                <texto>Calendário sazonal</texto>
+                            </item>
+                        </lista>
+                    </celula>                    
+                </linha>                
+            </corpo>            
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Elaboração própria</texto>
+        </paragrafo>
 
         <paragrafo>
             <texto>
                 O Quadro 4, a seguir, foi elaborado para a realização do DRPE em uma cooperativa de artesanato em Minas Gerais. É um quadro construído com a participação de todos os membros da equipe interdisciplinar na fase preparatória que antecede a realização do DRPE.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 4 – Quadro de referência da Cooperativa Mariense de Artesanato</texto>
+        </paragrafo>
+
+        <tabela estilo="tabela_rosa">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>TEMAS GERADORES</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>OBSERVAÇÕES</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>QUESTÕES</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>TÉCNICAS</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>1. Infraestrutura Física</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Máquinas e Equipamentos</texto>
+                            </item>
+                            <item>
+                                <texto>Construções e Instalações</texto>
+                            </item>
+                            <item>
+                                <texto>Ambiente de Trabalho</texto>
+                            </item>
+                            <item>
+                                <texto>Segurança no Trabalho.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Qual o patrimônio da cooperativa? Qual a importância do patrimônio para os associados? Há equipamentos adequados para o trabalho realizado?</texto>
+                            </item>
+                            <item>
+                                <texto>As construções e instalações estão em condições adequadas de trabalho? O que falta para melhorar? </texto>
+                            </item>
+                            <item>
+                                <texto>Luminosidade adequada? Ambiente higienizado? Há limpezas periódicas?</texto>
+                            </item>
+                            <item>
+                                <texto>Os associados usam Equipamentos de Proteção Individual? Há Comissão Interna de Prevenção de Acidentes (CIPA)?</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Entrevistas </texto>
+                            </item>
+                            <item>
+                                <texto>Caminhada Transversal</texto>
+                            </item>
+                            <item>
+                                <texto>Mapeamento</texto>
+                            </item>
+                            <item>
+                                <texto>Construção.</texto>
+                            </item>
+                        </lista>
+                    </celula>                    
+                </linha>
+
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>2. Organização do Trabalho</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Grupos de Trabalho</texto>
+                            </item>
+                            <item>
+                                <texto>Divisão do Trabalho</texto>
+                            </item>
+                            <item>
+                                <texto>Estrutura de Produção</texto>
+                            </item>
+                            <item>
+                                <texto>Estrutura Organizacional.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Quantas oficinas ou grupos de trabalho se apresentam na cooperativa? Como foram formados? Qual o número de pessoas em cada grupo? </texto>
+                            </item>
+                            <item>
+                                <texto>Como é dividido o trabalho entre os associados? Por atividade, por afeição, por amizade, por parentesco? Existe algum critério ou regra pré-estabelecida? Vocês estão satisfeitos com o trabalho que fazem? O que falta para melhorar? Há divisão de trabalho intelectual do manual?</texto>
+                            </item>
+                            <item>
+                                <texto>Qual a demanda de produção? Há pessoas para desenvolver todo o trabalho? Como é definido o padrão de qualidade das peças? A produção é patenteada?</texto>
+                            </item>
+                            <item>
+                                <texto>Há hierarquia na divisão das funções? Alguém define o que vai ser produzido, a quantidade e a qualidade?  Existe estrutura, descrição e especificação de cargos?</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Entrevistas Semiestruturadas</texto>
+                            </item>
+                            <item>
+                                <texto>Entra e Sai</texto>
+                            </item>
+                            <item>
+                                <texto>Caminhada Transversal</texto>
+                            </item>
+                            <item>
+                                <texto>Mapeamento</texto>
+                            </item>
+                            <item>
+                                <texto>Rotina Diária</texto>
+                            </item>
+                            <item>
+                                <texto>Calendário Sazonal.</texto>
+                            </item>
+                        </lista>
+                    </celula>                    
+                </linha>
+                
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>3. Mercado</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Destino da Produção</texto>
+                            </item>
+                            <item>
+                                <texto>Fornecedores</texto>
+                            </item>
+                            <item>
+                                <texto>Localização</texto>
+                            </item>
+                            <item>
+                                <texto>Contratos e Convênios</texto>
+                            </item>
+                            <item>
+                                <texto>Concorrentes.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Autoconsumo; atravessador; cooperativas; atacadistas; varejistas; exportação; transformação; feira.</texto>
+                            </item>
+                            <item>
+                                <texto>Preço do produto; localização, condições de pagamento; quantidade.</texto>
+                            </item>
+                            <item>
+                                <texto>Distância dos centros urbanos; meios de transporte e custos; acessibilidade; outros canais de comercialização.</texto>
+                            </item>
+                            <item>
+                                <texto>São feitos entre a Cooperativa e fornecedores, parceiros e clientes? Como são feitos? Qual a importância das instituições e das organizações para a cooperativa? Há alguma instituição ou organização atuando junto à cooperativa?</texto>
+                            </item>
+                            <item>
+                                <texto>Há outras cooperativas, associações ou empresas no mesmo tipo de negócio?</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Entrevistas</texto>
+                            </item>
+                            <item>
+                                <texto>Entra e Sai</texto>
+                            </item>
+                            <item>
+                                <texto>Diagrama de Venn.</texto>
+                            </item>
+                        </lista>
+                    </celula>                    
+                </linha>
+                
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>4. Gestão</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Transparência Administrativa</texto>
+                            </item>
+                            <item>
+                                <texto>Participação</texto>
+                            </item>
+                            <item>
+                                <texto>Processo Decisório</texto>
+                            </item>
+                            <item>
+                                <texto>Estrutura Democrática.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Todos os associados sabem de onde vem, o que é feito e para onde vai o dinheiro dentro da cooperativa? A contabilidade da cooperativa é apresentada para todos em Assembléia Geral? </texto>
+                            </item>
+                            <item>
+                                <texto>Os associados freqüentam as reuniões e assembléias? Como ocorre a participação? Qual o nível da participação (informação, consulta facultativa ou obrigatória, delegação, co-gestão ou autogestão)?</texto>
+                            </item>
+                            <item>
+                                <texto>Como são tomadas as decisões na cooperativa? Nas oficinas ou nas assembléias? </texto>
+                            </item>
+                            <item>
+                                <texto>Quantas reuniões são feitas por mês? Que assuntos são discutidos? Há canais burocráticos para a participação e decisão?</texto>
+                            </item>
+                            
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Diagrama de Venn</texto>
+                            </item>
+                            <item>
+                                <texto>Entrevistas</texto>
+                            </item>
+                            <item>
+                                <texto>Realidade/Desejo.</texto>
+                            </item>
+                        </lista>
+                    </celula>                    
+                </linha>
+                
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>5. Educação e Cultura</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Alfabetização</texto>
+                            </item>
+                            <item>
+                                <texto>Saber Local</texto>
+                            </item>
+                            <item>
+                                <texto>Cursos de Capacitação.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="alfabetica">
+                            <item>
+                                <texto>Número de analfabetos; escolaridade; relação idade e série.</texto>
+                            </item>
+                            <item>
+                                <texto>Técnicas (de construção; medicinais; artesanais); manifestações folclóricas; crenças e mitos; valores religiosos; hábitos alimentares.</texto>
+                            </item>
+                            <item>
+                                <texto>Tipo; conteúdo; carga horária; instrutor; participantes; convênios ou recursos próprios. </texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    <celula estilo="topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Entrevistas Semi-estruturadas</texto>
+                            </item>
+                            <item>
+                                <texto>Rotina diária</texto>
+                            </item>
+                            <item>
+                                <texto>Construção.</texto>
+                            </item>
+                        </lista>
+                    </celula>                    
+                </linha>
+            </corpo>            
+        </tabela>        
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira (2007)</texto>
+        </paragrafo>
+        
         <paragrafo>
             <texto>
                 Em relação à crítica do material expresso, é um momento próprio para a equipe interdisciplinar se colocar na tarefa de discutir entre seus membros as informações coletadas e as impressões e interpretações que fazem da participação dos atores participantes da coletividade em foco. Nesse momento, é necessário certo distanciamento da equipe em relação ao local onde se realizou o diagnóstico a fim de colocar em prática o próprio processo de reflexão crítica diante do conjunto de informações coletadas. Para isso, a equipe precisa sistematizar as informações de análise e interpretação com base na técnica de análise de conteúdo.
@@ -1838,34 +2568,61 @@
                 Esse roteiro de etapas do DRPE é apresentado, esquematicamente, na forma de um processo circular de intervenção participativa, conforme a Figura 1. 
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Figura 1 – Processo metodológico das etapas de intervenção participativa do DRPE</texto>
+        </paragrafo>
+        
+        <imagem url="images/drpe-circular.jpg" />
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Elaboração própria
+            </texto>
+        </paragrafo>
+        
         <paragrafo>
             <texto>
                 O processo metodológico do DRPE é iniciado com uma técnica de mobilização e sensibilização de todos os membros da coletividade, no sentido de explicar a metodologia e as ações a ser desenvolvidas ao longo dos cinco dias. Geralmente cada membro da equipe interdisciplinar se apresenta e explica o trabalho a ser realizado, expondo a programação dos cinco dias. 
             </texto>
         </paragrafo>
         <paragrafo>
-            <texto>
-                No primeiro dia é feito o mapeamento da área com todos os participantes da coletividade por meio da técnica denominada de “mapeamento histórico”. Ao final do primeiro dia são feitas a sistematização e interpretação, pela equipe interdisciplinar, das informações até então levantadas. 
-            </texto>
+            <texto>No </texto>
+            <negrito>primeiro dia</negrito>
+            <texto> é feito o mapeamento da área com todos os participantes da coletividade por meio da técnica denominada de “mapeamento histórico”. Ao final do primeiro dia são feitas a sistematização e interpretação, pela equipe interdisciplinar, das informações até então levantadas.</texto>
         </paragrafo>
         <paragrafo>
-            <texto>
-                No segundo dia é feita a “caminhada transversal”, uma técnica em que a equipe caminha pelos lugares apontados pelos atores sociais como relevantes. Normalmente, segue com a equipe interdisciplinar um pequeno grupo que conhece bem o local, os mais antigos e os mais experientes. Nesse mesmo dia, dependendo da coletividade, utiliza-se a técnica da “construção” com pequenos grupos para captar suas necessidades futuras no local de trabalho. Ao final do segundo dia a equipe se reúne para sistematizar, discutir e refletir sobre as informações coletadas. 
-            </texto>
+            <texto>No </texto>
+            <negrito>segundo dia</negrito>
+            <texto> é feita a “caminhada transversal”, uma técnica em que a equipe caminha pelos lugares apontados pelos atores sociais como relevantes. Normalmente, segue com a equipe interdisciplinar um pequeno grupo que conhece bem o local, os mais antigos e os mais experientes. Nesse mesmo dia, dependendo da coletividade, utiliza-se a técnica da “construção” com pequenos grupos para captar suas necessidades futuras no local de trabalho. Ao final do segundo dia a equipe se reúne para sistematizar, discutir e refletir sobre as informações coletadas.</texto>
         </paragrafo>
         <paragrafo>
-            <texto>
-                No terceiro dia geralmente é feita, com todos os participantes da coletividade, a técnica do “Diagrama de Venn”, que procura avaliar, na percepção dos participantes, as organizações e as instituições que representam importância e atuação em seu local de trabalho. Nesse mesmo dia são feitas entrevistas semiestruturadas com informantes-chave. Ao final do dia a equipe se reúne novamente para sistematizar e interpretar as informações coletadas. 
-            </texto>
+            <texto>No </texto>
+            <negrito>terceiro dia</negrito>
+            <texto> geralmente é feita, com todos os participantes da coletividade, a técnica do “Diagrama de Venn”, que procura avaliar, na percepção dos participantes, as organizações e as instituições que representam importância e atuação em seu local de trabalho. Nesse mesmo dia são feitas entrevistas semiestruturadas com informantes-chave. Ao final do dia a equipe se reúne novamente para sistematizar e interpretar as informações coletadas.</texto>
         </paragrafo>
         <paragrafo>
-            <texto>
-                No quarto dia são feitas entrevistas coletivas (grupo focal) com pequenos grupos, utilizando-se uma conjugação de técnicas como a entrevista coletiva com a “rotina diária”. Essa entrevista serve para captar  dos participantes a organização do trabalho na família e em pequenos grupos. Nesse mesmo dia utiliza-se a técnica “Calendário Sazonal” com todos os participantes da coletividade para identificar o grau de intensidade de trabalho mês a mês das principais atividades ou do conjunto de atividades em que estão envolvidos. 
-            </texto>
+            <texto>No </texto>
+            <negrito>quarto dia</negrito>
+            <texto> são feitas entrevistas coletivas (grupo focal) com pequenos grupos, utilizando-se uma conjugação de técnicas como a entrevista coletiva com a “rotina diária”. Essa entrevista serve para captar  dos participantes a organização do trabalho na família e em pequenos grupos. Nesse mesmo dia utiliza-se a técnica “Calendário Sazonal” com todos os participantes da coletividade para identificar o grau de intensidade de trabalho mês a mês das principais atividades ou do conjunto de atividades em que estão envolvidos. </texto>
         </paragrafo>
         <paragrafo>
+            <texto>No </texto>
+            <negrito>quinto e último dia</negrito>
+            <texto> são realizadas duas técnicas: o “fluxo de realidade e objetivo” e a “eleição de prioridades”. Procura-se com essas técnicas sistematizar os principais problemas identificados nos últimos quatro dias, discutir suas causas e as possíveis soluções, buscando captar a percepção e a intersubjetividade da coletividade em relação a tais problemas. Cada problema corresponderá a um objetivo que representará a solução apontada pelos próprios participantes. Depois de identificados e sistematizados os problemas e relacionados os objetivos correspondentes, procede-se à realização de uma eleição que elegerá, em ordem de prioridade individual, os objetivos elencados.</texto>
+        </paragrafo>
+        
+        <paragrafo estilo="centralizado">
             <texto>
-                No quinto e último dia são realizadas duas técnicas: o “fluxo de realidade e objetivo” e a “eleição de prioridades”. Procura-se com essas técnicas sistematizar os principais problemas identificados nos últimos quatro dias, discutir suas causas e as possíveis soluções, buscando captar a percepção e a intersubjetividade da coletividade em relação a tais problemas. Cada problema corresponderá a um objetivo que representará a solução apontada pelos próprios participantes. Depois de identificados e sistematizados os problemas e relacionados os objetivos correspondentes, procede-se à realização de uma eleição que elegerá, em ordem de prioridade individual, os objetivos elencados.
+                Figura 2 – Processo metodológico do DRPE
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/drpe-circular2.jpg" />
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Elaboração própria
             </texto>
         </paragrafo>
         
@@ -1898,6 +2655,23 @@
             </texto>
         </paragrafo>
         
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Figura 3 – Organização do conteúdo do Relatório Final
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/organizacao-relatorio.jpg" />
+
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Elaboração própria
+            </texto>
+        </paragrafo>
+        
+        
+        
         <paragrafo>
             <texto>
                 Uma vez pronto o Relatório Final, é necessário apresentá-lo didaticamente à coletividade para dar sequência ao processo de educação participativa, a fim de legitimar e validar o próprio Relatório. Recomenda-se uma apresentação elaborada na forma de cartilha, ilustrada com fotos, desenhos, mapas, quadrinhos, diálogos, quadros, gráficos, tabelas, entre outros recursos visuais, para estimular a reflexão sobre o processo realizado até então e problematizar novos temas geradores para a etapa de planejamento participativo, seguindo, assim, o princípio circular e cumulativo da pesquisa qualitativa. 
@@ -1910,37 +2684,48 @@
         </paragrafo>
         <lista estilo="bolinha">
             <item>
-                <texto>Não é estanque, isto é, busca-se inová-lo com o uso das técnicas participativas e as dinâmicas de grupo, de modo a acompanhar as mudanças sociais da coletividade em foco.</texto>
+                <negrito>Não é estanque</negrito>
+                <texto>, isto é, busca-se inová-lo com o uso das técnicas participativas e as dinâmicas de grupo, de modo a acompanhar as mudanças sociais da coletividade em foco.</texto>
             </item>
             <item>
-                <texto>É flexível, no sentido de ser possível escolher e organizar as técnicas participativas, a dinâmica de grupo e o roteiro das entrevistas semiestruturadas. O essencial é articular metodologicamente as técnicas participativas de modo a capturar a realidade vivenciada pelos participantes.</texto>
+                <negrito>É flexível</negrito>
+                <texto>, no sentido de ser possível escolher e organizar as técnicas participativas, a dinâmica de grupo e o roteiro das entrevistas semiestruturadas. O essencial é articular metodologicamente as técnicas participativas de modo a capturar a realidade vivenciada pelos participantes.</texto>
             </item>
             <item>
-                <texto>É realizado por uma equipe interdisciplinar, o que significa a constituição de uma equipe com profissionais de diferentes áreas de conhecimento, observando a presença equilibrada de homens e mulheres. Além disso, o caráter interdisciplinar possibilita que um profissional de determinada área possa “transitar” na área do outro, em termos dialógicos, no sentido de captar, registrar e construir informações constitutivas de uma determinada realidade. </texto>
+                <negrito>É realizado por uma equipe interdisciplinar</negrito>
+                <texto>, o que significa a constituição de uma equipe com profissionais de diferentes áreas de conhecimento, observando a presença equilibrada de homens e mulheres. Além disso, o caráter interdisciplinar possibilita que um profissional de determinada área possa “transitar” na área do outro, em termos dialógicos, no sentido de captar, registrar e construir informações constitutivas de uma determinada realidade. </texto>
             </item>
             <item>
-                <texto>Exige a capacitação teórico-metodológica dos membros da equipe interdisciplinar, ou seja, não basta apenas utilizar as técnicas para obter informações, os membros também precisam ter habilidade comunicativa pedagógica, percepção crítica das situações dos atores sociais participantes e habilidade para descrevê-las de forma sintética e compreensível.</texto>
+                <negrito>Exige a capacitação teórico-metodológica dos membros da equipe interdisciplinar</negrito>
+                <texto>, ou seja, não basta apenas utilizar as técnicas para obter informações, os membros também precisam ter habilidade comunicativa pedagógica, percepção crítica das situações dos atores sociais participantes e habilidade para descrevê-las de forma sintética e compreensível.</texto>
             </item>
             <item>
-                <texto>É de natureza participativa, isto é, baseia-se no reconhecimento dos valores culturais, do saber e das demandas materiais dos atores sociais participantes, fundamentando-se no princípio de alteridade dialogal. </texto>
+                <negrito>É de natureza participativa</negrito>
+                <texto>, isto é, baseia-se no reconhecimento dos valores culturais, do saber e das demandas materiais dos atores sociais participantes, fundamentando-se no princípio de alteridade dialogal. </texto>
             </item>
             <item>
-                <texto>É emancipador, no sentido pedagógico do termo, explorando o caráter educativo das técnicas participativas e da dinâmica de grupo, para que os participantes desenvolvam consciência crítica e alcancem seus interesses coletivos.</texto>
+                <negrito>É emancipador</negrito>
+                <texto>, no sentido pedagógico do termo, explorando o caráter educativo das técnicas participativas e da dinâmica de grupo, para que os participantes desenvolvam consciência crítica e alcancem seus interesses coletivos.</texto>
             </item>
             <item>
-                <texto>Constitui-se, em um primeiro passo, em elemento catalisador que auxilia os participantes a identificar a totalidade e a complexidade dos seus problemas cotidianos.</texto>
+                <negrito>Constitui-se, em um primeiro passo, em elemento catalisador</negrito>
+                <texto> que auxilia os participantes a identificar a totalidade e a complexidade dos seus problemas cotidianos.</texto>
             </item>
             <item>
-                <texto>Possibilita a ampliação das capacidades estratégicas das organizações sociais, desde que estejam comprometidas com a busca de soluções criadoras e transformadoras.</texto>
+                <negrito>Possibilita a ampliação das capacidades estratégicas</negrito>
+                <texto> das organizações sociais, desde que estejam comprometidas com a busca de soluções criadoras e transformadoras.</texto>
             </item>
             <item>
-                <texto>Rejeita a reprodução de propostas de intervenção pré-concebidas que negam os valores culturais e as formas de conhecimento coletivo e individual.</texto>
+                <negrito>Rejeita a reprodução de propostas de intervenção pré-concebidas</negrito>
+                <texto> que negam os valores culturais e as formas de conhecimento coletivo e individual.</texto>
             </item>
             <item>
-                <texto>Valoriza o diálogo, a capacidade reflexiva e a construção coletiva de novas normas de convivência social.</texto>
+                <negrito>Valoriza o diálogo, a capacidade reflexiva e a construção coletiva</negrito>
+                <texto> de novas normas de convivência social.</texto>
             </item>
             <item>
-                <texto>Procura avaliar as possibilidades de alcançar a sustentabilidade ambiental por meio de técnicas de análise e do levantamento de informações ecológicas.</texto>
+                <negrito>Procura avaliar as possibilidades de alcançar a sustentabilidade ambiental</negrito>
+                <texto> por meio de técnicas de análise e do levantamento de informações ecológicas.</texto>
             </item>
         </lista>
         
@@ -1971,7 +2756,7 @@
     </pagina>
     
     <!-- Capítulo 4 -->
-    <pagina imagemfundo="capitulo4.png">
+    <pagina imagemfundo="capitulo4.jpg">
         <numero>400</numero>
         <capitulo>Capítulo 4</capitulo>
         <indice nivel="1">Capítulo 4</indice>
@@ -1995,10 +2780,27 @@
             </texto>
         </paragrafo>
         
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fotografia 1 – Apresentação dos membros de uma coletividade  em uma comunidade rural
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/foto1.jpg" />
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Acervo pessoal (2003)
+            </texto>
+        </paragrafo>
+
+        
         <paragrafo>
             <texto>
-                A apresentação da equipe e dos membros da coletividade deve ser orientada pelos princípios éticos que caracterizam os três planos da alteridade: axiológico, epistemológico e praxiológico. Assim, a dupla apresentação da equipe e dos membros da coletividade deve expressar o compromisso profissional com o diagnóstico a ser realizado, o compromisso com a verdade, o respeito mútuo, o respeito às diferenças e ao conhecimento e à experiência dos membros da coletividade. Essa apresentação serve para estabelecer um pacto ou mesmo um contrato informal entre as partes para a realização do diagnóstico, proporcionando o início de um processo dialógico que deve permanecer durante todo o trabalho. Nesse momento, os observadores anotadores da equipe devem estar atentos para ouvir e escrever fielmente as falas dos membros da coletividade. 
+                A apresentação da equipe e dos membros da coletividade deve ser orientada pelos princípios éticos que caracterizam os três planos da alteridade: 
             </texto>
+            <negrito>axiológico, epistemológico e praxiológico</negrito>
+            <texto>. Assim, a dupla apresentação da equipe e dos membros da coletividade deve expressar o compromisso profissional com o diagnóstico a ser realizado, o compromisso com a verdade, o respeito mútuo, o respeito às diferenças e ao conhecimento e à experiência dos membros da coletividade. Essa apresentação serve para estabelecer um pacto ou mesmo um contrato informal entre as partes para a realização do diagnóstico, proporcionando o início de um processo dialógico que deve permanecer durante todo o trabalho. Nesse momento, os observadores anotadores da equipe devem estar atentos para ouvir e escrever fielmente as falas dos membros da coletividade.</texto>
         </paragrafo>
 
         <paragrafo>
@@ -2008,28 +2810,36 @@
         </paragrafo>
         <lista estilo="alfabetica">
             <item>
-                <texto>Senhor A e Senhora D: têm duas filhas (Roberta, 11 anos, e Mariana, 8) e estão na luta pela terra há 2 anos e 3 meses. O senhor A nasceu no Maranhão e sua última residência foi em Ceilândia. Trabalhou de eletricista, em fazendas e chácaras no DF. Tem dificuldade de arranjar emprego por causa da idade. Ficou sabendo do Projeto de Assentamento (PA) pelo INCRA.</texto>
+                <negrito>Senhor A e Senhora D</negrito>
+                <texto>: têm duas filhas (Roberta, 11 anos, e Mariana, 8) e estão na luta pela terra há 2 anos e 3 meses. O senhor A nasceu no Maranhão e sua última residência foi em Ceilândia. Trabalhou de eletricista, em fazendas e chácaras no DF. Tem dificuldade de arranjar emprego por causa da idade. Ficou sabendo do Projeto de Assentamento (PA) pelo INCRA.</texto>
             </item>
             <item>
-                <texto>Dona Maria: divorciada há 12 anos, tem oito filhos, mas somente um, Sandro, deficiente (mental), mora no PA. Nasceu em Itambacurí-MG. Ficou sabendo em Taboquinha, cidade próxima a Padre Bernardo, que a Ivanilde estava fazendo cadastramento para um pedaço de terra. Junto com ela veio um grupo de mais ou menos 100 pessoas.</texto>
+                <negrito>Dona Maria</negrito>
+                <texto>: divorciada há 12 anos, tem oito filhos, mas somente um, Sandro, deficiente (mental), mora no PA. Nasceu em Itambacurí-MG. Ficou sabendo em Taboquinha, cidade próxima a Padre Bernardo, que a Ivanilde estava fazendo cadastramento para um pedaço de terra. Junto com ela veio um grupo de mais ou menos 100 pessoas.</texto>
             </item>
             <item>
-                <texto>Senhor Barriga: casado (com Olinda), pai de cinco filhos. Tem três pessoas morando com ele no PA, inclusive um filho adotivo (Damião Lopes da Silva), nasceu no Ceará e sua última residência foi em Planaltina de Goiás. Foi caminhoneiro, trabalhou de meeiro durante 12 anos. Tem dificuldade de arranjar emprego por causa da idade. Ficou sabendo do PA através de um vizinho do acampamento do MST há mais ou menos 2 anos.</texto>
+                <negrito>Senhor Barriga</negrito>
+                <texto>: casado (com Olinda), pai de cinco filhos. Tem três pessoas morando com ele no PA, inclusive um filho adotivo (Damião Lopes da Silva), nasceu no Ceará e sua última residência foi em Planaltina de Goiás. Foi caminhoneiro, trabalhou de meeiro durante 12 anos. Tem dificuldade de arranjar emprego por causa da idade. Ficou sabendo do PA através de um vizinho do acampamento do MST há mais ou menos 2 anos.</texto>
             </item>
             <item>
-                <texto>Zé Mineiro: divorciado, tem 4 filhos, mas está morando sozinho. Nasceu em Unaí-MG e sua última residência foi em Brasília, DF. Trabalhou como meeiro, empregado temporário e como jardineiro no DF. Ficou sabendo do PA através do rádio e veio procurar o MST “as pessoas do movimento”.</texto>
+                <negrito>Zé Mineiro</negrito>
+                <texto>: divorciado, tem 4 filhos, mas está morando sozinho. Nasceu em Unaí-MG e sua última residência foi em Brasília, DF. Trabalhou como meeiro, empregado temporário e como jardineiro no DF. Ficou sabendo do PA através do rádio e veio procurar o MST “as pessoas do movimento”.</texto>
             </item>
             <item>
-                <texto>Tuiuiu: casado, pai de 3 filhos (a filha mais velha tem 16 anos e o Júnior tem problema de audição). Nasceu em Pedreiras-MA, onde trabalhou como feirante. Sua última residência foi em Brasília, DF, onde trabalhou como ajudante de retífica de carros. Ficou desempregado por motivo de saúde. Soube do movimento através de amigos do PA Boa Vista e esta há mais ou menos 3 anos na região.</texto>
+                <negrito>Tuiuiu</negrito>
+                <texto>: casado, pai de 3 filhos (a filha mais velha tem 16 anos e o Júnior tem problema de audição). Nasceu em Pedreiras-MA, onde trabalhou como feirante. Sua última residência foi em Brasília, DF, onde trabalhou como ajudante de retífica de carros. Ficou desempregado por motivo de saúde. Soube do movimento através de amigos do PA Boa Vista e esta há mais ou menos 3 anos na região.</texto>
             </item>
             <item>
-                <texto>Bastião: solteiro, mora sozinho, porém a mãe é sua dependente. Nasceu em Santa Maria-TO, onde trabalhava em fazendas; sua última residência foi no Estado de Goiás; ficou sabendo da reforma agrária através de parentes.</texto>
+                <negrito>Bastião</negrito>
+                <texto>: solteiro, mora sozinho, porém a mãe é sua dependente. Nasceu em Santa Maria-TO, onde trabalhava em fazendas; sua última residência foi no Estado de Goiás; ficou sabendo da reforma agrária através de parentes.</texto>
             </item>
             <item>
-                <texto>Senhora K e Senhor W: o casal tem 2 filhos pequenos; ela veio de Unaí-MG e ficou conhecendo o acampamento através da mãe e da irmã, assentadas no PA Buritis; e veio para lutar por um pedaço de terra. </texto>
+                <negrito>Senhora K e Senhor W</negrito>
+                <texto>: o casal tem 2 filhos pequenos; ela veio de Unaí-MG e ficou conhecendo o acampamento através da mãe e da irmã, assentadas no PA Buritis; e veio para lutar por um pedaço de terra. </texto>
             </item>
             <item>
-                <texto>Senhor L: solteiro, mineiro de Uruana. Trabalhava de lavrador para os outros, ficou sabendo do acampamento através do tio, que é assentado no PA Buritis.</texto>
+                <negrito>Senhor L</negrito>
+                <texto>: solteiro, mineiro de Uruana. Trabalhava de lavrador para os outros, ficou sabendo do acampamento através do tio, que é assentado no PA Buritis.</texto>
             </item>
         </lista>
         
@@ -2063,6 +2873,21 @@
             <abrirpopup id="POPUP_CHACARA" estilo="saibamais">“chácara”</abrirpopup>
             <texto>, de um assentamento rural e para discutir com a coletividade o planejamento de toda a área, a equipe interdisciplinar amplia um mapa oficial parcelado, fornecido pelo INCRA, e o recorta em partes correspondentes às chácaras individuais, conforme a Figura 4.</texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Figura 4 − Mapa parcelado do assentamento rural São Francisco, localizado em Formoso−MG
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/mapa-assentamento.jpg" />
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Adaptada de Pereira (2003b)
+            </texto>
+        </paragrafo>
+        
 
         <paragrafo>
             <texto>
@@ -2074,6 +2899,330 @@
                 No assentamento Cachoeira, no município de Uruanã de Minas, por exemplo, depois de apresentado o mapa, uma discussão na coletividade sobre o melhor caminho para a passagem da “rede tronco” de energia elétrica apontou a alternativa de seguir um alinhamento no fundo dos lotes da mata que continuasse pelo “eixão” (estrada principal projetada no mapa). No entanto, a coletividade acabou concluindo que a rede deveria passar pela estrada principal projetada no mapa. As projeções de parte e final do mapa podem ser observadas nas Fotografias 2 e 3, e as explicações de cada um sobre a paisagem futura da sua chácara podem ser conferidas no Quadro 5.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fotografia 2 – Momento de explicação de um membro da coletividade 
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/foto2.jpg" />
+
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Acervo pessoal (2001)
+            </texto>
+        </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Quadro 5 – Explicações de cada assentado sobre o planejamento da sua chácara no assentamento Cachoeira
+            </texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_verde">
+            <cabecalho>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>NOMES</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>EXPLICAÇÕES</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>01</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Amadeus</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>No lote terá pomar, bananal, uma pequena plantação de café, criação de galinha, pasto, casa com área em volta plantada com flores e frutas. Nas divisas de sua chácara terá apenas uma cerca. </texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>02</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Carlos</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Formará meio hectare de cana, meio de mandioca, um hectare para a casa e o pomar (casa a 50-60 m do eixo), 5 hectares de milho e 5 de pasto.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>03</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Calisto</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Formará uma lavoura de milho, mandioca, capineira, pomar com frutas: manga, maracujá, uva. Uma área de horta e outra de pastagem. A casa está a 150 m da estrada.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>04</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Antônio Alves</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>A casa está na frente, perto da estrada. Formará um hectare em volta da casa com pomar (banana, mamão e laranja). Mostrou a área de pastagem e a divisa com a reserva, que não terá nada. A água será trazida pela roda d’água que está localizada no Córrego das Lages.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>05</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Edson</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Localizou a área da casa com pomar ao redor, um curral próximo da casa, lavoura de mandioca, capineira, cana, área de plantação com milho e feijão. Pequena criação de porcos, galinhas e piquetes para o gado (braquearinha, braquearão e andropogon) além da área de reserva.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>06</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>José Messias</texto>
+                            
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>A casa está na frente, com pomar. Lavoura de café, milho, feijão e pastagem.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>07</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Valdeci</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Localizou a entrada para a casa, pequena lavoura de café, milho, uma capineira, área com mandioca, 4 piquetes para gado, batata. Mostrou sua área de reserva.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>08</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Levi</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Vai formar 1.200 m² de pasto para bezerro, ao lado meio hectare de cana, um curral com bebedouro, casa com pomar, 7 pastos de meio hectare, com bebedouro, para alternar. A casa está nos fundos por causa do carneiro hidráulico e do acesso para área comunitária.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>09</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Josias</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Vai plantar milho, amendoim, arroz, feijão, cana, capim e construir bebedouros para o gado.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>10</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>José Maria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>A casa com quintal (pomar) está a 50 m da divisa. Formará duas áreas de pastagem e plantará cana, feijão e milho.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>11</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>José dos Reis</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Terá uma casa com pomar, manga, mandioca e gado.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>12</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Argemias</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Terá uma casa com pomar, uma roça de milho, pequena lavoura de café, banana, mandioca e área de pastagem.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>13</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Helena/Antônio</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Vai plantar banana, abóbora, flores na frente da casa. Terá um curral, roça de milho, lavoura de arroz e área de pastagem.  Helena foi uma das últimas a terminar a construção e disse que o marido deveria estar presente porque as mulheres têm dificuldades em planejar o terreno todo, as plantações e criações.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>14</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Edivan</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>A casa está na frente, próxima ao eixo, onde vai formar um pomar. Localizou a caixa d’água e as lavouras de mandioca, milho, banana e capineira.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>15</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tercília</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Vai plantar um quintal com fruteiras variadas próximo a casa, além de milho, feijão, mandioca em lotes de aproximadamente 1 hectare, também vai formar cerca de 7 hectares de pastagem e 1 hectare de capineira e cana e pretende deixar uma área de reserva dentro da chácara</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>16</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Josemar</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula estilo="topo">
+                        <paragrafo>
+                            <texto>Vai reservar um hectare para a casa com pomar. Na parte mais baixa: meio hectare de cana e pasto para cabrito. Nos fundos: 5 hectares divididos em piquetes para lavoura.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+
+                
+            </corpo>
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Pereira et al. (2002, p. 8)
+            </texto>
+        </paragrafo>
+
+
 
         <paragrafo>
             <texto>
