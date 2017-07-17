@@ -49,8 +49,10 @@ class Page extends GeneralContent {
                     break;
                 
                 case "indice":
-                    if ($this->indexMaker)
-                        $this->indexMaker->add($this->pageNumber, new Index($child));
+                    if ($this->indexMaker) {
+                        $e = new Index($child, $this->pageNumber); //inject page number
+                        $this->indexMaker->add($e);
+                    }
                     break;
                 case "lista":
                     $e = new OrderedList($child);

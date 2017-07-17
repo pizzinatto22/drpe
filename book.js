@@ -80,15 +80,25 @@ function changeFontSize(amount) {
 	
 }
 
-function switchPage(current, next) {
+function switchPage(current, next, anchor) {
     if (next.length) {
         current.fadeOut("fast", function() {
             current.removeClass("ativo").addClass("inativo");
             
-            window.scrollTo(0, 0);
-
+            //quando nõa há necessidade de rolar para o meio da pagina, antecipa
+            if (!anchor || !anchor.length) {
+                window.scrollTo(0, 0);
+            }
+            
             next.fadeIn("slow", function(){
                 next.removeClass("inativo").addClass("ativo");
+                
+                //quando precisa rolar, faz após aparecer a página
+                if (anchor && anchor.length) {
+                    jQuery('html, body').animate({
+                        scrollTop: (anchor.prev().offset().top - jQuery(".menu").height())
+                    }, 50);
+                }
                 
             });
         });
@@ -105,10 +115,10 @@ function changePage(direction) {
     else
         next = current.prev(".pagina");
     
-    switchPage(current, next);
+    switchPage(current, next, null);
 }
 
-function gotoPage(number) {
+function gotoPage(number, anchor) {
     var page = jQuery("#page_" + number);
     var current = jQuery(".pagina.ativo");
     
@@ -116,8 +126,11 @@ function gotoPage(number) {
     var modal = jQuery("#MAIN_INDEX");
     modal.fadeOut("fast");
     
+    //finding anchor
+    var anchor = jQuery("#" + anchor);
+    
     //swi
-    switchPage(current, page);
+    switchPage(current, page, anchor);
 }
 
 function switchContinuousView() {

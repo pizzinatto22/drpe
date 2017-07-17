@@ -23,7 +23,8 @@ body {
 
 .pagina_capa1, 
 .pagina_capa2,
-.pagina_capa3 {
+.pagina_capa3,
+.pagina_ficha {
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 0;
@@ -565,10 +566,20 @@ body {
     cursor: pointer;
 }
 
-.indice_outro_nivel_descricao {
+.indice_2_nivel_descricao,
+.indice_3_nivel_descricao,
+.indice_4_nivel_descricao {
     display: block;
     cursor: pointer;
     margin-top: 23px;
+}
+
+.indice_3_nivel_descricao {
+    margin-left: 2em;
+}
+
+.indice_4_nivel_descricao {
+    margin-left: 4em;
 }
 
 

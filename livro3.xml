@@ -12,8 +12,12 @@
         <numero>2</numero>
         <imagem url="images/capa2.png" />
     </pagina>
-    <pagina estilo="pagina_capa3">
+    <pagina estilo="pagina_ficha">        
         <numero>3</numero>
+        <imagem url="images/fichacatalografica.png" />
+    </pagina>
+    <pagina estilo="pagina_capa3">
+        <numero>4</numero>
         <imagem url="images/capa3.png" />
     </pagina>
 
@@ -21,7 +25,7 @@
     
     <!-- AGRADECIMENTOS -->
     <pagina estilo="pagina_agradecimento">
-        <numero>4</numero>
+        <numero>5</numero>
         <titulo>Agradecimentos</titulo>
         <indice nivel="1">Agradecimentos</indice>
         <paragrafo>
@@ -598,7 +602,7 @@
     </pagina>
     <pagina estilo="pagina_complementando">
         <numero>48</numero>
-        <indice nivel="2">Complementando</indice>
+        <indice nivel="3">Complementando</indice>
         <chamada estilo="complementando">
             <paragrafo>
                 <texto>Complementando</texto>
@@ -644,7 +648,7 @@
         <secao>Democracia, Ação Comunicativa e Educação Dialógica</secao>
         <indice nivel="2">Democracia, Ação Comunicativa e Educação Dialógica</indice>
         
-        <subsecao>Democracia, Ação Comunicativa e Educação Dialógica</subsecao>
+        <subsecao>Democracias Representativa, Participativa e Deliberativa</subsecao>
         <indice nivel="3">Democracias Representativa, Participativa e Deliberativa</indice>
         
         <paragrafo>
@@ -2034,7 +2038,10 @@
                 O conteúdo das informações obtido no momento da apresentação expressa a trajetória de vida de cada indivíduo e de sua família, seus laços de amizade e de parentesco, a motivação de estar presente na coletividade, a experiência de trabalho (saber fazer), as habilidades e competências, e as possíveis expectativas com os resultados do DRPE, além de informações de caráter histórico de formação dos grupos sociais. Todas essas informações devem ser obtidas seguindo um roteiro de questões elaborado com base no quadro de referência dos temas geradores da coletividade, construído previamente com base no levantamento de informações secundárias feito pela equipe interdisciplinar.
             </texto>
         </paragrafo>
-        
+    </pagina>
+    <pagina>
+        <numero>402</numero>
+                
         <subsecao>Mapeamento Histórico</subsecao>
         <indice nivel="3">Mapeamento Histórico</indice>
 
@@ -2094,11 +2101,22 @@
                 <texto>é tão importante que foi refeita parte do mapa porque alguns assentados tiveram receio de que a sua chácara não fosse caber nele ou ficasse muito pequena.</texto>
             </item>
         </lista>
-
         
-                
+        <popup id="POPUP_CHACARA">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba mais</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Chácara é a denominação dada pela coletividade à área individual no assentamento. O INCRA denomina a mesma área de “lote”.</texto>
+            </paragrafo>
+        </popup>
+
                         
-                                
+    </pagina>                  
+    <pagina>
+        <numero>403</numero>
                                                 
         <subsecao>Caminhada Transversal</subsecao>
         <indice nivel="3">Caminhada Transversal</indice>
@@ -2118,7 +2136,9 @@
                 Em assentamentos e comunidades rurais, normalmente utiliza-se a caminhada transversal para descrever tecnicamente a paisagem e as características socioambientais, como ilustrado na Figura 7. Durante a caminhada transversal, a equipe interdisciplinar deve explorar as informações que ainda não foram obtidas na técnica do mapeamento histórico, tendo como referência os temas geradores da coletividade.
             </texto>
         </paragrafo>
-        
+    </pagina>
+    <pagina>
+        <numero>404</numero>
         <subsecao>Diagrama de Venn</subsecao>
         <indice nivel="3">Diagrama de Venn</indice>
         <paragrafo>
@@ -2493,6 +2513,9 @@
                 Portanto, atribuíram pouca importância e atuação da IMA no assentamento, avaliação representada pelo desenho do círculo em pequena interseção com o da APRAC.
             </texto>
         </paragrafo>
+    </pagina>
+    <pagina>
+        <numero>405</numero>
 
         <subsecao>Calendário Sazonal</subsecao>
         <indice nivel="3">Calendário Sazonal</indice>
@@ -2550,6 +2573,7 @@
         </chamada>
 
         <subsubsecao>Calendário do Rio</subsubsecao>
+        <indice nivel="4">Calendário do Rio</indice>
         <paragrafo>
             <texto>
                 Os dois principais produtos explorados no rio são o ouro e o peixe. As atividades de garimpo compreendiam o período de março a outubro. Os garimpeiros trabalhavam durante todo o dia até o anoitecer. Quando necessário, a atividade se estendia noite afora. Na região, existiam quatro donos de balsa, para os quais os 17 garimpeiros trabalhavam. Os donos das balsas ficavam com 60% de todo o valor arrecadado, e os 40% restantes eram divididos entre os garimpeiros (mergulhadores) e 
@@ -2594,6 +2618,7 @@
         </paragrafo>
 
         <subsubsecao>Calendário da Terra</subsubsecao>
+        <indice nivel="4">Calendário da Terra</indice>
         <paragrafo>
             <texto>
                 Os principais cultivos apresentados pelos moradores são o milho, o feijão e a cana-de-açúcar. Para o cultivo do milho, o preparo da terra começava em agosto e consistia em roçar, queimar e arar a terra. O número de dias de serviço gasto para essa atividade varia com o tamanho do terreno, que equivale, em média, a três hectares. O preparo do terreno pode ocorrer com trabalho braçal ou com maquinário. Alguns produtores alugavam trator e pagavam 30 reais por hora de uso, com isso diminuíam significativamente o tempo gasto para o preparo do terreno (quatro horas). No trabalho braçal e no uso de tração animal, o tempo gasto era de 15 dias.
@@ -2616,6 +2641,7 @@
         </paragrafo>
 
         <subsubsecao>Calendário das Criações</subsubsecao>
+        <indice nivel="4">Calendário das Criações</indice>
         <paragrafo>
             <texto>
                 A criação de porcos era destinada, principalmente, para o consumo da família, as sobras eram vendidas para os vizinhos. O porco caipira era o animal mais criado pela comunidade de Soberbo, já que requer menos cuidados e a propensão a doenças é muito menor. Embora este seja um fator primordial para a criação do porco caipira, alguns moradores criavam o porco de granja (porco branco).
@@ -2656,8 +2682,45 @@
                 O Gráfico 5 apresenta o total dias/homem necessário para o desenvolvimento de todas as atividades. Pode-se comparar o total do conjunto de atividades com cada uma delas e verificar sua distribuição mês a mês.
             </texto>
         </paragrafo>
+        
+        <popup id="POPUP_REQUEIROS">
+            <chamada estilo="saibamais">
+                <paragrafo>
+                    <texto>Saiba mais</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Requeiro é um tipo de garimpeiro que explora o garimpo de forma manual, usando uma baia.</texto>
+            </paragrafo>
+        </popup>
 
+        <popup id="POPUP_PESCAR">
+            <chamada estilo="link">
+                <paragrafo>
+                    <texto>Link</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>É interessante ressaltar a crença da comunidade a respeito da influência da lua sobre suas atividades: “Tem a lua boa para pescar. Lua cheia e minguante”. </texto>
+            </paragrafo>
+        </popup>
+        
+        <popup id="POPUP_ICTIOFAUNA">
+            <chamada estilo="glossario">
+                <paragrafo>
+                    <texto>Glossário</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Ictiofauna – conjunto de peixes de uma região ou ambiente. Fonte: Houaiss (1999).</texto>
+            </paragrafo>
+        </popup>
+    </pagina>
+    <pagina>
+        <numero>406</numero>
         <subsecao>Entra e Sai</subsecao>
+        <indice nivel="3">Entra e Sai</indice>
+        
         <paragrafo>
             <texto>
                 Essa é uma técnica grafológica adaptada para a coleta de informações de dados econômicos e de produção de uma coletividade. Por ser elaborada a partir de desenhos e representações gráficas, permite aos participantes melhor visualização dos seus gastos e receitas em cada atividade produtiva ou de serviço desenvolvida. Essa técnica tem um conteúdo pedagógico crítico por mostrar a posição da coletividade na “cadeia produtiva” na qual está inserida, explicitando os fornecedores de insumos e os canais de comercialização, o que permite analisar suas potencialidades e limitações no mercado. Pode ser utilizada, também, para caracterizar os tipos de unidades de produção agropecuária (unidade camponesa, empresa capitalista, latifúndio, agricultor familiar), analisando-se o tipo de produção, o emprego de mão de obra, o emprego de tecnologia, o destino da produção e a ocupação da terra. 
@@ -2711,8 +2774,12 @@
                 O resultado do entra e sai, nesse caso, demonstra o “ensanduichamento” dos associados da COCAPEC que, de um lado, encontram-se dependentes das indústrias de insumos determinando seus custos de produção e, de outro, dependente dos preços de mercado determinados pelas grandes corporações, o que restringe os preços dos produtos, de forma a desfavorecer o elo mais fraco dessa cadeia, os agricultores familiares associados à cooperativa. Portanto, cabe a cooperativa buscar medidas que amenizem esse efeito sobre os associados, negociando por meio de contratos e convênios descontos para aquisição de insumos e políticas de mercado mais justas.
             </texto>
         </paragrafo>
-
+    </pagina>
+    <pagina>
+        <numero>407</numero>
         <subsecao>Entrevista Semiestruturada</subsecao>
+        <indice nivel="3">Entrevista Semiestruturada</indice>
+        
         <paragrafo>
             <texto>
                 A entrevista semiestruturada exige um conhecimento prévio do entrevistador sobre quem vai ser entrevistado e o tema a ser abordado. Nesse caso, uma leitura atenta e a análise das informações secundárias são fundamentais para a realização de uma boa entrevista. O roteiro da entrevista faz parte desse conhecimento prévio, mas serve apenas como um guia orientador para o entrevistador iniciar a coleta de informações mais detalhadas e a ela dar sequência. Nesse tipo de entrevista, as respostas do entrevistado servem para levantar novas perguntas que não constam no roteiro. As entrevistas com informantes-chave devem ser realizadas por dois entrevistadores, o que facilita a abordagem pelo fato de ser necessário dividir as tarefas de perguntar, observar, anotar e trocar ideias e impressões. Essa técnica está presente em várias outras técnicas que compõem o DRPE.
@@ -2747,9 +2814,24 @@
                 <texto>Na entrevista, vários tipos de perguntas podem ser feitos: interrogativas mediatas, explicativa imediata, consequências, avaliativas, hipotéticas e categoriais. Todos esses tipos procuram explorar em profundidade as respostas dos entrevistados. </texto>
             </item>
         </lista>
-            
+        
+        <popup id="POPUP_RAPPORT">
+            <chamada estilo="glossario">
+                <paragrafo>
+                    <texto>Glossário</texto>
+                </paragrafo>    
+            </chamada>
+            <paragrafo>
+                <texto>Rapport – é um conceito originário da psicologia que remete à técnica de criar uma ligação de empatia com outra pessoa. O termo vem do francês rapporter, cujo significado remete à sincronização que permite estabelecer uma relação harmônica. A técnica objetiva gerar confiança no processo de comunicação para que a pessoa fique mais aberta e receptiva durante a terapia. Isso faz com que ela interaja, troque e receba informações com mais facilidade. Fonte: Marques (2016).</texto>
+            </paragrafo>
+        </popup>
 
+    </pagina>
+    <pagina>
+        <numero>408</numero>
         <subsecao>Grupo Focal</subsecao>
+        <indice nivel="3">Grupo Focal</indice>
+        
         <paragrafo>
             <texto>
                 Com objetivo de obter informações qualitativas sobre os temas geradores da coletividade, o grupo focal pode ser utilizado em momentos específicos do processo de diagnóstico definidos pela equipe. No DRPE é normalmente utilizada de forma conjugada com outras técnicas, assim como as entrevistas semiestruturadas. O grupo focal (KRUGER, 1994) é uma entrevista coletiva, utilizada para um tipo especial de grupo, na qual um animador coordena a discussão para identificar a tendência de percepções dos seus participantes, fundamentando-se nas atitudes e percepções relacionadas a conceitos, produtos, serviços que são produtos do ambiente do grupo e influenciados pelas pessoas ao seu redor. Além do animador, deve haver um anotador/observador dentro do grupo para descrever a situação e discutir, posteriormente, com o animador. Dependendo do contexto, a reunião poderá ser gravada ou o anotador/observador deverá anotar as respostas dos participantes. Essa técnica é importante porque permite um aprofundamento qualitativo do tema gerador. Além disso, os resultados da utilização dessa técnica permite comparar os resultados entre coletividades e de grupos dentro da coletividade estudada, o que torna possível captar a dinâmica das ações em termos de similaridades e diferenças, podendo-se, com isso, ao mesmo tempo, generalizar e relativizar elementos empíricos e teóricos. Essa técnica deve ser conduzida da seguinte forma: 
@@ -2772,6 +2854,7 @@
         
         
         <subsubsecao>Rotina Diária</subsubsecao>
+        <indice nivel="4">Rotina Diária</indice>
         <paragrafo>
             <texto>
                 É uma técnica complementar ao calendário sazonal que permite visualizar a distribuição do trabalho ao longo do dia. A base dessa técnica pode ser a entrevista semiestruturada ou mesmo a técnica do grupo focal. Os resultados obtidos com essa técnica podem auxiliar na programação do trabalho das equipes de assistência técnica ou de outros agentes externos em atividade de extensão, fornecendo indicativos dos melhores horários para as visitas e sinalizando para a disponibilidade de tempo dos membros das famílias para o desenvolvimento de trabalhos, cursos e outras atividades.
@@ -2808,6 +2891,7 @@
         
 
         <subsubsecao>Construção</subsubsecao>
+        <indice nivel="4">Construção</indice>
         <paragrafo>
             <texto>
                 Essa técnica consiste em promover a reflexão crítica de uma coletividade sobre as condições de infraestrutura que possuem na atualidade e aquela que desejam “construir” no futuro próximo com os recursos escassos de que dispõem no local. É uma técnica de diagnóstico e, ao mesmo tempo, de planejamento, pois estimula a coletividade a pensar na construção de seu futuro. Para a realização dessa técnica normalmente são utilizados recursos simbólicos encontrados no próprio local de realização do diagnóstico como pedras, paus, folhas, gravetos, entre outros. 
@@ -3112,8 +3196,12 @@
                 Os resultados da técnica construção deram subsídios para a realização da técnica matriz realidade e objetivo, por meio da qual os assentados apresentaram, coletivamente, os principais problemas da área social e da área de produção.
             </texto>
         </paragrafo>
-
+    </pagina>
+    <pagina>
+        <numero>409</numero>
         <subsecao>Matriz Realidade e Objetivo</subsecao>
+        <indice nivel="3">Matriz Realidade e Objetivo</indice>
+        
         <paragrafo>
             <texto>
                 Essa técnica consiste na elaboração de uma matriz na qual são cruzadas as informações sobre os problemas, suas causas e possíveis soluções apresentadas pelos participantes. Com base nos resultados dessa matriz é que se pode elaborar o planejamento participativo, explicitando as atividades que serão desenvolvidas pela própria coletividade, pelo poder público local, estadual ou federal –, a curto, médio e longo prazo. Essa técnica é utilizada no último dia de trabalho da equipe, pois constitui uma forma de sistematizar toda a problematização crítica dos dias anteriores.
@@ -3229,6 +3317,7 @@
         </paragrafo>
 
         <subsubsecao>Eleição de Prioridades</subsubsecao>
+        <indice nivel="4">Eleição de Prioridades</indice>
         
         <paragrafo>
             <texto>
@@ -3250,9 +3339,11 @@
                 Os resultados da “eleição de prioridades” realizada com os associados da Cooperativa Mariense de Artesana encontram-se na Tabela 3 (entre parênteses está o número de pessoas que votou na opção).
             </texto>
         </paragrafo>
-
+    </pagina>
+    <pagina>
+        <numero>410</numero>
         <subsecao>Considerações finais</subsecao>
-        <indice nivel="3">Considerações finais</indice>
+        <indice nivel="2">Considerações finais</indice>
         
         
         <youtube url="//www.youtube.com/embed/9OM3FIGIjEs" />
@@ -3287,63 +3378,6 @@
                 Por fim, é necessário reafirmar que esse método não é a solução para todos os males que sofre a cultura brasileira, mas constitui uma possibilidade objetiva de estabelecer um processo de transformação de forma gradual e duradoura na direção de uma ação dialógica e de formação de uma racionalidade substantiva e comunicativa, requisitos essenciais para a consolidação de uma democracia participativa e deliberativa. Assim, espera-se que esta obra estimule mais pessoas, organizações e instituições a adotar o DRPE como rotina de trabalho em coletividades.
             </texto>
         </paragrafo>
-        
-        <popup id="POPUP_CHACARA">
-            <chamada estilo="saibamais">
-                <paragrafo>
-                    <texto>Saiba mais</texto>
-                </paragrafo>    
-            </chamada>
-            <paragrafo>
-                <texto>Chácara é a denominação dada pela coletividade à área individual no assentamento. O INCRA denomina a mesma área de “lote”.</texto>
-            </paragrafo>
-        </popup>
-        
-        <popup id="POPUP_REQUEIROS">
-            <chamada estilo="saibamais">
-                <paragrafo>
-                    <texto>Saiba mais</texto>
-                </paragrafo>    
-            </chamada>
-            <paragrafo>
-                <texto>Requeiro é um tipo de garimpeiro que explora o garimpo de forma manual, usando uma baia.</texto>
-            </paragrafo>
-        </popup>
-        
-        
-        <popup id="POPUP_PESCAR">
-            <chamada estilo="link">
-                <paragrafo>
-                    <texto>Link</texto>
-                </paragrafo>    
-            </chamada>
-            <paragrafo>
-                <texto>É interessante ressaltar a crença da comunidade a respeito da influência da lua sobre suas atividades: “Tem a lua boa para pescar. Lua cheia e minguante”. </texto>
-            </paragrafo>
-        </popup>
-        
-        <popup id="POPUP_ICTIOFAUNA">
-            <chamada estilo="glossario">
-                <paragrafo>
-                    <texto>Glossário</texto>
-                </paragrafo>    
-            </chamada>
-            <paragrafo>
-                <texto>Ictiofauna – conjunto de peixes de uma região ou ambiente. Fonte: Houaiss (1999).</texto>
-            </paragrafo>
-        </popup>
-
-        <popup id="POPUP_RAPPORT">
-            <chamada estilo="glossario">
-                <paragrafo>
-                    <texto>Glossário</texto>
-                </paragrafo>    
-            </chamada>
-            <paragrafo>
-                <texto>Rapport – é um conceito originário da psicologia que remete à técnica de criar uma ligação de empatia com outra pessoa. O termo vem do francês rapporter, cujo significado remete à sincronização que permite estabelecer uma relação harmônica. A técnica objetiva gerar confiança no processo de comunicação para que a pessoa fique mais aberta e receptiva durante a terapia. Isso faz com que ela interaja, troque e receba informações com mais facilidade. Fonte: Marques (2016).</texto>
-            </paragrafo>
-        </popup>
-
     </pagina>
     
     <pagina>

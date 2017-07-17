@@ -6,6 +6,13 @@ spl_autoload_register(function ($class_name) {
 
 $book = new Book\Parser("livro3.xml", 1);
 
+
+//echo "<pre>";
+//var_dump($book->indexMaker);
+//echo "</pre>";
+//
+//exit;
+
 $html = $book->all();
 ?>
 

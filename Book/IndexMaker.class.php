@@ -11,15 +11,8 @@ class IndexMaker {
      * @param \Page\PageNumber $page
      * @param \Page\Index $entry
      */
-    public function add($page, $entry) {
-        if (!isset($this->entries[$page->id()]))
-            $this->entries[$page->id()] = [];
-        
-        if (!!isset($this->entries[$page->id()][$entry->level]))
-            $this->entries[$page->id()][$entry->level] = [];
-        
-        $this->entries[$page->id()][$entry->level][] = $entry;
-        
+    public function add($entry) {
+        $this->entries[] = $entry;
     }
     
     public function html() {
@@ -35,34 +28,34 @@ class IndexMaker {
         
         //$html .= "<div class='indice_colunas_container'>";
         
-        foreach ($this->entries as $pageNumber => $page) {
-            foreach ($page as $levelNumber => $level) {
-                /** @var \Page\Index $entry */
-                foreach ($level as $entry) {
-                    switch ($levelNumber) {
-                        case 1:
-                            if ($firstLevelOpen) {
-                                $html .= "</div>"; //closing indice_primeiro_nivel_opcoes
-                                $html .= "</div>"; //closing indice_coluna
-                            }
-                            $firstLevelOpen = true;
-                            
-                            $html .= "<div class='indice_coluna'>";
-                            $html .= "<div class='indice_primeiro_nivel_pagina_container'>";
-                            $html .= "   <span class='indice_primeiro_nivel_pagina' onclick='gotoPage($pageNumber)'>$entry->description</span>";
-                            //$html .= "   <hr class='indice_primeiro_nivel_linha'>";
-                            $html .= "</div>";
-                            
-                            $html .= "<div class='indice_primeiro_nivel_opcoes'>";
-                            //$html .= "<span class='indice_primeiro_nivel_descricao' onclick='gotoPage($pageNumber)'>$entry->description ..... $pageNumber</span>";
-                            
-                            break;
-
-                        default:
-                            $html .= "<span class='indice_outro_nivel_descricao' onclick='gotoPage($pageNumber)'>$entry->description</span>";
-                            break;
+        /** @var \Page\Index $entry */
+        foreach ($this->entries as $entry) {
+            switch ($entry->level) {
+                case 1:
+                    if ($firstLevelOpen) {
+                        $html .= "</div>"; //closing indice_primeiro_nivel_opcoes
+                        $html .= "</div>"; //closing indice_coluna
                     }
-                }
+                    $firstLevelOpen = true;
+
+                    $html .= "<div class='indice_coluna'>";
+                    $html .= "<div class='indice_primeiro_nivel_pagina_container'>";
+                    $html .= "   <span class='indice_primeiro_nivel_pagina' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"\")'>$entry->description</span>";
+                    //$html .= "   <hr class='indice_primeiro_nivel_linha'>";
+                    $html .= "</div>";
+
+                    $html .= "<div class='indice_primeiro_nivel_opcoes'>";
+                    //$html .= "<span class='indice_primeiro_nivel_descricao' onclick='gotoPage($pageNumber)'>$entry->description ..... $pageNumber</span>";
+
+                    break;
+
+                case 4:
+                    $html .= "<span class='indice_" . $entry->level . "_nivel_descricao' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"" . $entry->getAttribute("id") ."\")'>$entry->description</span>";
+                    break;
+                
+                default:
+                    $html .= "<span class='indice_" . $entry->level . "_nivel_descricao' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"\")'>$entry->description</span>";
+                    break;
             }
         }
         

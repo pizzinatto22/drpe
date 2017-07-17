@@ -49,7 +49,7 @@ abstract class GeneralContent {
         if (isset($this->attributes[$key]))
             return $this->attributes[$key];
         else
-            return nulll;
+            return null;
     }
     
     abstract public function text();
