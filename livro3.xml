@@ -6846,6 +6846,160 @@
                 No caso da Cooperativa Mariense de Artesanato, a matriz realidade e objetivo foi desenvolvida sem a separação entre área social e de produção. As causas dos problemas foram apresentadas de forma descritiva, depois da apresentação dos problemas, dos objetivos e das soluções, pelos associados, como pode ser observado no Quadro 13.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto></texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>REALIDADE</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>CAMINHO/SOLUÇÃO</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>OBJETIVO</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>1. Cumprir a Lei n. 5764/71.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Reuniões em pequenos grupos, pré-assembléia e assembléia.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Revisar o estatuto e elaborar o regimento interno.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>2. Dependência da cooperativa em relação aos lojistas.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Identificar os novos segmentos de mercado e o tipo de demanda específica. Estudar a criação da franquia</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Participar de eventos representativos de novos segmentos e mercado. Hotelaria e franquia.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>3. Não cumprir a entrega no prazo determinado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Fazer a cadeia produtiva de cada peça padronizar a técnica e seguir o padrão de qualidade. Estudar o prazo mínimo para a entrega de cada peça.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Planejamento da produção e critérios de prazos para a entrega no contrato.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>4. Falta de uma sede própria.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Fazer uma planta com o memorial descritivo e plano de trabalho, submeter a uma fonte de financiamento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Construir uma sede em uma área de 2.000 m .</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>5. Segmentação sem foco na fibra.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Convergência de idéias em torno da fibra, supervisão do Domingos e constar os critérios no regimento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Fortalecer a diversidade de produção com o foco voltado para a fibra evitando concorrência entre grupos.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>6. Associados inativos e falta de participação.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Regularizar a situação dos inativos eliminando-os da cooperativa. Estimular a participação dos demais associados.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Carta de exclusão dos associados inativos e carta de advertência aos que freqüentam pouco as reuniões.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>7. Falta de equipamento adequado para a produção.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Adquirir equipamentos e ferramentas adequadas para a produção.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Elaborar projeto e procurar parceria.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+
+            </corpo>
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto></texto>
+        </paragrafo>
+
 
         <paragrafo>
             <texto>
@@ -6891,13 +7045,16 @@
         </paragrafo>
         
         <paragrafo estilo="avaliacao">
-            <texto>“[...] temos que trabalhar juntos e não desenvolver produtos para serem concorrentes dentro da cooperativa.” (Comentário 11)</texto>
+            <italico>“[...] temos que trabalhar juntos e não desenvolver produtos para serem concorrentes dentro da cooperativa.”</italico>
+            <texto> (Comentário 11)</texto>
         </paragrafo>
         <paragrafo estilo="avaliacao texto_direita">
-            <texto>“[...] a esteira é uma linha nova, nós vamos precisar de gente para aprender a fazer trama.” (Comentário 12).</texto>
+            <italico>“[...] a esteira é uma linha nova, nós vamos precisar de gente para aprender a fazer trama.”</italico>
+            <texto> (Comentário 12).</texto>
         </paragrafo>
         <paragrafo estilo="avaliacao">
-            <texto>“[...] temos que ter convergência de ideias em torno da produção das peças.” (Comentário 12).</texto>
+            <italico>“[...] temos que ter convergência de ideias em torno da produção das peças.”</italico>
+            <texto> (Comentário 12).</texto>
         </paragrafo>
         
         <paragrafo>
@@ -6907,7 +7064,8 @@
         </paragrafo>
         
         <paragrafo estilo="avaliacao texto_direita">
-            <texto>“[...] convocação não é convite. Muitos não têm consciência disso.” (Comentário 12) </texto>
+            <italico>“[...] convocação não é convite. Muitos não têm consciência disso.”</italico>
+            <texto> (Comentário 12) </texto>
         </paragrafo>
 
         <paragrafo>
@@ -6939,6 +7097,704 @@
                 Os resultados da “eleição de prioridades” realizada com os associados da Cooperativa Mariense de Artesana encontram-se na Tabela 3 (entre parênteses está o número de pessoas que votou na opção).
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Tabela 1 – Eleição de prioridades da área social do assentamento Cachoeira</texto>
+        </paragrafo>
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>ÁREA SOCIAL</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>VERDE (10)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>AMARELO (5)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>BRANCO (1)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>TOTAL (VALOR)</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>1. Poço artesiano.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>8 (80)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>7 (35)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3 (3)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>118</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>2. Desmatamento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>8 (80)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>5 (25)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2 (2)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>107</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>3. Pasto.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1 (10)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1 (5)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>7 (7)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>22</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>4. Compra de insumos .</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2 (10)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>10</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>5. Compra de matrizes.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3 (3)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>3</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>6. Cerca.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>0</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2002, p. 48)</texto>
+        </paragrafo>
+        
+        
+        
+        <paragrafo estilo="centralizado">
+            <texto>Tabela 2 –  Eleição de prioridades da área de produção do assentamento Cachoeira</texto>
+        </paragrafo>
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>ÁREA PRODUTIVA</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>VERDE (10)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>AMARELO (5)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>BRANCO (1)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>TOTAL (VALOR)</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>1. Poço artesiano.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>8 (80)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>4 (20)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1 (1)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>101</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>2. Desmatamento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>5 (50)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>50</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>3. Pasto.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2 (20)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>4 (20)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>4 (4)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>44</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>4. Compra de insumos .</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3 (15)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>4 (4)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>19</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>5. Compra de matrizes.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3 (15)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>4 (4)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>19</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>6. Cerca.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3 (15)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1 (1)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>16</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>7. Orientação técnica .</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3 (3)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>3</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>8. Carroça.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>0</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2 (2)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>2</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2002, p.48)</texto>
+        </paragrafo>
+        
+        
+        
+        <paragrafo estilo="centralizado">
+            <texto>Tabela 3 – Eleição de prioridades Cooperativa Mariense de Artesanto</texto>
+        </paragrafo>
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>ÍTENS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>10 PONTOS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>5 PONTOS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1 PONTO</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>TOTAL</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Construir uma sede.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>190 (19)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>25 (05)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>07 (07)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>247</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Revisar o Estatuto.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>160 (16)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>45 (09)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>08 (08)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>213</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Adquirir equipamentos.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>160 (06)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>40 (08)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>12 (12)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>112</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Participar de eventos.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>20 (02)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>25 (05)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>06 (06)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>51</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Regularizar situação dos associados.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>20 (02)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>20 (04)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>05 (05)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>45</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Fortalecer diversidade.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>25 (05)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>02 (02)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>27</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Planejamento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>20 (04)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>05 (05)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>25</negrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira (2007, p. 34)</texto>
+        </paragrafo>
+
+
+
+        
     </pagina>
     <pagina>
         <numero>410</numero>
