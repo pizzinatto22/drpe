@@ -3221,6 +3221,20 @@
                 Fonte: Pereira et al. (2002, p. 8)
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fotografia 3 – Mapa de utilização do espaço produtivo e social do assentamento Cachoeira
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/foto3.jpg" />
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Pereira (2001b, p.5)
+            </texto>
+        </paragrafo>
 
 
 
@@ -3231,15 +3245,36 @@
         </paragrafo>
         <paragrafo>
             <texto>
-                Um aspecto importante a ser avaliado no processo de construção do mapa futuro é a relação de proporção entre a área parcelada e a área de reserva (em geral, representada apenas pela expressão “área de reserva” – isso não acontece nas áreas de veredas e nascentes). Também não aparecem os elementos construídos: edifícios da área comunitária, antiga sede da fazenda, casas. Aparecem apenas linhas delimitando espaços com as expressões “área comunitária”, “área da sede velha”, lote 1 etc.  Essas características mostram a relação simbólica que a coletividade tem com os espaços do assentamento, ao definir os limites das áreas, as veredas, as nascentes, o local do futuro poço artesiano. As nascentes e o poço, pelo grande valor prático e simbólico da água; as veredas e a cachoeira, pelo forte impacto visual; os limites, pela função básica de demarcar espaços individuais e torná-los mais legíveis. 
+                Um aspecto importante a ser avaliado no processo de construção do mapa futuro é a relação de proporção entre a área parcelada e a área de reserva (em geral, representada apenas pela expressão “área de reserva” – isso não acontece nas áreas de veredas e nascentes). Também não aparecem os elementos construídos: edifícios da área comunitária, antiga sede da fazenda, casas. Aparecem apenas linhas delimitando espaços com as expressões “área comunitária”, “área da sede velha”, lote 1 
+            </texto>
+            <italico>etc</italico>
+            <texto>.  Essas características mostram a relação simbólica que a coletividade tem com os espaços do assentamento, ao definir os limites das áreas, as veredas, as nascentes, o local do futuro poço artesiano. As nascentes e o poço, pelo grande valor prático e simbólico da água; as veredas e a cachoeira, pelo forte impacto visual; os limites, pela função básica de demarcar espaços individuais e torná-los mais legíveis. </texto>
+        </paragrafo>
+
+        <paragrafo estilo="centralizado">
+            <texto>
+                Figura 5 – Mapa traçado pelos próprios assentados em Cachoeira
             </texto>
         </paragrafo>
+        
+        <imagem url="images/mapa-desenhado.jpg" />
+
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Adaptada de Pereira et al. (2002, p. 9)
+            </texto>
+        </paragrafo>
+        
+        
+        
         <paragrafo>
             <texto>
-                No conjunto, esses aspectos compõem a imagem do local e a identidade criada, as quais têm por elemento fundamental, nesse caso, a terra. Esse é o elemento mais importante, definido pelos seus limites e pelo nome de cada um deles. Além disso, há outros três aspectos a considerar em relação à terra: 
+                No conjunto, esses aspectos compõem a imagem do local e a identidade criada, as quais têm por elemento fundamental, nesse caso, a 
             </texto>
+            <negrito>terra</negrito>
+            <texto>. Esse é o elemento mais importante, definido pelos seus limites e pelo nome de cada um deles. Além disso, há outros três aspectos a considerar em relação à terra:</texto>
         </paragrafo>
-        <lista esitlo="alfabetica">
+        <lista estilo="alfabetica">
             <item>
                 <texto>é mais importante do que as coisas que tem nela – no mapa não aparecem construções, vegetação, plantação, nada é representado nos lotes além dos limites e dos nomes dos assentados; </texto>
             </item>
@@ -3274,17 +3309,57 @@
                 Essa técnica é complementar à técnica do mapeamento histórico e consiste em percorrer transversalmente o maior diâmetro possível da área objeto do diagnóstico. A equipe interdisciplinar, sempre acompanhada de pequenos grupos que conheçam bem a área, fazem a caminhada observando os aspectos previamente definidos no quadro de referência de temas geradores, de forma a captar os elementos da história do lugar, a situação presente e a situação desejada pela coletividade. O objetivo é levantar informações detalhadas, de preferência fotografando os lugares considerados pela coletividade como sendo críticos ou que representam problemas a superar, a exemplo do que foi realizado na comunidade de São Sebastião do Soberbo, em Minas Gerais, conforme mostra a Fotografia 4. 
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fotografia 4 – Caminhada transversal na comunidade de São Sebastião  do Soberbo
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/foto4.png" />
+
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Pereira (2004b, p. 27)
+            </texto>
+        </paragrafo>
 
         <paragrafo>
             <texto>
                 No momento de fazer o mapeamento, a equipe interdisciplinar deve definir com a coletividade o percurso a ser feito no local, dividi-la em pequenos grupos e, durante a caminhada, descrever o percurso de forma textual e gráfica, como é ilustrado na Figura 6.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Figura 6 – Trajetória da caminhada transversal definida pela coletividade do assentamento Cachoeira
+            </texto>
+        </paragrafo>
+        
+        <imagem url="images/mapa12.jpg" />
+        
+        <paragrafo estilo="centralizado">
+            <texto>
+                Fonte: Adaptada de Pereira et al. (2002, p. 32)
+            </texto>
+        </paragrafo>
+
+        
+        
         <paragrafo>
             <texto>
                 Em assentamentos e comunidades rurais, normalmente utiliza-se a caminhada transversal para descrever tecnicamente a paisagem e as características socioambientais, como ilustrado na Figura 7. Durante a caminhada transversal, a equipe interdisciplinar deve explorar as informações que ainda não foram obtidas na técnica do mapeamento histórico, tendo como referência os temas geradores da coletividade.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Figura 7 – Descrição de uma caminhada transversal no  assentamento Cachoeira</texto>
+        </paragrafo>
+        <imagem url="images/descricao-caminhada.jpg" />
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adaptada de Pereira  et al. (2002, p. 33)</texto>
+        </paragrafo>
+
     </pagina>
     <pagina>
         <numero>404</numero>
@@ -3420,6 +3495,16 @@
                 Tomando-se como referência o tamanho do círculo da COCAPEC, foi pedido aos participantes que desenhassem o primeiro círculo representativo da importância da CREDICOCAPEP e de todas as outras organizações listadas. Na sequência, foram discutidas a importância e a atuação de cada uma das organizações, e a configuração delas está representada na Figura 8.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Figura 8 – Diagrama de Venn da COCAPEC</texto>
+        </paragrafo>
+        <imagem url="images/cocapec.jpg" />
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adaptada de Pereira (2004b)</texto>
+        </paragrafo>
+
+        
         <paragrafo>
             <texto>
                 A avaliação feita da CREDICOCAPEC pelos participantes caracteriza bem o que a comunidade pensa sobre a cooperativa de crédito:
@@ -3513,6 +3598,15 @@
             </paragrafo>
         </chamada>
         
+        <paragrafo estilo="centralizado">
+            <texto>Figura 9 – Diagrama de Venn do assentamento Cachoeira</texto>
+        </paragrafo>
+        <imagem url="images/assentamento-cachoeira.jpg" />
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adaptada de Pereira et al. (2002, p. 21)</texto>
+        </paragrafo>
+
+        
         
         <subsubsecao>APRAC</subsubsecao>
         <paragrafo>
@@ -3572,16 +3666,26 @@
         </paragrafo>
         <lista estilo="alfabetica">
             <item>
-                <texto>Importância do INCRA ao desenharem o círculo um pouco maior do que o da APRAC – “É mais importante que a APRAC!” (Avaliação 13).</texto>
+                <texto>Importância do INCRA ao desenharem o círculo um pouco maior do que o da APRAC – </texto>
+                <italico>“É mais importante que a APRAC!”</italico>
+                <texto> (Avaliação 13).</texto>
             </item>
             <item>
-                <texto>Importância do INCRA ao desenharem o círculo maior do que o da APRAC – “Sem o INCRA, não existiria o assentamento, sequer a associação.” (Avaliação 14).</texto>
+                <texto>Importância do INCRA ao desenharem o círculo maior do que o da APRAC – </texto>
+            <italico>“Sem o INCRA, não existiria o assentamento, sequer a associação.”</italico>
+            <texto> (Avaliação 14).</texto>
             </item>
             <item>
-                <texto>Importância do INCRA ao desenharem o círculo um pouco menor do que o da APRAC – “A bola do INCRA pode diminuir de tamanho, porque eles estão aqui no assentamento há três anos, mas a associação é que corre atrás.” (Avaliação 15).</texto>
+                <texto>Importância do INCRA ao desenharem o círculo um pouco menor do que o da APRAC – </texto>
+            <italico>“A bola do INCRA pode diminuir de tamanho, porque eles estão aqui no assentamento há três anos, mas a associação é que corre atrás.”</italico>
+            <texto> (Avaliação 15).</texto>
             </item>
             <item>
-                <texto>Importância do INCRA ao desenharem o círculo bem maior do que o da APRAC – “Com toda a lentidão, eu agradeço ao INCRA por estar em casa própria, em terra própria e em condições de trabalhar e pagar por isso.” (Avaliação 16) e “Eu acho que essa bola mudando muito ainda vai derrubar alguém; macaco que pula muito, uma hora ele pula no galho seco e cai.” (Avaliação 17).</texto>
+                <texto>Importância do INCRA ao desenharem o círculo bem maior do que o da APRAC – </texto>
+            <italico>“Com toda a lentidão, eu agradeço ao INCRA por estar em casa própria, em terra própria e em condições de trabalhar e pagar por isso.”</italico>
+            <texto> (Avaliação 16) e </texto>
+            <italico>“Eu acho que essa bola mudando muito ainda vai derrubar alguém; macaco que pula muito, uma hora ele pula no galho seco e cai.”</italico>
+            <texto> (Avaliação 17).</texto>
             </item>
         </lista>
         <paragrafo>
@@ -3683,6 +3787,15 @@
                 No caso do calendário sazonal, serão apresentados, como exemplos, os resultados obtidos na Cooperativa de Produção Agropecuária Vitória (COPAVI), localizada no município de Paranacity, estado do Paraná, e na comunidade de São Sebastião do Soberbo, Santa Cruz do Escalvado, em Minas Gerais,  esta atingida pela construção de uma usina hidrelétrica. Os resultados permitem avaliar os períodos de maior demanda de força de trabalho e as atividades desenvolvidas pelos trabalhadores e facilitam a implementação de projetos.
             </texto>
         </paragrafo>
+        <paragrafo estilo="centralizado">
+            <texto>Gráfico 1 – Calendário sazonal da COPAVI</texto>
+        </paragrafo>
+        <grafico id="grafico1"></grafico>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adaptado de Pererira (1998, p. 177)</texto>
+        </paragrafo>
+
+        
 	<paragrafo>
             <texto>
                 Como pode ser observado no Gráfico 1, no calendário sazonal da COPAVI, o ano agrícola começa em julho de um ano e termina em junho do outro ano. O gráfico do calendário sazonal apresenta as atividades consideradas, pelos participantes, como as principais e que demandam maior intensidade relativa de força de trabalho, medida em número de dias correspondente a um mês, ao longo do ano agrícola. Em julho de 1998, a COPAVI contava com 39 associados como força de trabalho disponível para as atividades do cotidiano, incluindo homens e mulheres, associados e não associados em período probatório (seis meses), e duas pessoas de licença médica. Segundo os associados, sempre há variação na produção e na disponibilidade de força de trabalho nas atividades de indústria e lavoura. Assim, para as atividades que demandam maior tempo de trabalho, eles têm contratado diaristas, como no caso da limpa da mandioca, do café e de outras culturas.
@@ -3806,12 +3919,657 @@
                 Para a criação de gado leiteiro, a exigência de tempo era maior durante os meses de chuva, quando o gado não pasta e precisa de cuidado dentro do curral. A retirada de leite ocorria apenas uma vez por dia e pela manhã. O leite era vendido para laticínios da região ou para o consumo próprio.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 6 – Calendário sazonal de São Sebastião do Soberbo</texto>
+        </paragrafo>
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>MÊS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula colspan="2">
+                        <paragrafo>
+                            <texto>CALENDÁRIO DO RIO</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula colspan="3">
+                        <paragrafo>
+                            <texto>CALENDÁRIO DA TERRA</texto>
+                            <superescrito>1</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula colspan="2">
+                        <paragrafo>
+                            <texto>CALENDÁRIO DAS CRIAÇÕES</texto>
+                            <superescrito>2</superescrito>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto></texto>
+                        </paragrafo>
+                    </celula>
+                    <celula colspan="2">
+                        <paragrafo>
+                            <texto>ATIVIDADES</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula colspan="3">
+                        <paragrafo>
+                            <texto>ATIVIDADES</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula colspan="2">
+                        <paragrafo>
+                            <texto>ATIVIDADES</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito></negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Ouro</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Peixe</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Milho</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Feijão</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Cana</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Bovino</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Suíno</negrito>
+                        </paragrafo>
+                    </celula>
+                    
+                </linha>
+                
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Mar.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Plantio do milho “da seca” (consorciado).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Plantio do feijão “da seca” (início do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1o. corte da cana (1,5 anos depois do plantio).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Abr.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Colheita do milho solteiro (final do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1 capina do feijão “da seca”.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Maio</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Colheita do milho solteiro (início do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2a. capina do feijão “da seca”.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Jun.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Colheita do milho consorciado (final do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Colheita do feijão “da seca” (final do mês)”.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Jul.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Colheita do milho consorciado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Colheita do feijão “da seca” (início do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Ago.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo do solo: roçar, queimar e arar.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo do solo: roçar, queimar e arar.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Set.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>-</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Plantio</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Out.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Plantio</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo do solo para o feijão “da chuva”: roçar, queimar e arar.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1a. capina (final do mês)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Nov.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1a. capina</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Plantio do feijão “da chuva” (início do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1a. capina (início do mês)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Dez.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2a. capina (final do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1a. capina do feijão “da chuva”.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2a. capina (final do mês)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Jan.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2a. capina (início do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Colheita do feijão “da chuva” (final do mês).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2a. capina (início do mês)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Fev.</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Garimpo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pescaria</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3a. capina, quando o milho começar a secar (se for plantar feijão).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo do solo para o feijão “da seca”: roçar, queimar e arar.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto></texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>3</superescrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Tratos rotineiros</texto>
+                            <superescrito>4</superescrito>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+            </corpo>
+        </tabela>
+        <paragrafo estilo="nota_tabela_verde">
+            <texto>Notas: 1. não trabalham o calendário de hortaliças e frutas em razão da diversidade de produtos. Além disso, também padronizam a área das culturas em dois hectares; 2. apesar de haver criações de pequenos animais como aves e caprinos, somente trabalham com vaca e suíno; 3. cortar capim, levar para o cocho, tirar leite e levar para o tanque; 4. cuidados com alimentação, limpeza do chiqueiro e sanidade dos animais; 5. considerando-se uma produtividade de 40 a 50 toneladas por hectare, eles têm uma produção total em torno de 80 a 100 toneladas, sendo necessários entre 160 e 200 homens/dia para realizar a colheita, que se distribui nos meses da estação seca, ou seja, de março a novembro.</texto>
+        </paragrafo>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2004c, p. 37) </texto>
+        </paragrafo>
+
 
         <paragrafo>
             <texto>
                 A quantidade de homens/dia, a cada mês ao longo de um ano, está representada no Gráfico 2. Nesse caso, o trabalho no rio, no que diz respeito ao ouro, é mais intenso do que a atividade de pesca, embora as duas atividades possam ser realizadas por uma única pessoa ou um grupo familiar.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto></texto>
+        </paragrafo>
+        <grafico id="grafico2"></grafico>
+        <paragrafo estilo="centralizado">
+            <texto></texto>
+        </paragrafo>
+
+        
 	<paragrafo>
             <texto>
                 O Gráfico 3, a seguir, mostra as atividades daqueles grupos familiares formados por garimpeiros e meeiros ao mesmo tempo. As atividades que demandam maior intensidade relativa de trabalho são o garimpo, seguido da agricultura. 
@@ -3897,6 +4655,532 @@
                 O Quadro 7 apresenta o resultado dessa técnica utilizada em um assentamento de Reforma Agrária no Brasil.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 7 – Técnica entra e sai utilizada no asssentamento São Francisco</texto>
+        </paragrafo>
+        <tabela estilo="tabela_verde_divisao_branca ">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>O QUE ENTRA</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>DE ONDE VEM</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>O QUE TEM</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>O QUE SAI</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>PARA ONDE VAI</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Calcário, adubo, trator, enxada, arado, calcalhadeira, matraca, força de trabalho, arame, madeira, grampo, martelo, cavadeira.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Trator – do fazendeiro de Formoso; ferramentas – da cidade, das próprias pessoas; madeira, do cerrado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Milho</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Milho, fubá, canjica, ração, palha, pamonha, mingau, cuscuz, beijú, bolo, farinha.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Para o gado, porcos e galinhas (ração), alimentação da família, mercado ou vizinhos (14,00/sc/60kg).</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Para o gado, porcos e galinhas (ração), alimentação da família, mercado ou vizinhos (14,00/sc/60kg).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Para o gado, porcos e galinhas (ração), alimentação da família, mercado ou vizinhos (14,00/sc/60kg).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Arroz</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Arroz (semente), fubá, arroz-doce.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Idem ao milho.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Quando sobra do consumo, retira-se a semente da própria produção.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Feijão1</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Feijão (semente) e palha.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Alimentação, adubo e alimentação para a criação (palha); venda para o mercado ou vizinhos quando sobra do consumo.</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>*Aqui surge novamente a ideia de uma associação para vender o feijão.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo da terra (arar), rama. </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Rama – do vizinho ou da própria plantação.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mandioca</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Farinha, polvilho, crueira (parte grossa da farinha), beijú, raspa, rama, manipuera .</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar e animal.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo da terra (sem adubo e calcário), mudas.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mudas – do vizinho ou da própria produção.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Cana</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Rapadura, garapa, pinga, vinagre (coloca a garapa em um recipiente destampado com um pouco de milho e deixa fermentar), mel, ração.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mercado ou vizinhos (1,80/ud), consumo familiar e animal.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Produção feita no roçado, semente.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Semente: compra ou guarda.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Abóbora</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Abóbora, doce.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar e animal.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo da terra – arado, enxada ou enxadão, rama, plantação feita no cerrado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Rama – do vizinho ou da própria produção.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Batata-doce</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Batata-doce.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mudas e sementes.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Vizinho.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Frutas</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Frutas, sucos, doces.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar. Quando sobra laranja, vende-se na chapada (1,00/dz).</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Muda, preparo da terra.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Muda, compra ou pega do vizinho.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Capim (cameron, napier)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ração.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Os animais do próprio assentamento.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Produzido no meio das plantações; sementes; o maxixe é nativo.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Vizinhos.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Quiabo e Maxixe</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Quiabo e maxixe.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Alimentação familiar.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Adubo (aves, bovino), palhada de arroz, pó de carvão preparo (enxada e enxadão), sementes.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Sementes – mercado; adubos – curral e galinheiro próprio ou do vizinho; palha de arroz da produção.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Horta</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Verduras, saladas, cenoura (suco, bolo, limpeza de pele).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar, mercado de Formoso ou vizinhos.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Pastagem, água, sal mineral e grosso, mata-bicheira, ração, vacinas, uréia.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Água – do assentamento; sal mineral (70,00-80,00/sc de 10-12kg), vacinas (raiva, febre aftosa, botulismo), sal grosso e uréia – da casa veterinária.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Gado</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Leite, queijo, requeijão, carne, couro, bezerros, manteiga, doce.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Vendas, consumo familiar.</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                Bezerros: 180,00-250,00 (desmamado).
+                            </texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                Novilha: 250,00 (2 anos).
+                            </texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                Vaca: 300,00 (magra); 450,00 (gorda).
+                            </texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Milho, vacinas, terramicina (mistura c/ o milho), pintinhos, remédios.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Milho – da roça; vacinas; e terramicina – da casa veterinária.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Galinhas e Peru</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ovos, frangos, adubo.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ovos – para consumo familiar e venda para vizinhos (1,30/dz).</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ração (abóbora, soro, milho, resto de comida), chiqueiro (madeira), cocho (madeira, cimento ou pneu), remédios, água, tela.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ração – do assentamento; remédios – da casa veterinária; madeira – do assentamento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Porco</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Carne, toucinho, linguiça, banha, sabão, pele, leitão, adubo (“esse adubo não deixa a podridão nos tomates”).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo, venda.</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                Toucinho – 2,50/kg.
+                            </texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                Carne – 3,00/kg.
+                            </texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Idem ao gado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Idem ao gado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Cavalo</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Preparo da terra (serviços), passeio, campear.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Arame, ração, madeira, remédios e vacinas.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ração – da roça; remédios e vacinas – da casa veterinária.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Carneiro/cabrito</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Carne, couro, lã (colxinil, roupas), filhotes, leite.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar e adubo (roça e horta).</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Taboca, buriti, coquinho, pequi, saco de linhagem, seda do buriti, talo, madeira.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Cerrado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Artesanato</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Vassoura, peneira, esteira, balaio, espanador, bolsas, pulseiras, catre, portas, prateleira, óleos, coberturas de casa.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar, mercado (casualmente) e vizinhos; construções.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+
+            </corpo>
+        </tabela>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2003b, p. 43−44)</texto>
+        </paragrafo>
+
 
         <paragrafo>
             <texto>
@@ -3918,6 +5202,378 @@
                 Outro exemplo de utilização da técnica entra e sai pode ser observado em uma cooperativa, conforme o Quadro 8.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 8 – Técnica entra e sai utilizada na COCAPEC</texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>DE ONDE VEM</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>O QUE PRODUZ OU QUE SERVIÇO OFERECE</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>O QUE SAI</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>PARA ONDE VAI</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Calcário</negrito>
+                        </paragrafo>
+                        <paragrafo>
+                            <negrito>Muda</negrito>
+                        </paragrafo>
+                        <paragrafo>
+                            <negrito>Adubo</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>COCAPEC</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Café</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Café (em grão)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mercado interno e mercado externo (saca)</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Esterco</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Próprios produtores</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Leite</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Impostos</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Governo Federal (recursos)</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Mão de obra</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Próprios produtores; Familiar</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Milho</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Milho (em grão)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Máquinas e equipamentos</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Particular e COCAPEC</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Arroz</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Arroz (em casca)</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <negrito>Herbicidas</negrito>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>COCAPEC</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Feijão</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Feijão</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mandioca</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mandioca</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Gado de corte</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Gado de corte</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Galinha</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Galinha</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Porco</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Porco</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Peixe</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Peixe</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Banana</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Banana</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Meixerica</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Meixerica</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Maracujá</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Maracujá</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+                <linha>
+                    <celula>
+                    </celula>
+                    <celula>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Muda</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Muda</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Consumo familiar</texto>
+                        </paragrafo>
+                    </celula>                    
+                </linha>
+            </corpo>
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira (2004b, p, 21)</texto>
+        </paragrafo>
+
+        
+        
         <paragrafo>
             <texto>
                 O resultado do entra e sai, nesse caso, demonstra o “ensanduichamento” dos associados da COCAPEC que, de um lado, encontram-se dependentes das indústrias de insumos determinando seus custos de produção e, de outro, dependente dos preços de mercado determinados pelas grandes corporações, o que restringe os preços dos produtos, de forma a desfavorecer o elo mais fraco dessa cadeia, os agricultores familiares associados à cooperativa. Portanto, cabe a cooperativa buscar medidas que amenizem esse efeito sobre os associados, negociando por meio de contratos e convênios descontos para aquisição de insumos e políticas de mercado mais justas.
@@ -4014,12 +5670,105 @@
                 A rotina diária normalmente é apresentada em um box, na forma de um texto sistematizado, como pode ser observado o resultado dessa técnica utilizada no assentamento São Francisco, no município de Formoso−MG, no Box 1.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Box 1 – Rotina diária da família do sr. Valdivino</texto>
+        </paragrafo>
+        
+        <chamada estilo="box_verde">
+            <paragrafo>
+                <texto>
+                    A família do Sr. Valdivino acorda às 05:30 – 06:00, e a esposa prepara o café, eles tomam o café, e o sr. Valdino ordenha as vacas.  Às 07:00 – 07:30  ele vai para a roça com os filhos (quando estes não estudam), a esposa fica em casa realizando os afazeres domésticos e, quando há necessidade, vai ajudar o marido na roça.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Às 07:30 as crianças vão para a escola e retornam às 11:30, e almoçam todos juntos. Depois do almoço, as crianças fazem o dever e, às vezes, vão para a roça ajudar os pais. Às 13:00 retornam para a roça só parando novamente às 15:00 para a “merenda”.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Às 19:00 é servido o jantar, e normalmente vão dormir entre 20:30 e 21:00. O período de maior atividade na agricultura vai de setembro a março e, em outras épocas, se dedicam ao cuidado com os animais.  
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Todos manifestaram o desejo de fazer a roça no lugar certo, sem precisar mudar depois.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    As mulheres cuidam das galinhas, da horta e da casa e, às vezes, vão para a roça com o marido.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Às vezes, vai toda família para a cidade fazer feira.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Uma vez por mês vão à missa, na sede da Fazenda São Francisco ou na Gentio. Nos fins de semana, dedicam-se mais aos serviços domésticos.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Todos manifestaram o desejo de preservar essa tradição, como viviam no Parque.
+                </texto>
+            </paragrafo>
+        </chamada>
+        
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adaptado de Pereira et al. (2003b, p. 53)</texto>
+        </paragrafo>
+
+        
+        
 
         <paragrafo>
             <texto>
                 Outra forma de registrar os resultados da rotina diária é por meio de um texto discursivo envolvendo mais de um grupo, como foi feito no relatório no assentamento Vereda I, no município de Padre Bernardo, em Goiás. Embora esse assentamento estivesse em sua fase inicial de organização do espaço produtivo e de socialização, pode-se constatar a formação de pequenos grupos de ajuda mútua, geralmente constituídos por cinco pessoas, entre vizinhos, parentes e amigos. O tipo de ajuda mútua mais comum observado pela rotina diária foi a “troca de dias”. 
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Box 2 – Rotina diária da família do sr. Ciriaco</texto>
+        </paragrafo>
+        
+        <chamada estilo="box_verde">
+            <paragrafo>
+                <texto>
+                    A família do sr. Ciriaco Peixoto de Carvalho inclui a sra. Leontina Alves Costa e a filha Lidiane Alves Costa. O casal trabalhava junto na roça e participava de troca de dias com os vizinhos. Dona Léa cuidava da limpeza da casa e do quintal, o que incluía o cuidado com as plantas medicinais que ela usava para chá como casca de jatobá e de angico (combate à gripe), folha de aroeira e de jenipapo (diurético) e folha de capim santo (calmante). Quanto a animais domésticos, possuíam galinhas e porcos, que eram tratados “à meia” (divisão de trabalho e de custos para cuidar dos animais) com a vizinha porque as formigas acabaram com a plantação de milho. A filha ajudava a mãe nas atividades domésticas. No tempo livre, ela fazia o dever da escola, tomava banho de rio e brincava com as amigas vizinhas. Sr. Ciriaco buscava água para beber, em vasilhas de plástico, na cisterna da chácara do Sr. Osvaldino. 
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Para estar próxima da escola, a família mudou de chácara três vezes. Ficaram aproximadamente um mês na chácara de número seis, mas como o terreno é muito inclinado, esta ficou para área coletiva. De acordo com o sr. Ciriaco, foi preciso aprender a construir o barraco, utilizando madeira branca, como pindaíba e mutamba, pois em dois anos construíram 23 barracos e tinham a esperança de não mudar novamente antes de irem para a casa definitiva. Próxima ao barraco foi construída uma fossa seca. Segundo dona Léa, “não precisa tirar madeira de lei, porque é tudo improvisado”. 
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    O sr. Ciriaco sabe fazer adobe e disse que iria construir sua casa um pouco mais afastada do local onde está seu barraco, pois a proximidade com o córrego causa problemas de saúde na família por causa da umidade. Dona Léa teve pneumonia e suspeita de febre amarela; Lidiane, além da suspeita de febre amarela, teve problemas de “circulação” (sanguínea) e ficou por um dia internada no hospital do município de Padre Bernardo.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Dona Léa teve três filhos do primeiro casamento, todos casados, que moravam na cidade e o sr. Ciriaco tinha um filho de nove anos do primeiro casamento que mora na cidade de Cocalzinho com a mãe. Esperava “[...] arrumar mais um cadinho as coisas pra ir buscar o menino.”, embora tenha dúvidas a esse respeito, pois “[...] na cidade a facilidade pra estudar é maior”. 
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Nesse dia, o sr. Ciriaco estava muito feliz, pois pegou em sua rede, que havia colocado à noite no rio, um peixe (piranha) que seria o almoço da família. Disse que o rio é perigoso à noite, pois tem piranha e já viu uma ariranha. A família recebeu a última cesta básica, que continha fubá, arroz e feijão, em setembro de 2000, e Dona Léa disse que o que os salva são as visitas do final de semana, pois “[...] os parentes vêm passear e sempre trazem compras”.
+                </texto>
+            </paragrafo>
+        </chamada>
+        
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adaptado de Pereira et al. (2001a, p. 23−24) </texto>
+        </paragrafo>
+
 
         <paragrafo>
             <texto>
@@ -4036,6 +5785,42 @@
                 A rotina diária descrita, ilustra a situação passada pela maioria das famílias do assentamento Vereda I na fase inicial de organização do trabalho das famílias, conforme o Box 3. 
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Box 3 – Rotina diária da família do sr. Alberto</texto>
+        </paragrafo>
+        <chamada estilo="box_verde">
+            <paragrafo>
+                <texto>
+                    Fazem parte da família do sr. Alberto Pereira de Oliveira, a Sra. Deusimar Rodrigues F. de Oliveira e as filhas, Mariana Úrsula Rodrigues de Oliveira  e Roberta Rodrigues de Oliveira. As duas filhas cursavam a 2ª e a 6ª séries do ensino fundamental, respectivamente. A família é nuclear e estava na fase de formação. 
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    O casal acordava às 6:00. A primeira atividade do marido era buscar água no rio para utilizar nos diversos serviços domésticos. O café era servido às 7:00 e logo após o Sr. Alberto ia para a roça onde capinava milho, feijão e arroz, cortava madeira para lenha, limpava e levava para casa. Deusimar lavava a louça do café e do jantar do dia anterior e capinava o quintal. Duas vezes por semana, fazia uma faxina “pesada” no barraco. Às 9:00 lavava roupa no rio (lavava roupa três vezes por semana), e às 10:00 começava a preparar o almoço. Normalmente, a família almoçava às 11:30.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Após o almoço Deusimar arrumava a cozinha e lavava as vasilhas numa pia improvisada, onde utilizava duas bacias com água colocadas sobre uma mesa no quintal.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Das 13:00 às 16:00 o casal trabalhava junto na roça. A esposa chegava em casa mais cedo que o marido, preparava o café com bolinho e realizava algumas atividades como dobrar e guardar as roupas da família, arrumar gavetas e tirar teia de aranha do barraco.
+                </texto>
+            </paragrafo>
+            <paragrafo>
+                <texto>
+                    Às 17:00 o Sr. Alberto chegava da roça, e às 18:00 a esposa começava a preparar o jantar, que normalmente era servido às 19:30. Logo após o casal se reúnia para ler a bíblia ou visitar os vizinhos. A família dormia às 21:00. 
+                </texto>
+            </paragrafo>
+        </chamada>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Adptado de Pereira et al. (2001a, p. 24)</texto>
+        </paragrafo>
+
         
         
 
@@ -4066,6 +5851,15 @@
                 Para identificar o tipo ideal de moradia entre as famílias atingidas, a equipe interdisciplinar atribuiu a tarefa de: construir “a casa dos sonhos” deles. Os grupos receberam certa quantidade de recursos materiais e o tempo determinado para finalizar a tarefa, como pode ser observado na Fotografia 5. Em razão do grande número de participantes, foi necessária a formação de dois grupos, de acordo com a afinidade entre as pessoas, esclarecendo-se que a construção da casa deveria representar o sonho e as expectativas da coletividade.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fotografia 5 – Técnica da  construção em processo</texto>
+        </paragrafo>
+        <imagem url="images/foto5.png" />
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira (2004b, p.30)</texto>
+        </paragrafo>
+
 
         <paragrafo>
             <texto>
@@ -4138,11 +5932,122 @@
                 Em outro exemplo de autilização dessa técnica, com professores e monitores da Escola Família Agrícola (EFA) do município de Virgem da Lapa, Minas Gerais, ela foi realizada para promover a reflexão crítica deles sobre a situação atual e a situação futura da escola e das famílias dos estudantes que vivem naquele município, especificamente sobre a agricultura praticada pelas famílias dos alunos e a expectativa de futuro que eles tinham para essa agricultura. Primeiramente foram coletados, na área de cultivo da escola, materiais diversos para a construção da representação da agricultura atual e futura. Os participantes foram divididos em dois grupos para realizar essa atividade e, depois de construídas as representações, apresentaram os significados das “construções”, conforme as Fotografias 6 e 7.  
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fotografia 6 – Técnica da construção com os monitores da EFA</texto>
+        </paragrafo>
+        <imagem url="images/foto6.jpg" />
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Acervo pessoal (2003)</texto>
+        </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fotografia 7 – Técnica da “construção” com os monitores da EFA</texto>
+        </paragrafo>
+        <imagem url="images/foto7.jpg" />
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Acervo pessoal (2003)</texto>
+        </paragrafo>
+
+
+        
+        
         <paragrafo>
             <texto>
                 As situações estão sintetizadas nos Quadro 9 e 10, comparando-se a atual e a futura.
             </texto>
         </paragrafo>
+        
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 9 – Situação atual e futura da agricultura na avaliação do grupo 1</texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>SITUAÇÃO ATUAL</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>SITUAÇÃO FUTURA</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula estilo = "topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Terra seca.</texto>
+                            </item>
+                            <item>
+                                <texto>Desprotegida.</texto>
+                            </item>
+                            <item>
+                                <texto>Falta água.</texto>
+                            </item>
+                            <item>
+                                <texto>Produção existente é resistente.</texto>
+                            </item>
+                            <item>
+                                <texto>Dadas às dificuldades, temos um grande êxodo rural.</texto>
+                            </item>
+                            <item>
+                                <texto>Tem manga, urucum, certa diversidade.</texto>
+                            </item>
+                            <item>
+                                <texto>O pessoal tem se esquecido das sementes antigas.</texto>
+                            </item>
+                            <item>
+                                <texto>O homem daqui ama a terra, mas falta educação, investimento.</texto>
+                            </item>
+                            <item>
+                                <texto>O que existe é agricultura familiar, mas está insustentável.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    
+                    <celula estilo = "topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Organização.</texto>
+                            </item>
+                            <item>
+                                <texto>Melhorar as práticas de uso da terra.</texto>
+                            </item>
+                            <item>
+                                <texto>União e trabalho em grupo.</texto>
+                            </item>
+                            <item>
+                                <texto>Preservar a água existente.</texto>
+                            </item>
+                            <item>
+                                <texto>Maior diversidade.</texto>
+                            </item>
+                            <item>
+                                <texto>Não tirar as coisas nativas (milho).</texto>
+                            </item>
+                            <item>
+                                <texto>Sentido da produção e resgate das sementes crioulas.</texto>
+                            </item>
+                            <item>
+                                <texto>Tornar a agricultura familiar mais sustentável.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2003a, p. 39)</texto>
+        </paragrafo>
+        
         <paragrafo>
             <texto>
                 As explicações dos participantes do grupo 1 sobre a comparação entre a situação atual e futura, por meio da construção realizada, estão sintetizadas nas frases a seguir.
@@ -4224,6 +6129,79 @@
             </item>
         </lista>
         
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 10 – Situação atual e futura da agricultura na avaliação do grupo 2</texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>SITUAÇÃO ATUAL</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>SITUAÇÃO FUTURA</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula estilo = "topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Pedras que representam as dificuldades.</texto>
+                            </item>
+                            <item>
+                                <texto>Andu que representa a resistência.</texto>
+                            </item>
+                            <item>
+                                <texto>Prática de queimadas.</texto>
+                            </item>
+                            <item>
+                                <texto>Produção existente (necessidade de aumento).</texto>
+                            </item>
+                            <item>
+                                <texto>Uso de esterco.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                    
+                    <celula estilo = "topo">
+                        <lista estilo="bolinha">
+                            <item>
+                                <texto>Aumento do uso de esterco.</texto>
+                            </item>
+                            <item>
+                                <texto>EFA como ponte para mudança.</texto>
+                            </item>
+                            <item>
+                                <texto>União.</texto>
+                            </item>
+                            <item>
+                                <texto>Maior verde nas propriedades.</texto>
+                            </item>
+                            <item>
+                                <texto>Melhorar as técnicas para aumentar a produção.</texto>
+                            </item>
+                            <item>
+                                <texto>Tem que estar juntos (real e ideal).</texto>
+                            </item>
+                            <item>
+                                <texto>As pedras vão continuar existindo.</texto>
+                            </item>
+                        </lista>
+                    </celula>
+                </linha>
+            </corpo>
+        </tabela>
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2003a, p. 40) </texto>
+        </paragrafo>
+        
         <paragrafo>
             <texto>
                 As explicações dos participantes do grupo 2 sobre a comparação entre a situação atual e futura, por meio da construção realizada, estão sintetizadas nas frases a seguir.
@@ -4303,6 +6281,15 @@
                 No caso do assentamento Vereda I, o objetivo da utilização da técnica construção foi estimular a criatividade dos assentados no emprego de recursos escassos, observando-se o projeto que cada grupo apresentava para o assentamento. Ao apresentarem seus projetos, eles demonstraram os problemas e as necessidades que sentiam no espaço produtivo e na socialização entre as famílias. Para isso, também foram oferecidos a cada grupo a mesma quantidade de materiais encontrados na área do assentamento, quais sejam: cinco gravetos; pequena quantidade de saibro e de pedregulhos. Não foram oferecidos outros materiais como barbante, fita crepe, papel e cola porque não eram recursos disponibilizados no cotidiano deles, o que poderia limitar a simbologia das suas ideias ao projetar as construções. Como a maioria deles carregava facas, facões ou canivetes, foi permitido o uso livre desses instrumentos. A Fotografia 8 mostra os materiais utilizados por um dos grupos.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fotografia 8 – Materiais utilizados na técnica construção pelos assentados do Vereda I</texto>
+        </paragrafo>
+        <imagem url="images/foto8.png" />
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira (2001a, p. 50)</texto>
+        </paragrafo>
+
 
         <paragrafo>
             <texto>
@@ -4310,35 +6297,42 @@
             </texto>
         </paragrafo>
         <paragrafo>
-            <texto>
-                No grupo 1, os assentados projetaram um galpão com energia e um poço artesiano. Nesse grupo, os assentados se colocaram como produtores da agricultura mecanizada, o que justifica o projeto do galpão com as máquinas agrícolas e a rede elétrica. Seus argumentos foram os seguintes: 
+            <texto>No </texto>
+            <negrito>grupo 1</negrito>
+            <texto>, os assentados projetaram um galpão com energia e um poço artesiano. Nesse grupo, os assentados se colocaram como produtores da agricultura mecanizada, o que justifica o projeto do galpão com as máquinas agrícolas e a rede elétrica. Seus argumentos foram os seguintes: 
             </texto>
         </paragrafo>
         
-            <paragrafo estilo="avaliacao">
-                <texto>“A gente somos do campo e, se reunir, podemos conseguir.” (Argumento 1)</texto>
-            </paragrafo>
-            <paragrafo estilo="avaliacao texto_direita">
-                <texto>“O material significa aquilo que precisamos para o assentamento, aquilo que a gente espera.” (Argumento 2)</texto>
-            </paragrafo>
-            <paragrafo estilo="avaliacao">
-                <texto>“Sonho de um galpão do campo de cerrado, com um trator, caminhão para transportar o alimento para vender, poço artesiano, rede de energia elétrica, calcário e adubo.” (Argumento 3)</texto>
-            </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“A gente somos do campo e, se reunir, podemos conseguir.” (Argumento 1)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao texto_direita">
+            <texto>“O material significa aquilo que precisamos para o assentamento, aquilo que a gente espera.” (Argumento 2)</texto>
+        </paragrafo>
+        <paragrafo estilo="avaliacao">
+            <texto>“Sonho de um galpão do campo de cerrado, com um trator, caminhão para transportar o alimento para vender, poço artesiano, rede de energia elétrica, calcário e adubo.” (Argumento 3)</texto>
+        </paragrafo>
         
         <paragrafo>
-            <texto>
-                No grupo 2, os assentados representaram a situação histórica vivenciada por eles na fase de acampamento, enfocando as dificuldades de se organizar coletivamente para conquistar a terra. Tais dificuldades ainda estão presente na fase atual. No início, o grupo demonstrou dificuldades para planejar e trabalhar de forma coletiva. Algumas pessoas começaram a quebrar parte do material sem ouvir/respeitar as ideias dos demais. Então, um integrante disse “que era preciso pensar primeiro”. Depois de conversarem, chegaram à conclusão que seria possível, com o material disponível, construir três coisas: casa, fogueira e curral. Decidiram então representar o início da chegada na Fazenda Serra Feia, onde tudo era feito em conjunto. Havia um barracão onde eram feitas as reuniões e algumas pessoas dormiam, e um fogão que as mulheres usavam para cozinhar para todo o acampamento. Na técnica, tudo aconteceu tão rápido, exatamente como na época do acampamento. O curral, que era visto do acampamento, significava a conquista da sede, um objetivo.  
-            </texto>
+            <texto>No </texto>
+            <negrito>grupo 2</negrito>
+            <texto>, os assentados representaram a situação histórica vivenciada por eles na fase de acampamento, enfocando as dificuldades de se organizar coletivamente para conquistar a terra. Tais dificuldades ainda estão presente na fase atual. No início, o grupo demonstrou dificuldades para planejar e trabalhar de forma coletiva. Algumas pessoas começaram a quebrar parte do material sem ouvir/respeitar as ideias dos demais. Então, um integrante disse </texto>
+            <italico>“que era preciso pensar primeiro”</italico>
+            <texto>. Depois de conversarem, chegaram à conclusão que seria possível, com o material disponível, construir três coisas: casa, fogueira e curral. Decidiram então representar o início da chegada na Fazenda Serra Feia, onde tudo era feito em conjunto. Havia um barracão onde eram feitas as reuniões e algumas pessoas dormiam, e um fogão que as mulheres usavam para cozinhar para todo o acampamento. Na técnica, tudo aconteceu tão rápido, exatamente como na época do acampamento. O curral, que era visto do acampamento, significava a conquista da sede, um objetivo.</texto>
         </paragrafo>
         <paragrafo>
-            <texto>
-                No grupo 3, projetaram uma casa e seu entorno. O grupo iniciou o trabalho sem planejamento. Aos poucos, com a iniciativa de alguns, foi surgindo uma “parede”, que consumiu quase todos os recursos que possuíam. Com a parede terminada, começaram a surgir os questionamentos: “Ninguém mora em uma parede. Se tivesse construído mais fina dava pra mais coisas. Vamos começá de novo.” O recomeço propiciou uma reflexão sobre planejamento de atividades que motivou a participação dos que ainda não haviam se manifestado. Nesse momento, tinham uma certeza: “pelo menos uma casa tem que sair”. O resultado foi a construção de uma casa, uma fossa séptica, um curral e um paiol, com o trabalho conjunto de mulheres e homens em um processo reflexivo a respeito da gestão de recursos e da participação coletiva.
-            </texto>
+            <texto>No </texto>
+            <negrito>grupo 3</negrito>
+            <texto>, projetaram uma casa e seu entorno. O grupo iniciou o trabalho sem planejamento. Aos poucos, com a iniciativa de alguns, foi surgindo uma “parede”, que consumiu quase todos os recursos que possuíam. Com a parede terminada, começaram a surgir os questionamentos: </texto>
+            <italico>“Ninguém mora em uma parede. Se tivesse construído mais fina dava pra mais coisas. Vamos começá de novo.”</italico>
+            <texto>O recomeço propiciou uma reflexão sobre planejamento de atividades que motivou a participação dos que ainda não haviam se manifestado. Nesse momento, tinham uma certeza: </texto>
+            <italico>“pelo menos uma casa tem que sair”</italico>
+            <texto>. O resultado foi a construção de uma casa, uma fossa séptica, um curral e um paiol, com o trabalho conjunto de mulheres e homens em um processo reflexivo a respeito da gestão de recursos e da participação coletiva.</texto>
         </paragrafo>
         <paragrafo>
-            <texto>
-                No grupo 4, fizeram uma maquete reproduzindo uma propriedade rural. O trabalho começou sem planejamento, com um dos assentados construindo uma casa. Depois, cada integrante se empenhou a fazer o que desejava, o que caracterizou um trabalho mais individual do que coletivo, porém dentro de uma só ideia: construir uma fazenda. O grupo trabalhou de forma criativa e habilidosa na construção das seguintes “benfeitorias”: cerca, mata-burro, casa, fogão a lenha, “reserva” de lenha, chiqueiro, galinheiro, curral com coberta para bezerros, pasto, culturas, área de reserva ambiental, poste de energia elétrica e antena de televisão. O grupo não demonstrou dificuldades de trabalhar com o número reduzido de materiais, conseguindo aproveitar bem o que foi oferecido. Depois de construída a infraestrutura básica, deram continuidade à invenção através do desdobramento do material, dividindo a madeira e melhorando a maquete. Em conversa com os integrantes do grupo, foi possível identificar que eles tinham idealizado esse tipo de estabelecimento. Reproduziram na maquete os elementos constituintes de uma propriedade rural por onde provavelmente passaram e com a qual se identificaram. Tais elementos eram familiares ao grupo e representá-los foi uma atividade prazerosa.
-            </texto>
+            <texto>No </texto>
+            <negrito>grupo 4</negrito>
+            <texto>, fizeram uma maquete reproduzindo uma propriedade rural. O trabalho começou sem planejamento, com um dos assentados construindo uma casa. Depois, cada integrante se empenhou a fazer o que desejava, o que caracterizou um trabalho mais individual do que coletivo, porém dentro de uma só ideia: construir uma fazenda. O grupo trabalhou de forma criativa e habilidosa na construção das seguintes “benfeitorias”: cerca, mata-burro, casa, fogão a lenha, “reserva” de lenha, chiqueiro, galinheiro, curral com coberta para bezerros, pasto, culturas, área de reserva ambiental, poste de energia elétrica e antena de televisão. O grupo não demonstrou dificuldades de trabalhar com o número reduzido de materiais, conseguindo aproveitar bem o que foi oferecido. Depois de construída a infraestrutura básica, deram continuidade à invenção através do desdobramento do material, dividindo a madeira e melhorando a maquete. Em conversa com os integrantes do grupo, foi possível identificar que eles tinham idealizado esse tipo de estabelecimento. Reproduziram na maquete os elementos constituintes de uma propriedade rural por onde provavelmente passaram e com a qual se identificaram. Tais elementos eram familiares ao grupo e representá-los foi uma atividade prazerosa.</texto>
         </paragrafo>
         <paragrafo>
             <texto>
@@ -4378,6 +6372,463 @@
                 No caso do assentamento Cachoeira, utilizou-se a matriz realidade e objetivo, no âmbito do Plano de Desenvolvimento do Assentamento (PDA), com 18 assentados (3 mulheres e 15 homens). O objetivo da realização da técnica matriz realidade e objetivo foi provocar a discussão coletiva sobre os principais problemas da área social e da área de produção. Para cada problema apresentado por eles, foram discutidas, detalhadamente as suas causas e indicados os respectivos objetivos. Em seguida, foram discutidos e apresentados os caminhos possíveis para atingir os objetivos, atribuindo-se responsabilidades para cada instituição e pessoa envolvidas no Plano. Os resultados obtidos com essa técnica encontram-se nos Quadros 11 e 12.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 11 – Matriz realidade e objetivo do assentamento Cachoeira – área social</texto>
+        </paragrafo>
+        
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>CAUSAS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>PROBLEMAS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>CAMINHO</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>OBJETIVO</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Depende da estrada e da construção das casas; falta de dinheiro para ir ao INCRA, em Brasília, DF.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1. Falta de energia elétrica.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Reivindicar no INCRA.  </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Todas as casas iluminadas.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta do repasse de recursos do INCRA para a prefeitura de Uruana (cerca de 3,7 km de estrada e mais 100m em cada lote).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2.Falta a construção da estrada traçada no mapa.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Reivindicar no INCRA.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Estrada completa.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Veículo antigo, em péssimas condições.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3. Transporte escolar precário para o distrito de Garapuava. </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Mobilização dos pais das crianças transportadas com abaixo assinado à secretaria de educação de Unaí solicitando a mudança de veículo.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ônibus novo para melhorar a condução das crianças.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Queimadas, desmatamentos, irrigação utilizada pelos vizinhos, estradas, moradias, lixo na vereda, falta de conscientização, água insuficiente para abastecer todas as famílias do assentamento e da vizinhança, falta de recursos financeiros.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>4. Água:</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                a) diminuição ano a ano;
+                            </texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                b) não é suficiente para o gado;
+                            </texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                c) dificuldade de levar água até as moradias.
+                            </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Cobrar e reivindicar da prefeitura de Uruanã e do INCRA a instalação de um poço artesiano.</texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                Preservar as veredas.
+                            </texto>
+                        </paragrafo>
+                        <paragrafo>
+                            <texto>
+                                Cobrar do IEF palestras, cursos e fiscalização na região.
+                            </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Instalação de um poço artesiano.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta médico, remédios e visita programada do agente de saúde no assentamento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>5. Atendimento médico.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Capacitar Dona Helena para atuar como agente de saúde dentro do assentamento e preparar alguns jovens voluntários para ajudar.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Agente de saúde atuando dentro do assentamento (Dona Helena). Atendimento médico e odontológico uma vez por mês.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de conhecimento sobre o modo de produção no cerrado.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>6. Falta de capacitação em algumas áreas de produção.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Levantar os cursos a serem feitos com o número de interessados e encaminhar às instituições como EMATER e universidades.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Cursos de capacitação oferecidos pela EMBRAPA, EMATER, UNIVERSIDADE.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de oportunidade e de cobrança dos pais.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>7. Analfabetismo.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Fazer uma lista de interessados para a equipe do PDA encaminhar ao PRONERA (UnB).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ter um professor no assentamento que poderia atender a região.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+
+            </corpo>
+            
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2002, p. 46)</texto>
+        </paragrafo>
+        
+        
+        
+        <paragrafo estilo="centralizado">
+            <texto>Quadro 12 – Matriz realidade e objetivo do assentamento Cachoeira – área de produção</texto>
+        </paragrafo>
+        <tabela estilo="tabela_verde_divisao_branca">
+            <cabecalho>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>CAUSAS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>PROBLEMAS</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>CAMINHO</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>OBJETIVO</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+            </cabecalho>
+            <corpo>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de documentação; erro na medição, liberação da carta de anuência; falta memorial descritivo; falta de informação.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>1. Falta de licença para desmatamento em 7 lotes.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Procurar informações no IEF de Uruana ou Unaí.  </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Desmatar para produzir.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta do PDA.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>2. Falta de recursos financeiros.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Conclusão do PDA e encaminhamentos ao INCRA.  </texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Compra de insumos.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Comunicação; cobrar do técnico um planejamento.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>3. Assistência técnica.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Planejamento antes dos créditos.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Orientação na hora certa; orientação para a nossa realidade (cerrado e pequeno produtor).</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de recursos financeiros (PRONAF); não houve acordo entre os assentados em relação as benfeitorias da reserva.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>4. Falta de cerca.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Crédito e levantamento das benfeitorias existentes na fazenda para fazer a divisão.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Cercar as parcelas.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de recursos para formar pastagens.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>5. Falta de pastagens.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Orientação técnica.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ter os pastos formados.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de recursos.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>6. Falta de sementes, adubos e calcários.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Através do técnico e da EMBRAPA.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Ter conhecimento das sementes (variedades).</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de pasto e cerca.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>7. Falta de matrizes de suínos e bovinos.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Orientação técnica; e recursos do PRONAF.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Comprar as matrizes e os reprodutores.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de recursos financeiros.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>8. Transporte interno.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Comprar carroça (Riachinho, 700 reais sem cavalo e 1.000 reais com cavalo).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Uma carroça para cada família.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                <linha>
+                    <celula>
+                        <paragrafo>
+                            <texto>Falta de recursos financeiros.</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>9. Falta maquinário (triturador).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Comprar (recursos próprios).</texto>
+                        </paragrafo>
+                    </celula>
+                    <celula>
+                        <paragrafo>
+                            <texto>Adquirir um triturador com motor.</texto>
+                        </paragrafo>
+                    </celula>
+                </linha>
+                
+            </corpo>
+        </tabela>
+        
+        <paragrafo estilo="centralizado">
+            <texto>Fonte: Pereira et al. (2002, p. 46)</texto>
+        </paragrafo>
+
+
 
 
         <paragrafo>

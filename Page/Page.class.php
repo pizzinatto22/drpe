@@ -43,6 +43,10 @@ class Page extends GeneralContent {
                 case "chamada":
                     $e = new Call($child);
                     break;
+                
+                case "grafico":
+                    $e = new Chart($child);
+                    break;
 
                 case "imagem":
                     $e = new Image($child);

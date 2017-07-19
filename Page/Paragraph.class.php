@@ -41,6 +41,10 @@ class Paragraph extends GeneralContent {
                     $html .= (new Bold($child))->html();
                     break;
                 
+                case "superescrito":
+                    $html .= (new Superscript($child))->html();
+                    break;
+                
                 case "textodestaque":
                     $html .= (new Text($child))->html();
                     break;

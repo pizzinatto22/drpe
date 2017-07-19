@@ -5,6 +5,8 @@ namespace Page;
 class TableCell extends GeneralContent{
     public function __construct($element) {
         parent::__construct("td", "", $element);
+        $this->addAttribute("colspan", $element->getAttribute('colspan'));
+        $this->addAttribute("rowspan", $element->getAttribute('rowspan'));
     }
     
     public function text() {

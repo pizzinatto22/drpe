@@ -245,6 +245,12 @@ body {
     font-size: 40px;
 }
 
+.chamada.box_verde {
+    color: white;
+    background-color: rgb(80, 137, 127);
+    padding: 32px;
+}
+
 
 
 .citacao {
@@ -322,6 +328,13 @@ body {
 .paragrafo.avaliacao {
     text-indent: 0;
     color: rgb(79, 136, 126);
+}
+
+.nota_tabela_verde {
+    color: white;
+    text-indent: 0;
+    background-color: rgb(80, 137, 127);
+    padding: 15px;
 }
 
 .paragrafo .verde {
@@ -476,6 +489,20 @@ body {
 .tabela_verde table thead tr {
     background-color: rgb(80, 137, 127);
     color: white;
+}
+
+.tabela_verde_divisao_branca table tbody td {
+    border: 5px solid rgb(80, 137, 127);
+    vertical-align: top;
+}
+
+.tabela_verde_divisao_branca table thead tr {
+    background-color: rgb(80, 137, 127);
+    color: white;
+}
+
+.tabela_verde_divisao_branca table thead td {
+    border: 5px solid white;
 }
 
 
