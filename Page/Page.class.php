@@ -32,6 +32,10 @@ class Page extends GeneralContent {
 
             $e = null;
             switch ($child->localName) {
+                case "acordeao":
+                    $e = new Accordion($child);
+                    break;
+                
                 case "capitulo":
                     $e = new Chapter($child);
                     break;

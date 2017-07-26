@@ -7,8 +7,9 @@ body {
 
 .pagina_container {
     display: block;
-    margin-left: 16px;
-    margin-right: 16px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 20px;
     
     background-color: white;
@@ -28,6 +29,10 @@ body {
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 0;
+}
+
+.pagina_capa1 .anchora {
+    display: none;
 }
 
 .pagina_agradecimento {
@@ -663,6 +668,119 @@ body {
 
 .menu-link:ACTIVE {
     background-color: #111;
+}
+
+
+/**** Accordion *****/
+.accordion .arrow,
+.accordion .title,
+.accordion .title *{
+    cursor: pointer;                
+}
+
+.accordion .item {
+    -webkit-border-radius: 8px;
+}
+
+.accordion .item:nth-child(odd) {
+    background-color: rgb(104, 75, 75);
+}
+
+.accordion .item:nth-child(even) {
+    background-color: rgb(189, 108, 22);
+}            
+
+.accordion .item .title {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.accordion .arrow {
+    margin-left: auto;
+    margin-right: auto;
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+}
+
+.accordion .item:nth-child(odd) .arrow {
+    border-top: 20px solid rgb(189, 108, 22);
+}
+
+.accordion .item:nth-child(even) .arrow {
+    border-top: 20px solid rgb(104, 75, 75);
+}
+
+.accordion .number,
+.accordion .sign,
+.accordion button,
+.accordion .panel p,
+.accordion .panel li {
+    color: white;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    line-height: 40px;
+
+}
+
+.accordion .panel p,
+.accordion .panel li {
+    font-size: 20px;
+}
+
+.accordion button {
+    background-color: inherit;
+    padding: 18px;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.accordion .number {
+    float: left;
+    width: 50px;
+    text-align: left;
+    padding-left: 5px;
+    padding-top: 18px;
+    margin: 0 auto;
+}
+
+.accordion .sign {
+    float: right;
+    width: 50px;
+    text-align: right;
+    padding-right: 5px;
+    padding-top: 18px;
+    margin: 0 auto;
+}
+
+.accordion .sign:before {
+    content: '+';
+}
+
+.accordion .item.active .sign:before {
+    content: '-';
+}
+
+.accordion .panel {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.accordion ul {
+    list-style-type: lower-alpha;
+}
+
+.accordion .panel p{
+    text-align: center;
 }
 
 /**** Youtube Videos ****/

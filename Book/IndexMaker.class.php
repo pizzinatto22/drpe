@@ -40,7 +40,7 @@ class IndexMaker {
 
                     $html .= "<div class='indice_coluna'>";
                     $html .= "<div class='indice_primeiro_nivel_pagina_container'>";
-                    $html .= "   <span class='indice_primeiro_nivel_pagina' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"\")'>$entry->description</span>";
+                    $html .= "   <span class='indice_primeiro_nivel_pagina' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"" . $entry->getAttribute("id") ."\")'>$entry->description</span>";
                     //$html .= "   <hr class='indice_primeiro_nivel_linha'>";
                     $html .= "</div>";
 
@@ -48,13 +48,9 @@ class IndexMaker {
                     //$html .= "<span class='indice_primeiro_nivel_descricao' onclick='gotoPage($pageNumber)'>$entry->description ..... $pageNumber</span>";
 
                     break;
-
-                case 4:
-                    $html .= "<span class='indice_" . $entry->level . "_nivel_descricao' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"" . $entry->getAttribute("id") ."\")'>$entry->description</span>";
-                    break;
                 
                 default:
-                    $html .= "<span class='indice_" . $entry->level . "_nivel_descricao' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"\")'>$entry->description</span>";
+                    $html .= "<span class='indice_" . $entry->level . "_nivel_descricao' onclick='gotoPage(" . $entry->pageNumber->id() . ",\"" . $entry->getAttribute("id") ."\")'>$entry->description</span>";
                     break;
             }
         }

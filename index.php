@@ -1,6 +1,7 @@
 <?php
+header("Content-Type:text/html; charset=UTF-8");
 spl_autoload_register(function ($class_name) {
-    $class_name = strtolower(str_replace('\\', DIRECTORY_SEPARATOR, $class_name));
+    $class_name = str_replace('\\', DIRECTORY_SEPARATOR, $class_name);
     include $class_name . '.class.php';
 });
 
@@ -26,6 +27,7 @@ $html = $book->all();
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script src="book.js"></script>
+        <script src="accordion.js"></script>
         <script src="jquery.touchwipe.1.1.1.js"></script>
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
         <script>

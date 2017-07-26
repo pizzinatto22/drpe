@@ -1,5 +1,12 @@
 var expandedTables = {};
 
+var VIEWMODES = Object.freeze({
+         PAGED: 1, 
+    CONTINUOUS: 2
+});
+
+var currentViewMode = VIEWMODES.PAGED;
+
 document.onkeydown = function(e) {
     switch (e.keyCode) {
         case 37:
@@ -66,7 +73,7 @@ function openPopup(id) {
 }
 
 function changeFontSize(amount) {
-    jQuery(".capitulo, .titulo, .secao, .paragrafo, .citacao").each(function (){
+    jQuery(".capitulo, .titulo, .secao, .paragrafo, .citacao, .subsecao, .subsubsecao, .itemlista  ").each(function (){
         var e = jQuery(this);
         var actual = parseInt(e.css("font-size"));
         var total = actual + amount;
@@ -81,24 +88,22 @@ function changeFontSize(amount) {
 }
 
 function switchPage(current, next, anchor) {
-    if (next.length) {
+    if (currentViewMode == VIEWMODES.PAGED && next.length) {
         current.fadeOut("fast", function() {
+            //após terminar o fadeOut, adiciona a classe de inativo
             current.removeClass("ativo").addClass("inativo");
             
-            //quando nõa há necessidade de rolar para o meio da pagina, antecipa
-            if (!anchor || !anchor.length) {
-                window.scrollTo(0, 0);
-            }
+            //mas como o fade trabalha com o atributo style do elemento,
+            //no término fica com style="display: none".
+            //Removo esse display, pois a classe .inativo já faz isso
+            current.css({"display" : ""});
             
+           
             next.fadeIn("slow", function(){
                 next.removeClass("inativo").addClass("ativo");
                 
                 //quando precisa rolar, faz após aparecer a página
-                if (anchor && anchor.length) {
-                    jQuery('html, body').animate({
-                        scrollTop: (anchor.prev().offset().top - jQuery(".menu").height())
-                    }, 50);
-                }
+                gotoAnchor(anchor);
                 
             });
         });
@@ -119,24 +124,40 @@ function changePage(direction) {
 }
 
 function gotoPage(number, anchor) {
-    var page = jQuery("#page_" + number);
-    var current = jQuery(".pagina.ativo");
-    
     //closing index
     var modal = jQuery("#MAIN_INDEX");
     modal.fadeOut("fast");
-    
+
     //finding anchor
     var anchor = jQuery("#" + anchor);
-    
-    //swi
-    switchPage(current, page, anchor);
+
+    if (currentViewMode == VIEWMODES.PAGED) {
+        var page = jQuery("#page_" + number);
+        var current = jQuery(".pagina.ativo");
+        
+        //swi
+        switchPage(current, page, anchor);
+    } else {
+        gotoAnchor(anchor);
+    }
+}
+
+function gotoAnchor(anchor) {
+    if (anchor && anchor.length) {
+        jQuery('html, body').animate({
+            scrollTop: (anchor.prev().offset().top - jQuery(".menu").height())
+        }, 50);
+    } else {
+        window.scrollTo(0, 0);
+    }
 }
 
 function switchContinuousView() {
     var button = jQuery("#continuous_button");
     
-    if (button.html() == "|||") {
+    if (currentViewMode == VIEWMODES.PAGED) {
+        currentViewMode = VIEWMODES.CONTINUOUS;
+        
         button.html("|");
         
         jQuery(".pagina.inativo").each(function(){
@@ -145,6 +166,7 @@ function switchContinuousView() {
         });
         
     } else {
+        currentViewMode = VIEWMODES.PAGED;
         button.html("|||");
         
         jQuery(".pagina.continuo").each(function(){
@@ -170,5 +192,18 @@ function toggleTable(table) {
         jQuery("#table_" + table).width(w*2);
         
         jQuery("#table_control_img_" + table).attr("src", "images/collapse.png");
+    }
+}
+
+function isElementInView (element, fullyInView) {
+    var pageTop = $(window).scrollTop();
+    var pageBottom = pageTop + $(window).height();
+    var elementTop = $(element).offset().top;
+    var elementBottom = elementTop + $(element).height();
+
+    if (fullyInView === true) {
+        return ((pageTop < elementTop) && (pageBottom > elementBottom));
+    } else {
+        return ((elementTop <= pageBottom) && (elementBottom >= pageTop));
     }
 }

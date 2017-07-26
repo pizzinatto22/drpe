@@ -39,7 +39,7 @@
                 if (config.preventDefaultEvents) {
                     e.preventDefault();
                 }
-                if (isMoving && (config.excludedElements == "" || $(e.target).closest(config.excludedElements).length == 0)) {
+                if (isMoving && e.touches.length == 1 && (config.excludedElements == "" || $(e.target).closest(config.excludedElements).length == 0)) {
                     var x = e.touches[0].pageX;
                     var y = e.touches[0].pageY;
                     var dx = startX - x;
