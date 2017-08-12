@@ -5,7 +5,7 @@ namespace Page;
 class SimpleHTML extends GeneralContent {
 
     public function text() {
-        return $this->element()->nodeValue;
+        return $this->nobr($this->element()->nodeValue);
     }
 
 }

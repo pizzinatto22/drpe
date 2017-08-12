@@ -51,7 +51,7 @@ class Paragraph extends GeneralContent {
 
 
                 case "texto":
-                    $html .= "$v";
+                    $html .= $this->nobr($v);
                     break;
             }
         }

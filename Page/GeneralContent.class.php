@@ -64,4 +64,9 @@ abstract class GeneralContent {
         $tag = $this->tag;
         return "<$tag $attributes>$text" .($this->useClosingTag ? "</$tag>" : "");
     }
+    
+    public function nobr($text) {
+        $regex ="/(\b|[áéíóúâêîôûãõç])(\w|[áéíóúâêîôûãõç])+[-](\w|[áéíóúâêîôûãõç])+([-](\w|[áéíóúâêîôûãõç])+)*\b/i";
+        return preg_replace($regex, "<span class='nobr'>$0</span>", $text);
+    }
 }

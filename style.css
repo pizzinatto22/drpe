@@ -91,6 +91,10 @@ body {
     
 }
 
+.nobr {
+    white-space: nowrap;
+}
+
 .paragrafo,
 .itemlista,
 .chamada, 
