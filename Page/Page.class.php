@@ -43,6 +43,10 @@ class Page extends GeneralContent {
                 case "citacao":
                     $e = new Citation($child);
                     break;
+
+                case "citacao2":
+                    $e = new Citation2($child);
+                    break;
                 
                 case "chamada":
                     $e = new Call($child);

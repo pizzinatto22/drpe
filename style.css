@@ -97,12 +97,18 @@ body {
 
 .paragrafo,
 .itemlista,
-.chamada, 
-.citacao {
+.chamada {
     font-size: 25px;
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
     line-height: 40px;
+}
+
+.citacao {
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    line-height: 35px;    
 }
 
 .capitulo{
@@ -246,6 +252,11 @@ body {
     padding-top: 25px;
 }
 
+.chamada.destaque_verde .paragrafo,
+.chamada.destaque .paragrafo {
+    padding-top: 0;
+}
+
 .chamada.aprofundando .paragrafo,
 .chamada.dicaleitura .paragrafo,
 .chamada.glossario .paragrafo,
@@ -258,6 +269,14 @@ body {
     color: white;
     background-color: rgb(80, 137, 127);
     padding: 32px;
+}
+
+.chamada.box_verde .paragrafo {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    line-height: 32px;
+
 }
 
 
@@ -330,8 +349,21 @@ body {
     text-align: right;
 }
 
-.paragrafo.centralizado {
+.paragrafo.elementos_titulo,
+.paragrafo.elementos_rodape{
     text-align: center;
+    text-indent: 0;
+    font-size: 22px;
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 35px;
+}
+
+.paragrafo.elementos_titulo {
+    margin-bottom: 0;
+}
+.paragrafo.elementos_rodape {
+    margin-top: 0;
 }
 
 .paragrafo.avaliacao {
@@ -339,7 +371,15 @@ body {
     color: rgb(79, 136, 126);
 }
 
+.paragrafo.referencias {
+    text-indent: 0;
+    text-align: left;
+    line-height: 35px;
+}
+
 .nota_tabela_verde {
+    font-size: 20px;
+    line-height: 32px;
     color: white;
     text-indent: 0;
     background-color: rgb(80, 137, 127);
@@ -428,8 +468,8 @@ body {
 /***** TABELA *******/
 
 .tabela_container {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .tabela_container .controls {
@@ -443,31 +483,43 @@ body {
 
 
 .tabela {
-    overflow-x: auto;
 }
 
 .tabela table {
     border-collapse: collapse;
+    width: 100%;
+    overflow: visible;
 }
 
 .tabela td {
-    padding: 5px;
+    padding: 3px;
     border-collapse: collapse;
 }
 
 .tabela thead .paragrafo {
     text-indent: 0;
     text-align: center;
+    font-size: 12px;
+    line-height: 19px;
 }
 
 .tabela tbody .paragrafo {
     text-indent: 0;
     text-align: left;
+    font-size: 12px;
+    line-height: 19px;
+}
+
+.tabela .listaordenada {
+    padding-left: 5px;
+    list-style-position: inside;
 }
 
 .tabela .itemlista  {
     margin-left: 0;
     margin-top: 0;
+    font-size: 12px;
+    line-height: 19px;
 }
 
 .tabela .topo {
@@ -475,7 +527,7 @@ body {
 }
 
 .tabela_marrom table td {
-    border: 5px solid rgb(185, 109, 23);
+    border: 3px solid rgb(185, 109, 23);
 }
 
 .tabela_marrom table thead tr {
@@ -488,11 +540,11 @@ body {
 }
 
 .tabela_rosa table td {
-    border: 5px solid rgb(275, 173, 163);
+    border: 3px solid rgb(275, 173, 163);
 }
 
 .tabela_verde table td {
-    border: 5px solid rgb(80, 137, 127);
+    border: 3px solid rgb(80, 137, 127);
 }
 
 .tabela_verde table thead tr {
@@ -501,7 +553,7 @@ body {
 }
 
 .tabela_verde_divisao_branca table tbody td {
-    border: 5px solid rgb(80, 137, 127);
+    border: 3px solid rgb(80, 137, 127);
     vertical-align: top;
 }
 
@@ -511,8 +563,21 @@ body {
 }
 
 .tabela_verde_divisao_branca table thead td {
-    border: 5px solid white;
+    border: 3px solid white;
 }
+
+.tabela_verde_divisao_branca table thead tr:first-child td {
+    border-top-color: rgb(80, 137, 127);
+}
+
+.tabela_verde_divisao_branca table thead tr td:first-child {
+    border-left-color: rgb(80, 137, 127);
+}
+
+.tabela_verde_divisao_branca table thead tr td:last-child {
+    border-right-color: rgb(80, 137, 127);
+}
+
 
 
 .tabela_educacao_bancaria td,
@@ -524,6 +589,15 @@ body {
 .tabela_temas_geradores .itemlista {
     color: rgb(87, 87, 86);
 }
+
+
+.modal-table .tabela thead .paragrafo,
+.modal-table .tabela tbody .paragrafo,
+.modal-table .tabela .itemlista {
+    font-size: 25px;
+    line-height: 35px;
+}
+
 
 
 /****** The Modal (background) ******/
@@ -579,7 +653,20 @@ body {
     text-decoration: none;
     cursor: pointer;
 }
+.modal-content .modal-table {
+    clear: both;
+    margin-top: 5px;
+}
 
+.modal-increase {
+    width: 60px;
+    cursor: pointer;
+}
+.modal-decrease {
+    width: 60px;
+    cursor: pointer;
+    margin-left: 50px;
+}
 /******** Indice ****/
 .indice_sumario {
     display: block;
@@ -676,6 +763,12 @@ body {
 
 
 /**** Accordion *****/
+
+.accordion {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
 .accordion .arrow,
 .accordion .title,
 .accordion .title *{
@@ -737,12 +830,13 @@ body {
 
 .accordion button {
     background-color: inherit;
-    padding: 18px;
     border: none;
     outline: none;
     transition: 0.4s;
     text-align: center;
-    margin: 0 auto;
+    width: 75%;
+    margin: 0;
+    padding: 18px 0 18px 0;
     font-weight: bold;
 }
 

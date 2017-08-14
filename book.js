@@ -1,5 +1,3 @@
-var expandedTables = {};
-
 var VIEWMODES = Object.freeze({
          PAGED: 1, 
     CONTINUOUS: 2
@@ -72,16 +70,33 @@ function openPopup(id) {
 	
 }
 
-function changeFontSize(amount) {
-    jQuery(".capitulo, .titulo, .secao, .paragrafo, .citacao, .subsecao, .subsubsecao, .itemlista  ").each(function (){
+function changeFontSize(amount, parent="") {
+    jQuery(
+            parent + " .capitulo," +
+            parent + " .titulo," +
+            parent + " .secao," +
+            parent + " .paragrafo," +
+            parent + " .citacao," +
+            parent + " .subsecao," +
+            parent + " .subsubsecao," +
+            parent + " .itemlista"
+         ).each(function (){
+             
         var e = jQuery(this);
         var actual = parseInt(e.css("font-size"));
         var total = actual + amount;
         
-        e.css({
-            'font-size': total + "px", 
-            'line-height': (total * 1.618) + "px",
-        }); //use golden rate
+        if (amount)
+            e.css({
+                'font-size': total + "px", 
+                'line-height': (total * 1.618) + "px",
+            }); //use golden rate
+        else
+            e.css({
+                'font-size': '', 
+                'line-height': '',
+            });
+            
     });
 
 	
@@ -178,21 +193,23 @@ function switchContinuousView() {
 }
 
 function toggleTable(table) {
+    var clone = jQuery("#tabela_container_" + table).clone();
     
-    if (expandedTables["table_" + table]) {
-        expandedTables["table_" + table] = false;
-        
-        jQuery("#table_" + table).width("100%");
-        jQuery("#table_control_img_" + table).attr("src", "images/expand.png");
+    clone.find(".controls").remove();
+    
+    jQuery("#POPUP_TABLES .modal-content .modal-table").html(clone);
+    
+    changeFontSize(0, "#POPUP_TABLES");
+    
+    openPopup("POPUP_TABLES");
+}
 
-    } else {
-        expandedTables["table_" + table] = true;
-        
-        var w = jQuery("#table_" + table).width();
-        jQuery("#table_" + table).width(w*2);
-        
-        jQuery("#table_control_img_" + table).attr("src", "images/collapse.png");
-    }
+function changeTableSize(amount) {
+    
+    changeFontSize(amount, "#POPUP_TABLES");
+    
+    var w = jQuery("#POPUP_TABLES table").width();
+    jQuery("#POPUP_TABLES table").width(w + amount*10);
 }
 
 function isElementInView (element, fullyInView) {
