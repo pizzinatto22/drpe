@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Permanent+Marker|Julius+Sans+One');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Permanent+Marker|Julius+Sans+One|Merriweather+Sans');
 
 body {
     margin: 0;
@@ -291,6 +291,24 @@ body {
     width: 100%;
 }
 
+.imagem.imagem60 {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagem.imagem50 {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagem.com_aumento {
+    cursor: pointer;
+}
+
 .marcador_lista {
     padding-left: 2%;
     padding-right: 5px;
@@ -344,11 +362,6 @@ body {
     margin-top: 1em;
 }
 
-
-.paragrafo.texto_direita {
-    text-align: right;
-}
-
 .paragrafo.elementos_titulo,
 .paragrafo.elementos_rodape{
     text-align: center;
@@ -366,9 +379,19 @@ body {
     margin-top: 0;
 }
 
-.paragrafo.avaliacao {
+.paragrafo.avaliacao_esquerda {
     text-indent: 0;
     color: rgb(79, 136, 126);
+    text-align: left;
+    margin-right: 15%;
+}
+
+.paragrafo.avaliacao_direita {
+    text-align: right;
+    text-indent: 0;
+    color: rgb(79, 136, 126);
+    margin-left: 15%;
+
 }
 
 .paragrafo.referencias {
@@ -404,7 +427,7 @@ body {
 
 .subsecao {
     display: block;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 30px;
     font-family: 'Julius Sans One', sans-serif;
     color: rgb(152, 72, 6);
@@ -419,7 +442,7 @@ body {
     display: block;
     font-weight: bold;
     font-size: 25px;
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     margin-top: 1em;
     margin-top: 1em;
     padding-right: 0.5em;
@@ -438,6 +461,12 @@ body {
 .link,
 .link:visited {
     color: rgb(185, 109, 21);
+}
+
+.link.verde,
+.link.verde:visited {
+    color: rgb(72, 165, 100);
+    text-decoration: none;
 }
 
 .openpopup {
@@ -617,9 +646,9 @@ body {
 /* Modal Content/Box */
 .modal-content-index,
 .modal-content {
-    margin: 15% auto; /* 15% from the top and centered */
+    margin: 3% auto 0 auto; /* 15% from the top and centered */
     padding: 20px;
-    width: 80%; /* Could be more or less, depending on screen size */
+    width: 90%; /* Could be more or less, depending on screen size */
     
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
@@ -656,6 +685,12 @@ body {
 .modal-content .modal-table {
     clear: both;
     margin-top: 5px;
+}
+
+.modal-content .modal-image {
+    width: 200%;    
+    clear: both;
+    display: block;
 }
 
 .modal-increase {
@@ -864,6 +899,13 @@ body {
 
 .accordion .item.active .sign:before {
     content: '-';
+}
+
+.accordion .empty .title *{
+    cursor: default;
+}
+.accordion .empty .sign:before {
+    content: '';
 }
 
 .accordion .panel {

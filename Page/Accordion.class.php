@@ -9,7 +9,7 @@ class Accordion extends SimpleHTML{
     
     public function text() {
         //TODO remover e colocar no XML
-        return '<div class="item">
+        return '<div class="item empty">
                 <div class="title">
                     <p class="number">01.</p>
                     <p class="sign"></p>
@@ -35,7 +35,7 @@ class Accordion extends SimpleHTML{
                 </div>
             </div>
 
-            <div class="item">
+            <div class="item empty">
                 <div class="arrow"></div>
                 
                 <div class="title">
@@ -62,7 +62,7 @@ class Accordion extends SimpleHTML{
                 </div>
             </div>
 
-            <div class="item">
+            <div class="item empty">
                 <div class="arrow"></div>
                 
                 <div class="title">
@@ -75,7 +75,7 @@ class Accordion extends SimpleHTML{
                 </div>
             </div>
             
-            <div class="item">
+            <div class="item empty">
                 <div class="arrow"></div>
                 
                 <div class="title">
@@ -139,7 +139,7 @@ class Accordion extends SimpleHTML{
                 </div>
             </div>
             
-            <div class="item">
+            <div class="item empty">
                 <div class="arrow"></div>
                 <div class="title">
                     <p class="number">10.</p>
@@ -151,7 +151,7 @@ class Accordion extends SimpleHTML{
                 </div>
             </div>
             
-            <div class="item">
+            <div class="item empty">
                 <div class="arrow"></div>
                 <div class="title">
                     <p class="number">11.</p>

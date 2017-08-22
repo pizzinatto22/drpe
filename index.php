@@ -24,10 +24,13 @@ $html = $book->all();
         <title><?= $book->title()?></title>
         <link rel="stylesheet" type="text/css" href="normalize.css">
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="gallery.css">
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script src="book.js"></script>
         <script src="accordion.js"></script>
+        <script src="pan.js"></script>
+        <script src="gallery.js"></script>
         <script src="jquery.touchwipe.1.1.1.js"></script>
         <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
         <script>

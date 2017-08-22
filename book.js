@@ -204,12 +204,26 @@ function toggleTable(table) {
     openPopup("POPUP_TABLES");
 }
 
+function openPopupImage(image, size) {
+    jQuery("#POPUP_IMAGES #modal-image").attr("src", image);
+
+    jQuery("#POPUP_IMAGES #modal-image").css("width", size);
+    
+    openPopup("POPUP_IMAGES");
+}
+
 function changeTableSize(amount) {
     
     changeFontSize(amount, "#POPUP_TABLES");
     
     var w = jQuery("#POPUP_TABLES table").width();
     jQuery("#POPUP_TABLES table").width(w + amount*10);
+}
+
+function changePopupImageSize(amount){
+    var w = jQuery("#POPUP_IMAGES #modal-image").width();
+    jQuery("#POPUP_IMAGES #modal-image").width(w + amount);
+    
 }
 
 function isElementInView (element, fullyInView) {

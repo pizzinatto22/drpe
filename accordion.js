@@ -1,5 +1,5 @@
 jQuery(function(){ 
-    jQuery(".accordion .item").click(function () {
+    jQuery(".accordion .item").not(".empty").click(function () {
         var e = jQuery(this);
         e.toggleClass("active");
 

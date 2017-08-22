@@ -52,6 +52,10 @@ class Page extends GeneralContent {
                     $e = new Call($child);
                     break;
                 
+                case "galeria":
+                    $e = new Gallery($child);
+                    break;
+                
                 case "grafico":
                     $e = new Chart($child);
                     break;

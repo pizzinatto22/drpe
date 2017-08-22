@@ -20,7 +20,11 @@
         <numero>4</numero>
         <imagem url="images/capa3.png" />
     </pagina>
-
+    
+    <pagina estilo="pagina_capa3">
+        <numero>5</numero>
+        <imagem url="images/navegar.png" maior="images/navegar-original.png" tamanhoMaior="100%"/>
+    </pagina>
     
     
     <!-- AGRADECIMENTOS -->
@@ -467,7 +471,7 @@
             <texto> 
                 No quarto contexto de análise, o método DRPE foi utilizado em cooperativa e associações comunitárias rurais, no âmbito de um projeto de extensão universitária. Com a 
             </texto>
-            <textodestaque estilo="verde">Cooperativa dos Cafeicultores e Agropecuaristas (COCAPEC)</textodestaque>
+            <link estilo="verde" url="http://portal.cocapec.com.br/">Cooperativa dos Cafeicultores e Agropecuaristas (COCAPEC)</link>
             <texto>, sediada no município de Franca, estado de São Paulo, o DRPE foi utilizado em um processo de educação cooperativista, tendo como objetivo a organização do quadro social, em 2003. A área de atuação da cooperativa engloba os municípios de Claraval e Capetinga, no estado de Minas Gerais, e Pedregulho e Franca, no estado de São Paulo. O diagnóstico foi realizado com os associados localizados no município de Claraval a partir de um debate participativo em torno da realidade da comunidade, o que gerou mudanças na ação comunicativa desse grupo social diante da direção da cooperativa, levando os associados a assumir a postura de “cidadãos cooperativistas”. </texto>
         </paragrafo>
         <paragrafo>
@@ -479,7 +483,7 @@
             <texto> 
             Em 2004, uma rica experiência foi realizada com os atingidos pela construção da 
             </texto>
-            <textodestaque estilo="verde">usina hidrelétrica Risoleta Neves</textodestaque>
+            <link estilo="verde" url="http://www.candonga.com.br/responsabilidade-social/">usina hidrelétrica Risoleta Neves</link>
             <texto>, conhecida como barragem “Candonga”, nome do consórcio entre a antiga Companhia Vale do Rio Doce e a ALCAN. O diagnóstico participativo foi realizado nas comunidades de São Sebastião do Soberbo e Novo Soberbo, no município de Santa Cruz do Escalvado, estado de Minas Gerais, entre os dias 19 e 23 de janeiro de 2004. O objetivo principal da realização do DRPE foi levantar as demandas das famílias atingidas como ponto de partida para a realização de um planejamento participativo que contemplasse a reativação econômica da comunidade. A maioria das famílias atingidas participou de todas as etapas do processo do diagnóstico, por meio de técnicas que lhes possibilitaram expressar seus problemas, suas potencialidades e perspectivas em relação ao reassentamento. Pelos resultados obtidos, ficou clara a seriedade com que a comunidade desejava resolver seus problemas com o consórcio. A terra para reassentamento foi considerada prioritária pela coletividade porque, na avaliação das famílias envolvidas, seria um patrimônio que lhes daria segurança e sustentabilidade no longo prazo. No entanto, a partir da entrega do relatório ao prefeito municipal e à comunidade, o conflito se ampliou entre a comunidade atingida e o consórcio empresarial. O relatório do DRPE foi enviado para o Conselho de Direitos Humanos da Organização das Nações Unidas (ONU) e para o Ministério Público como prova de uma denúncia de desrespeito aos direitos humanos apresentada pelo Movimento dos Atingidos por Barragens (MAB). Esse conflito e a referência ao relatório DRPE foram noticiados em uma matéria publicada no </texto>
             <abrirpopup id="POPUP_JORNAL" estilo="dicaleitura">Jornal Folha de São Paulo</abrirpopup>
             <texto> em 2004. É importante observar o desdobramento político da publicação do relatório como documento em que se baseou a ação comunicativa e o engajamento cívico da comunidade no sentido de garantir o cumprimento dos seus direitos de cidadania. </texto>
@@ -488,7 +492,7 @@
             <texto> 
             O quinto contexto de experiência com o método DRPE foi realizado no âmbito da incubação de empreendimentos de economia solidária desenvolvida pela 
             </texto>
-            <textodestaque estilo="verde">Incubadora Tecnológica de Cooperativas Populares (INCUBACOOP)</textodestaque>
+            <link estilo="verde" url="http://www.incubacoop.ufla.br/">Incubadora Tecnológica de Cooperativas Populares (INCUBACOOP)</link>
             <texto>
                 da Universidade Federal de Lavras (UFLA), a partir de 2006. A INCUBACOOP-UFLA assumiu o DRPE como método oficial de incubação de empreendimentos de economia solidária, seja na forma de associação, seja de cooperativa. Em 2010, foi publicada uma cartilha em quadrinhos explicativa sobre o trabalho da INCUBACOOP, em que consta o DRPE como método de incubação, o qual constitui 
             </texto>
@@ -1012,8 +1016,10 @@
 
         <paragrafo>
             <texto>
-                A realização de um diagnóstico rápido participativo e com vistas à emancipação social deve se fundamentar teoricamente em dialogicidade e em uma ação comunicativa. O ato de diagnosticar, nesse sentido, promove os  conhecimentos e saberes de seus participantes por meio do encontro de professores e estudantes com uma comunidade rural, com uma associação ou com os membros de uma cooperativa. Esse encontro deve ser sempre mediatizado por uma linguagem que sustenta valores e promove o consenso por meio do diálogo, procurando um se colocar no lugar do outro para compreendê-lo em sua realidade. Dessa forma, o ato de diagnosticar é ao mesmo tempo um processo dialógico e uma ação comunicativa. Para Freire (1987), a comunicação é a essência de ser humano e a sua vocação ontológica é a de ser sujeito. Por isso, a palavra “emancipador” do DRPE revela o compromisso educativo dialógico desse método de diagnosticar a realidade social, pois “[...] não há palavra verdadeira que não seja práxis. Daí que dizer a palavra verdadeira seja transformar o mundo.” (FREIRE, 1987, p.&#160;77).
+                A realização de um diagnóstico rápido participativo e com vistas à emancipação social deve se fundamentar teoricamente em dialogicidade e em uma ação comunicativa. O ato de diagnosticar, nesse sentido, promove os  conhecimentos e saberes de seus participantes por meio do encontro de professores e estudantes com uma comunidade rural, com uma associação ou com os membros de uma cooperativa. Esse encontro deve ser sempre mediatizado por uma linguagem que sustenta valores e promove o consenso por meio do diálogo, procurando um se colocar no lugar do outro para compreendê-lo em sua realidade. Dessa forma, o ato de diagnosticar é ao mesmo tempo um processo dialógico e uma ação comunicativa. Para Freire (1987), a comunicação é a essência de ser humano e a sua vocação ontológica é a de ser sujeito. Por isso, a palavra “emancipador” do DRPE revela o compromisso educativo dialógico desse método de diagnosticar a realidade social, pois “[...] não há palavra verdadeira que não seja 
             </texto>
+            <italico>práxis</italico>
+            <texto>. Daí que dizer a palavra verdadeira seja transformar o mundo.” (FREIRE, 1987, p.&#160;77). </texto>
         </paragrafo>
         <paragrafo>
             <texto>
@@ -1071,9 +1077,13 @@
                 Habermas (2012b, p.&#160;221) considera que o agir comunicativo “[...] depende de um processo de interpretação cooperativo [...]” no contexto de uma “comunidade de intérprete” e, nesse sentido, diferencia “entendimento” de “acordo” ou “consenso”:
             </texto>
         </paragrafo>
-        <citacao>
-            'Entendimento' (Verständigung) significa a união dos participantes da comunicação sobre a validade de uma exteriorização; ao passo que ‘acordo’ ou ‘consenso’ (Einverständnis) tem a ver com o reconhecimento intersubjetivo da pretensão de validade que o falante une a uma exteriorização.
-        </citacao>
+        <citacao2>
+            <texto>'Entendimento' (</texto>
+            <italico>Verständigung</italico>
+            <texto>) significa a união dos participantes da comunicação sobre a validade de uma exteriorização; ao passo que ‘acordo’ ou ‘consenso’ (</texto>
+            <italico>Einverständnis</italico>
+            <texto>) tem a ver com o reconhecimento intersubjetivo da pretensão de validade que o falante une a uma exteriorização.</texto>
+        </citacao2>
         <paragrafo>
             <texto>
                 Em um exemplo apresentado por Habermas (2012b, p.&#160;222) sobre uma situação do agir comunicativo em um contexto de obras, os participantes da comunicação se defrontram, simultaneamente, com os mundos objetivo, subjetivo e social, mas com uma pré-interpretação desses mundos. Por isso, no processo de diagnóstico de uma dada realidade, tanto os agentes externos (equipe interdisciplinar) quanto os participantes devem buscar o entendimento e o consenso por meio do diálogo e da ação comunicativa. 
@@ -1694,7 +1704,13 @@
                 </paragrafo>    
             </chamada>
             <paragrafo>
-                <texto>A consciência crítica “[...] é a representação das coisas e dos fatos como se dão na existência empírica. Nas suas correlações causais e circunstanciais [...] A consciência ingênua (pelo contrário) se crê superior aos fatos, dominando-os de fora e, por isso, se julga livre para entendê-los conforme melhor lhe agradar [...] A consciência mágica, por outro lado, não chega a acreditar-se ‘superior aos fatos, dominando-as de fora, nem se julga livre para entendê-los como melhor lhe agradar’. Simplesmente os capta, emprestando-lhes um poder superior, que a domina de fora e a que tem, por isso mesmo, de submeter-se com docilidade. É próprio dessa consciência o fatalismo, que leva ao cruzamento dos braços, à impossibilidade de fazer algo diante do poder dos fatos, sob os quais fica vencido o homem. Fonte: Freire (1983, p.&#160;105).</texto>
+                <texto>A </texto>
+                <negrito>consciência crítica</negrito>
+                <texto> “[...] é a representação das coisas e dos fatos como se dão na existência empírica. Nas suas correlações causais e circunstanciais [...] A </texto>
+                <negrito>consciência ingênua</negrito>
+                <texto> (pelo contrário) se crê superior aos fatos, dominando-os de fora e, por isso, se julga livre para entendê-los conforme melhor lhe agradar [...] A </texto>
+                <negrito>consciência mágica</negrito>
+                <texto>, por outro lado, não chega a acreditar-se ‘superior aos fatos, dominando-as de fora, nem se julga livre para entendê-los como melhor lhe agradar’. Simplesmente os capta, emprestando-lhes um poder superior, que a domina de fora e a que tem, por isso mesmo, de submeter-se com docilidade. É próprio dessa consciência o fatalismo, que leva ao cruzamento dos braços, à impossibilidade de fazer algo diante do poder dos fatos, sob os quais fica vencido o homem. Fonte: Freire (1983, p.&#160;105).</texto>
             </paragrafo>
         </popup>
 
@@ -2888,7 +2904,7 @@
             </texto>
         </paragrafo>
         
-        <imagem url="images/mapa-assentamento.jpg" />
+        <imagem url="images/mapa-assentamento.jpg" maior="images/mapa-assentamento-original.jpg" tamanhoMaior="200%" />
         
         <paragrafo estilo="elementos_rodape">
             <texto>
@@ -2904,23 +2920,14 @@
         </paragrafo>
         <paragrafo>
             <texto>
-                No assentamento Cachoeira, no município de Uruanã de Minas, por exemplo, depois de apresentado o mapa, uma discussão na coletividade sobre o melhor caminho para a passagem da “rede tronco” de energia elétrica apontou a alternativa de seguir um alinhamento no fundo dos lotes da mata que continuasse pelo “eixão” (estrada principal projetada no mapa). No entanto, a coletividade acabou concluindo que a rede deveria passar pela estrada principal projetada no mapa. As projeções de parte e final do mapa podem ser observadas nas Fotografias 2 e 3, e as explicações de cada um sobre a paisagem futura da sua chácara podem ser conferidas no Quadro 5.
+                No assentamento Cachoeira, no município de Uruanã de Minas, por exemplo, depois de apresentado o mapa, uma discussão na coletividade sobre o melhor caminho para a passagem da “rede tronco” de energia elétrica apontou a alternativa de seguir um alinhamento no fundo dos lotes da mata que continuasse pelo “eixão” (estrada principal projetada no mapa). No entanto, a coletividade acabou concluindo que a rede deveria passar pela estrada principal projetada no mapa. As projeções de parte e final do mapa podem ser observadas na galeria de fotos a seguir, e as explicações de cada um sobre a paisagem futura da sua chácara podem ser conferidas no Quadro 5.
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="elementos_titulo">
-            <texto>
-                Fotografia 2 – Momento de explicação de um membro da coletividade 
-            </texto>
-        </paragrafo>
-        
-        <imagem url="images/foto2.jpg" />
-
-        <paragrafo estilo="elementos_rodape">
-            <texto>
-                Fonte: Acervo pessoal (2001)
-            </texto>
-        </paragrafo>
+        <galeria>
+            <imagem url="images/foto2.jpg" textoCanto="1 / 2" textoSuperior="Fotografia 2 – Momento de explicação de um membro da coletividade." textoInferior=" Fonte: Acervo pessoal (2001)" />
+            <imagem url="images/foto3.jpg" textoCanto="2 / 2" textoSuperior="Fotografia 3 – Mapa de utilização do espaço produtivo e social do assentamento Cachoeira." textoInferior="Fonte: Pereira (2001b, p.&#160;5)" />
+        </galeria>        
         
         <paragrafo estilo="elementos_titulo">
             <texto>
@@ -3232,22 +3239,6 @@
             <texto>. (2002, p.&#160;8)</texto>
         </paragrafo>
         
-        <paragrafo estilo="elementos_titulo">
-            <texto>
-                Fotografia 3 – Mapa de utilização do espaço produtivo e social do assentamento Cachoeira
-            </texto>
-        </paragrafo>
-        
-        <imagem url="images/foto3.jpg" />
-        
-        <paragrafo estilo="elementos_rodape">
-            <texto>
-                Fonte: Pereira (2001b, p.&#160;5)
-            </texto>
-        </paragrafo>
-
-
-
         <paragrafo>
             <texto>
                 Vale ressaltar a discussão sobre a localização das casas nos lotes e suas implicações, como a questão da rede elétrica, que foi levantada pela equipe interdisciplinar. Outros aspectos sobre a forma como a coletividade percebeu o espaço do assentamento podem ser observados na Figura 5.
@@ -3267,7 +3258,7 @@
             </texto>
         </paragrafo>
         
-        <imagem url="images/mapa-desenhado.jpg" />
+        <imagem estilo="imagem60" url="images/mapa-desenhado.jpg" maior="images/mapa-desenhado-original.jpg" tamanhoMaior="100%" />
 
         <paragrafo estilo="elementos_rodape">
             <texto>
@@ -3348,7 +3339,7 @@
             </texto>
         </paragrafo>
         
-        <imagem url="images/mapa12.jpg" />
+        <imagem estilo="imagem60" url="images/mapa12.jpg" maior="images/mapa12-original.jpg" tamanhoMaior="100%" />
         
         <paragrafo estilo="elementos_rodape">
             <texto>
@@ -3369,7 +3360,7 @@
         <paragrafo estilo="elementos_titulo">
             <texto>Figura 7 – Descrição de uma caminhada transversal no  assentamento Cachoeira</texto>
         </paragrafo>
-        <imagem url="images/descricao-caminhada.jpg" />
+        <imagem url="images/descricao-caminhada.jpg" maior="images/descricao-caminhada-original.jpg" tamanhoMaior="100%" />
         <paragrafo estilo="elementos_rodape">
             <texto>Fonte: Adaptada de Pereira  
             </texto>
@@ -3516,7 +3507,7 @@
         <paragrafo estilo="elementos_titulo">
             <texto>Figura 8 – Diagrama de Venn da COCAPEC</texto>
         </paragrafo>
-        <imagem url="images/cocapec.jpg" />
+        <imagem estilo="imagem60" url="images/cocapec.jpg" maior="images/cocapec-original.jpg" tamanhoMaior="100%" />
         <paragrafo estilo="elementos_rodape">
             <texto>Fonte: Adaptada de Pereira (2004b)</texto>
         </paragrafo>
@@ -3528,20 +3519,25 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao">
-            <texto>“O banco é importante porque é fácil para a gente trabalhar”. (Avaliação&#160;1)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“O banco é importante porque é fácil para a gente trabalhar.”</italico>
+            <texto> (Avaliação&#160;1)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“Nenhum outro banco trata o cooperado igual ao banco da cooperativa”. (Avaliação&#160;2)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“Nenhum outro banco trata o cooperado igual ao banco da cooperativa.”</italico>
+            <texto> (Avaliação&#160;2)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“Tamanho do banco igual ao da COCAPEC porque a cooperativa não sobrevive sem o banco e nem o    banco sem a cooperativa”. (Avaliação&#160;3)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“Tamanho do banco igual ao da COCAPEC porque a cooperativa não sobrevive sem o banco e nem o banco sem a cooperativa.”</italico>
+            <texto> (Avaliação&#160;3)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“A credicocapec foi criada para complementar.” (Avaliação&#160;4)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“A credicocapec foi criada para complementar.”</italico>
+            <texto> (Avaliação&#160;4)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“Às vezes, o banco traz mais benefícios do que a cooperativa.” (Avaliação&#160;5) 	</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“Às vezes, o banco traz mais benefícios do que a cooperativa.”</italico>
+            <texto> (Avaliação&#160;5)</texto>
         </paragrafo>
         
         
@@ -3556,11 +3552,15 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao">
-            <texto>“Menor do que a COCAPEC”. (Avaliação&#160;6)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“Menor do que a COCAPEC.”</italico>
+            <texto> (Avaliação&#160;6)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“Do lado de fora”. (Avaliação&#160;7)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <texto>
+            </texto>
+            <italico>“Do lado de fora.”</italico>
+            <texto> (Avaliação&#160;7)</texto>
         </paragrafo>
         
         
@@ -3610,7 +3610,7 @@
         <paragrafo estilo="elementos_titulo">
             <texto>Figura 9 – Diagrama de Venn do assentamento Cachoeira</texto>
         </paragrafo>
-        <imagem url="images/assentamento-cachoeira.jpg" />
+        <imagem estilo="imagem50" url="images/assentamento-cachoeira.jpg" maior="images/assentamento-cachoeira-original.jpg" tamanhoMaior="100%"/>
         <paragrafo estilo="elementos_rodape">
             <texto>Fonte: Adaptada de Pereira </texto>
             <italico>et al</italico>
@@ -3642,11 +3642,13 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao">
-            <texto>“O Sindicato representa o Trabalhador.” (Avaliação&#160;8)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“O Sindicato representa o Trabalhador.”</italico>
+            <texto> (Avaliação&#160;8)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“O Sindicato é importante, mas se a gente quiser alguma coisa, tem que ir atrás.” (Avaliação&#160;9)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“O Sindicato é importante, mas se a gente quiser alguma coisa, tem que ir atrás.”</italico>
+            <texto> (Avaliação&#160;9)</texto>
         </paragrafo>
 
         <paragrafo>
@@ -3655,11 +3657,13 @@
             </texto>
         </paragrafo>
 
-            <paragrafo estilo="avaliacao">
-                <texto>“Sindicato ajuda em algumas conquistas e foi quem cedeu esta área, mas às vezes eles querem é aumentar o número de associados.” (Avaliação&#160;10)</texto>
+            <paragrafo estilo="avaliacao_esquerda">
+                <italico>“Sindicato ajuda em algumas conquistas e foi quem cedeu esta área, mas às vezes eles querem é aumentar o número de associados.”</italico>
+                <texto> (Avaliação&#160;10)</texto>
             </paragrafo>
-            <paragrafo estilo="avaliacao texto_direita">
-                <texto>“Fazem cobranças por direitos que não vêm.” (Avaliação&#160;11)</texto>
+            <paragrafo estilo="avaliacao_direita">
+                <italico>“Fazem cobranças por direitos que não vêm.”</italico>
+                <texto> (Avaliação&#160;11)</texto>
             </paragrafo>
 
         <paragrafo>
@@ -3668,8 +3672,9 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao">
-            <texto>“Eles vieram aqui uma vez, deram uma palestra que nem era do nosso interesse, e nunca mais voltaram aqui.” (Avaliação&#160;12)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“Eles vieram aqui uma vez, deram uma palestra que nem era do nosso interesse, e nunca mais voltaram aqui.”</italico>
+            <texto> (Avaliação&#160;12)</texto>
         </paragrafo>
 
 
@@ -3692,20 +3697,20 @@
             </item>
             <item>
                 <texto>Importância do INCRA ao desenharem o círculo maior do que o da APRAC – </texto>
-            <italico>“Sem o INCRA, não existiria o assentamento, sequer a associação.”</italico>
-            <texto> (Avaliação&#160;14).</texto>
+                <italico>“Sem o INCRA, não existiria o assentamento, sequer a associação.”</italico>
+                <texto> (Avaliação&#160;14).</texto>
             </item>
             <item>
                 <texto>Importância do INCRA ao desenharem o círculo um pouco menor do que o da APRAC – </texto>
-            <italico>“A bola do INCRA pode diminuir de tamanho, porque eles estão aqui no assentamento há três anos, mas a associação é que corre atrás.”</italico>
-            <texto> (Avaliação&#160;15).</texto>
+                <italico>“A bola do INCRA pode diminuir de tamanho, porque eles estão aqui no assentamento há três anos, mas a associação é que corre atrás.”</italico>
+                <texto> (Avaliação&#160;15).</texto>
             </item>
             <item>
                 <texto>Importância do INCRA ao desenharem o círculo bem maior do que o da APRAC – </texto>
-            <italico>“Com toda a lentidão, eu agradeço ao INCRA por estar em casa própria, em terra própria e em condições de trabalhar e pagar por isso.”</italico>
-            <texto> (Avaliação&#160;16) e </texto>
-            <italico>“Eu acho que essa bola mudando muito ainda vai derrubar alguém; macaco que pula muito, uma hora ele pula no galho seco e cai.”</italico>
-            <texto> (Avaliação&#160;17).</texto>
+                <italico>“Com toda a lentidão, eu agradeço ao INCRA por estar em casa própria, em terra própria e em condições de trabalhar e pagar por isso.”</italico>
+                <texto> (Avaliação&#160;16) e </texto>
+                <italico>“Eu acho que essa bola mudando muito ainda vai derrubar alguém; macaco que pula muito, uma hora ele pula no galho seco e cai.”</italico>
+                <texto> (Avaliação&#160;17).</texto>
             </item>
         </lista>
         <paragrafo>
@@ -3713,8 +3718,9 @@
                 Por último, chegaram ao consenso de que a importância do INCRA é bem maior, desenhando a bola quase três vezes maior do que a da associação. Por outro lado, os assentados demonstraram consciência da realidade que envolve a relação deles com o INCRA e do papel dessa instituição no processo de “reforma agrária”. Nesse sentido, desenharam o círculo do INCRA em pequena interseção com o círculo da APRAC, o que significa atuação aquém do desejado, posição que foi aprovada pela maioria dos assentados presentes (13 a favor e 2 contra), como pode ser avaliado na frase a seguir.
             </texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“O INCRA está próximo, mas vai ter um dia que ele vai se afastar, à medida que for cumprindo os compromissos com o assentamento                (encaminhar água, luz, energia etc.). Já cumpriu metade das obrigações.” (Avaliação&#160;18)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“O INCRA está próximo, mas vai ter um dia que ele vai se afastar, à medida que for cumprindo os compromissos com o assentamento (encaminhar água, luz, energia etc.). Já cumpriu metade das obrigações.” </italico>
+            <texto> (Avaliação&#160;18)</texto>
         </paragrafo>
 
         <subsubsecao>Prefeitura Municipal de Uruanã de Minas</subsubsecao>
@@ -3724,11 +3730,13 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“Tudo que a gente precisa, passa primeiro pela associação.” [Desenha o círculo um pouco menor do que o da Associação]. (Avaliação&#160;19)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“Tudo que a gente precisa, passa primeiro pela associação.” </italico>
+            <texto> [Desenha o círculo um pouco menor do que o da Associação]. (Avaliação&#160;19)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“A Prefeitura faz e pode fazer mais pelo assentamento, em parceria com o INCRA. A secretária disse que não tinha contato com o INCRA, aí eu disse é fácil, eu tenho o telefone, e dei a ela.” (Avaliação&#160;20)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“A Prefeitura faz e pode fazer mais pelo assentamento, em parceria com o INCRA. A secretária disse que não tinha contato com o INCRA, aí eu disse é fácil, eu tenho o telefone, e dei a ela.”</italico>
+            <texto> (Avaliação&#160;20)</texto>
         </paragrafo>
         <paragrafo>
             <texto>
@@ -3736,11 +3744,13 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“Eu voto que eles estão se aproximando, mas ainda não estão dentro. De vez em quando vem algum vereador aqui, mas nunca veio o prefeito, eles não conhecem a nossa realidade.” (Avaliação&#160;21) </texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“Eu voto que eles estão se aproximando, mas ainda não estão dentro. De vez em quando vem algum vereador aqui, mas nunca veio o prefeito, eles não conhecem a nossa realidade.”</italico>
+            <texto> (Avaliação&#160;21)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“A Prefeitura participa bastante no assentamento.”   (Avaliação&#160;22) </texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“A Prefeitura participa bastante no assentamento.”</italico>
+            <texto> (Avaliação&#160;22) </texto>
         </paragrafo>
         
 
@@ -3751,11 +3761,13 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“A EMATER é importante, mas a gente tem que ir atrás deles.” [Desenha o círculo menor que o da Associação.] (Avaliação&#160;23) </texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“A EMATER é importante, mas a gente tem que ir atrás deles.” </italico>
+            <texto>[Desenha o círculo menor que o da Associação.] (Avaliação&#160;23) </texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“A gente não depende da EMATER para produzir, mas depende para produzir bem”. (Avaliação&#160;24) </texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“A gente não depende da EMATER para produzir, mas depende para produzir bem.”</italico>
+            <texto> (Avaliação&#160;24)</texto>
         </paragrafo>
         
         
@@ -3765,8 +3777,9 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“Acho que eles têm grande conhecimento sobre agricultura e podem nos ajudar”. (Avaliação&#160;25)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“Acho que eles têm grande conhecimento sobre agricultura e podem nos ajudar.”</italico>
+            <texto> (Avaliação&#160;25)</texto>
         </paragrafo>
 
 
@@ -3777,8 +3790,9 @@
             </texto>
         </paragrafo>
 
-        <paragrafo estilo="avaliacao">
-            <texto>“Eu sei que eles vieram aqui fazer um cartão, marcar o gado, vacinar o gado, registrar etc.” (Avaliação&#160;26)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“Eu sei que eles vieram aqui fazer um cartão, marcar o gado, vacinar o gado, registrar etc.”</italico>
+            <texto> (Avaliação&#160;26)</texto>
         </paragrafo>
         
         <paragrafo>
@@ -3880,17 +3894,21 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao">
-            <texto>“[...] do rio a gente tira tudo”.  (Fala 1)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“[...] do rio a gente tira tudo.”</italico>
+            <texto> (Fala&#160;1)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“[...] o rio é uma mãe para gente”. (Fala 2)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“[...] o rio é uma mãe para gente.”</italico>
+            <texto> (Fala&#160;2)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“[...] o rio é tudo! Além do peixe e do ouro, retiramos ainda a areia e o cascalho”. (Fala 3)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“[...] o rio é tudo! Além do peixe e do ouro, retiramos ainda a areia e o cascalho.”</italico>
+            <texto> (Fala&#160;3)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“[...] é o nosso quebra galho”. [dizem isso considerando que um caminhão de areia custava cinquenta reais, e um de pedra oitenta]. (Fala 4) </texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“[...] é o nosso quebra galho.”</italico>
+            <texto> [dizem isso considerando que um caminhão de areia custava cinquenta reais, e um de pedra oitenta]. (Fala&#160;4) </texto>
         </paragrafo>
         
         <paragrafo>
@@ -5914,13 +5932,17 @@
             <item>
                 <texto>Um jardim onde plantariam flores, frutas e hortaliças para consumo e venda do excedente.</texto>
                 <quebralinha />
-                <texto>“O jardim tá em volta da casa.” (Comentário 1)</texto>
+                <italico>“O jardim tá em volta da casa.”</italico>
+                <texto> (Comentário&#160;1)</texto>
                 <quebralinha />
-                <texto>“Eu cuido do jardim.” (Comentário 2)</texto>
+                <italico>“Eu cuido do jardim.”</italico>
+                <texto> (Comentário&#160;2)</texto>
                 <quebralinha />
-                <texto>“Em volta tem um jardim com acerola, manga, horta, pequenos animais como cachorro, gato, galinha.” (Comentário 3)</texto>
+                <italico>“Em volta tem um jardim com acerola, manga, horta, pequenos animais como cachorro, gato, galinha.”</italico>
+                <texto> (Comentário&#160;3)</texto>
                 <quebralinha />
-                <texto>“Varanda com jardim na frente, garagem do lado do corredor para o quintal.” (Comentário 4)</texto>
+                <italico>“Varanda com jardim na frente, garagem do lado do corredor para o quintal.”</italico>
+                <texto> (Comentário&#160;4)</texto>
             </item>
             <item>
                 <texto>Uma cozinha ampla.</texto>
@@ -5928,16 +5950,19 @@
             <item>
                 <texto>Uma área de serviço.</texto>
                 <quebralinha />
-                <texto>“Na área de serviço tem fogão e forno a lenha, e para lavar roupa no terraço.” (Comentário 5)</texto>
+                <italico>“Na área de serviço tem fogão e forno a lenha, e para lavar roupa no terraço.”</italico>
+                <texto> (Comentário&#160;5)</texto>
                 <quebralinha />
-                <texto>“Tem gente da comunidade que faz forno a lenha para preparo de bolos para o próprio consumo e para a venda, farinha de mandioca.” (Comentário 6)</texto>
+                <italico>“Tem gente da comunidade que faz forno a lenha para preparo de bolos para o próprio consumo e para a venda, farinha de mandioca.”</italico>
+                <texto> (Comentário&#160;6)</texto>
             </item>
             
             
             <item>
                 <texto>Banheiros de frente para os quartos.</texto>
                 <quebralinha />
-                <texto>“O banheirinho que o Consórcio ta fazendo é deeeesse tamanho.” (Comentário 7)</texto>
+                <italico>“O banheirinho que o Consórcio ta fazendo é deeeesse tamanho.”</italico>
+                <texto> (Comentário&#160;7)</texto>
             </item>
             
             <item>
@@ -5946,16 +5971,19 @@
             <item>
                 <texto>Quatro quartos.</texto>
                 <quebralinha />
-                <texto>“Que caibam os móveis que temos.” (Comentário 8)</texto>
+                <italico>“Que caibam os móveis que temos.”</italico>
+                <texto> (Comentário&#160;8)</texto>
                 <quebralinha />
-                <texto>“Teria que ter no mínimo três quartos, mas isso depende da quantidade de pessoas que tem na família.” (Comentário 9)</texto>
+                <italico>“Teria que ter no mínimo três quartos, mas isso depende da quantidade de pessoas que tem na família.”</italico>
+                <texto> (Comentário&#160;9)</texto>
             </item>
             
             
             <item>
                 <texto>Garagem com grade e portão.</texto>
                 <quebralinha />
-                <texto>“O parente pode visitar e usar a garagem.” (Comentário 10)</texto>
+                <italico>“O parente pode visitar e usar a garagem.”</italico>
+                <texto> (Comentário&#160;10)</texto>
             </item>
             
             <item>
@@ -5968,25 +5996,14 @@
         
         <paragrafo>
             <texto>
-                Em outro exemplo de autilização dessa técnica, com professores e monitores da Escola Família Agrícola (EFA) do município de Virgem da Lapa, Minas Gerais, ela foi realizada para promover a reflexão crítica deles sobre a situação atual e a situação futura da escola e das famílias dos estudantes que vivem naquele município, especificamente sobre a agricultura praticada pelas famílias dos alunos e a expectativa de futuro que eles tinham para essa agricultura. Primeiramente foram coletados, na área de cultivo da escola, materiais diversos para a construção da representação da agricultura atual e futura. Os participantes foram divididos em dois grupos para realizar essa atividade e, depois de construídas as representações, apresentaram os significados das “construções”, conforme as Fotografias 6 e 7.  
+                Em outro exemplo de autilização dessa técnica, com professores e monitores da Escola Família Agrícola (EFA) do município de Virgem da Lapa, Minas Gerais, ela foi realizada para promover a reflexão crítica deles sobre a situação atual e a situação futura da escola e das famílias dos estudantes que vivem naquele município, especificamente sobre a agricultura praticada pelas famílias dos alunos e a expectativa de futuro que eles tinham para essa agricultura. Primeiramente foram coletados, na área de cultivo da escola, materiais diversos para a construção da representação da agricultura atual e futura. Os participantes foram divididos em dois grupos para realizar essa atividade e, depois de construídas as representações, apresentaram os significados das “construções”, conforme a galeria a seguir.  
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="elementos_titulo">
-            <texto>Fotografia 6 – Técnica da construção com os monitores da EFA</texto>
-        </paragrafo>
-        <imagem url="images/foto6.jpg" />
-        <paragrafo estilo="elementos_rodape">
-            <texto>Fonte: Acervo pessoal (2003)</texto>
-        </paragrafo>
-        
-        <paragrafo estilo="elementos_titulo">
-            <texto>Fotografia 7 – Técnica da “construção” com os monitores da EFA</texto>
-        </paragrafo>
-        <imagem url="images/foto7.jpg" />
-        <paragrafo estilo="elementos_rodape">
-            <texto>Fonte: Acervo pessoal (2003)</texto>
-        </paragrafo>
+        <galeria>
+            <imagem url="images/foto6.jpg" textoSuperior="Fotografia 6 – Técnica da construção com os monitores da EFA" textoInferior="Fonte: Acervo pessoal (2003)" textoCanto="1 / 2"/>
+            <imagem url="images/foto7.jpg" textoSuperior="Fotografia 7 – Técnica da “construção” com os monitores da EFA" textoInferior="Fonte: Acervo pessoal (2003)" textoCanto="2 / 2"/>
+        </galeria>
 
 
         
@@ -6356,14 +6373,17 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao">
-            <texto>“A gente somos do campo e, se reunir, podemos conseguir.” (Argumento 1)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“A gente somos do campo e, se reunir, podemos conseguir.”</italico>
+            <texto> (Argumento&#160;1)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
-            <texto>“O material significa aquilo que precisamos para o assentamento, aquilo que a gente espera.” (Argumento 2)</texto>
+        <paragrafo estilo="avaliacao_direita">
+            <italico>“O material significa aquilo que precisamos para o assentamento, aquilo que a gente espera.”</italico>
+            <texto> (Argumento&#160;2)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
-            <texto>“Sonho de um galpão do campo de cerrado, com um trator, caminhão para transportar o alimento para vender, poço artesiano, rede de energia elétrica, calcário e adubo.” (Argumento 3)</texto>
+        <paragrafo estilo="avaliacao_esquerda">
+            <italico>“Sonho de um galpão do campo de cerrado, com um trator, caminhão para transportar o alimento para vender, poço artesiano, rede de energia elétrica, calcário e adubo.”</italico>
+            <texto> (Argumento&#160;3)</texto>
         </paragrafo>
         
         <paragrafo>
@@ -7117,17 +7137,17 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao">
+        <paragrafo estilo="avaliacao_esquerda">
             <italico>“[...] temos que trabalhar juntos e não desenvolver produtos para serem concorrentes dentro da cooperativa.”</italico>
-            <texto> (Comentário 11)</texto>
+            <texto> (Comentário&#160;11)</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao texto_direita">
+        <paragrafo estilo="avaliacao_direita">
             <italico>“[...] a esteira é uma linha nova, nós vamos precisar de gente para aprender a fazer trama.”</italico>
-            <texto> (Comentário 12).</texto>
+            <texto> (Comentário&#160;12).</texto>
         </paragrafo>
-        <paragrafo estilo="avaliacao">
+        <paragrafo estilo="avaliacao_esquerda">
             <italico>“[...] temos que ter convergência de ideias em torno da produção das peças.”</italico>
-            <texto> (Comentário 12).</texto>
+            <texto> (Comentário&#160;13).</texto>
         </paragrafo>
         
         <paragrafo>
@@ -7136,9 +7156,9 @@
             </texto>
         </paragrafo>
         
-        <paragrafo estilo="avaliacao texto_direita">
+        <paragrafo estilo="avaliacao_direita">
             <italico>“[...] convocação não é convite. Muitos não têm consciência disso.”</italico>
-            <texto> (Comentário 12) </texto>
+            <texto> (Comentário 14) </texto>
         </paragrafo>
 
         <paragrafo>

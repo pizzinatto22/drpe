@@ -47,7 +47,7 @@ class Parser {
     }
     
     public function all() {
-        return implode("\n", $this->pages) . $this->indexMaker->html() . $this->tableModalContainer();
+        return implode("\n", $this->pages) . $this->indexMaker->html() . $this->tableModalContainer() . $this->imageModalContainer();
     }
     
     public function title() {
@@ -69,6 +69,20 @@ class Parser {
         
         return $html;
     }
+    
+    private function imageModalContainer() {
+        $html  = "<div class='modal' id='POPUP_IMAGES'>";
+        $html .= "   <div class='modal-content'>";
+        $html .= "      <img src='images/increase.png' class='modal-increase' onclick='changePopupImageSize(+150)'>";
+        $html .= "      <img src='images/decrease.png' class='modal-decrease' onclick='changePopupImageSize(-150)'>";
+        $html .= "      <img src='images/close.png' class='modal-close'>";
+        $html .= "      <img id='modal-image' class='modal-image'>";
+        $html .= "   </div>";
+        $html .= "</div>";
+        
+        return $html;
+    }
+
     
     
 }
