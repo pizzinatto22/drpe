@@ -104,11 +104,17 @@ body {
     line-height: 40px;
 }
 
-.citacao {
-    font-size: 22px;
+.citacao,
+.citacao .itemlista{
+    font-size: 21px;
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
-    line-height: 35px;    
+    line-height: 31px;    
+}
+
+.citacao .itemlista {
+    margin-left: 0;
+    list-style-position: inside;
 }
 
 .capitulo{
@@ -401,8 +407,8 @@ body {
 }
 
 .nota_tabela_verde {
-    font-size: 20px;
-    line-height: 32px;
+    font-size: 12px;
+    line-height: 18px;
     color: white;
     text-indent: 0;
     background-color: rgb(80, 137, 127);

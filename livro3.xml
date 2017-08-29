@@ -623,7 +623,7 @@
             </item>
             <item>
                 <negrito>Social Intervention and Collective Action in the Process of Recycling at Lavras City, Minas Gerais State Brazil</negrito>
-                <texto>, de E. E. Sila, E. Zwick, J. R. Pererira, L. M. Bicalho, K. C. P. Silva e L. C. Oliveira, apresentado no The ISWA World Solid Waste Congress, em Florença, Itália, em 2012.</texto>
+                <texto>, de E. E. Sila, E. Zwick, J. R. Pereira, L. M. Bicalho, K. C. P. Silva e L. C. Oliveira, apresentado no The ISWA World Solid Waste Congress, em Florença, Itália, em 2012.</texto>
             </item>
         </lista>
     </pagina>    
@@ -1205,7 +1205,7 @@
             </texto>
         </paragrafo>
         
-        <lista estilo="alfabetica">
+        <lista estilo="alfabetica citacao">
             <item>
                 <texto>
                     é um método não diretivo e procura, ao contrário da imposição de conhecimentos e idéias, explorar o ambiente sócio-político, onde os setores não privilegiados estão inseridos, com o objetivo de estruturar os problemas a serem enfrentados;
@@ -1590,7 +1590,7 @@
                 que pode expressar o poder ou a capacidade de influenciar decisões políticas, seja de uma organização, seja de uma instituição, seja do Estado (sistema, na concepção de Habermas). Para Alencar (2001), esses subprocessos são cumulativos e contínuos, ou seja, cada subprocesso influencia o outro ao longo de um dado período de tempo por meio das práticas cotidianas de ação-reflexão-ação transformadora. Portanto, a estratégia de intervenção por meio da educação participativa pressupõe uma pedagogia da autonomia na perspectiva que nos apresenta Freire (1996, p.&#160;165) ao considerar 27 exigências para construir os saberes necessários à prática educativa, quais sejam:
             </texto>
         </paragrafo>
-        <lista>
+        <lista estilo="citacao">
             <item>
                 <texto>rigorosidade metódica;</texto>
             </item>
@@ -1765,7 +1765,7 @@
                 As ações dos grupos mediadores nos assentamentos podem ser identificadas no estudo de D’Incao e Roy (1995, p.&#160;257−258) por meio de diferentes discursos que, segundo os autores, expressam os mecanismos de reprodução do poder constituído:
             </texto>
         </paragrafo>
-        <lista estilo="alfabetica">
+        <lista estilo="alfabetica citacao">
             <item>
                 <texto>discurso do militante − representa a defesa de uma causa em detrimento do reconhecimento de cada um dos produtores associados;</texto>
             </item>
@@ -1802,7 +1802,7 @@
             </texto>
         </paragrafo>
         
-        <lista estilo="alfabetica">
+        <lista estilo="alfabetica citacao">
             <item>
                 <texto>plano axiológico − refere-se a um julgamento de valor como: “o outro é bom ou mau, me é igual ou me é inferior”;</texto>
             </item>
@@ -3826,7 +3826,7 @@
         </paragrafo>
         <grafico id="grafico1"></grafico>
         <paragrafo estilo="elementos_rodape">
-            <texto>Fonte: Adaptado de Pererira (1998, p.&#160;177)</texto>
+            <texto>Fonte: Adaptado de Pereira (1998, p.&#160;177)</texto>
         </paragrafo>
 
         
@@ -4603,11 +4603,13 @@
         </paragrafo>
         
         <paragrafo estilo="elementos_titulo">
-            <texto></texto>
+            <texto>Gráfico 2 – Calendário sazonal do trabalho no rio</texto>
         </paragrafo>
         <grafico id="grafico2"></grafico>
         <paragrafo estilo="elementos_rodape">
-            <texto></texto>
+            <texto>Fonte: Adaptado de Pereira </texto>
+            <italico>et al</italico>
+            <texto>. (2004c, p.&#160;38)</texto>
         </paragrafo>
 
         
@@ -4616,8 +4618,16 @@
                 O Gráfico 3, a seguir, mostra as atividades daqueles grupos familiares formados por garimpeiros e meeiros ao mesmo tempo. As atividades que demandam maior intensidade relativa de trabalho são o garimpo, seguido da agricultura. 
             </texto>
         </paragrafo>
-
-
+        
+        <paragrafo estilo="elementos_titulo">
+            <texto>Gráfico 3 – Calendário do trabalho de garimpeiros e meeiros</texto>
+        </paragrafo>
+        <grafico id="grafico3"></grafico>
+        <paragrafo estilo="elementos_rodape">
+            <texto>Fonte: Adaptado de Pereira </texto>
+            <italico>et al</italico>
+            <texto>. (2004c, p.&#160;39)</texto>
+        </paragrafo>
 
 
         <paragrafo>
@@ -4625,11 +4635,33 @@
                 O Gráfico 4 apresenta o conjunto de atividades dos agricultores familiares e a intensidade relativa de trabalho distribuída entre eles, envolvendo no máximo 35 dias/homem.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="elementos_titulo">
+            <texto>Gráfico 4 – Calendário sazonal de trabalho dos proprietários</texto>
+        </paragrafo>
+        <grafico id="grafico4"></grafico>
+        <paragrafo estilo="elementos_rodape">
+            <texto>Fonte: Adaptado de Pereira </texto>
+            <italico>et al</italico>
+            <texto>. (2004c, p.&#160;39)</texto>
+        </paragrafo>
+
         <paragrafo>
             <texto>
                 O Gráfico 5 apresenta o total dias/homem necessário para o desenvolvimento de todas as atividades. Pode-se comparar o total do conjunto de atividades com cada uma delas e verificar sua distribuição mês a mês.
             </texto>
         </paragrafo>
+        
+        <paragrafo estilo="elementos_titulo">
+            <texto>Gráfico 5 – Calendário sazonal do trabalho em São Sebastião do Soberbo</texto>
+        </paragrafo>
+        <grafico id="grafico5"></grafico>
+        <paragrafo estilo="elementos_rodape">
+            <texto>Fonte: Adaptado de Pereira </texto>
+            <italico>et al</italico>
+            <texto>. (2004c, p.&#160;40)</texto>
+        </paragrafo>
+
         
         <popup id="POPUP_REQUEIROS">
             <chamada estilo="saibamais">
@@ -5872,8 +5904,7 @@
         </chamada>
         
         <paragrafo estilo="elementos_rodape">
-            <texto>Fonte: Adptado de Pereira 
-            </texto>
+            <texto>Fonte: Adaptado de Pereira </texto>
             <italico>et al</italico>
             <texto>. (2001a, p.&#160;24)</texto>
         </paragrafo>
